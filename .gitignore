@@ -1,0 +1,26 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
+__MACOSX/
+.ipynb_checkpoints/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# IDE settings
+.vscode/
+.idea/
+data/RR_DATASETS/Data Pack/
+outputs/
+reports/final_submission/
+pdf_audit_text.txt
