@@ -1,0 +1,1725 @@
+match_id,competition,season,innings,delivery_records,legal_balls,wickets,scheduled_limit_balls,source_component_subtotal,unresolved_secondary_runs,additive_candidate_total,source_revised_target,completion_status,match_result
+13511,England in West Indies T20I Series 2022,2022,1,121,118,10,120,103,0,103,,all_out,West Indies Won by 9 Wickets
+13511,England in West Indies T20I Series 2022,2022,2,103,103,1,120,104,0,104,,target_reached,West Indies Won by 9 Wickets
+13512,England in West Indies T20I Series 2022,2022,1,128,120,8,120,171,0,171,,scheduled_balls_completed,England Won by 1 Run
+13512,England in West Indies T20I Series 2022,2022,2,124,120,8,120,170,0,170,,scheduled_balls_completed,England Won by 1 Run
+13513,England in West Indies T20I Series 2022,2022,1,125,121,5,120,224,0,224,,scheduled_balls_completed,West Indies Won by 20 runs
+13513,England in West Indies T20I Series 2022,2022,2,127,120,9,120,204,0,204,,scheduled_balls_completed,West Indies Won by 20 runs
+13514,England in West Indies T20I Series 2022,2022,1,128,120,6,120,193,0,193,,scheduled_balls_completed,England Won by 34 runs
+13514,England in West Indies T20I Series 2022,2022,2,125,120,5,120,159,0,159,,scheduled_balls_completed,England Won by 34 runs
+13515,England in West Indies T20I Series 2022,2022,1,127,121,4,120,179,0,179,,scheduled_balls_completed,West Indies Won by 17 runs
+13515,England in West Indies T20I Series 2022,2022,2,127,120,10,120,162,0,162,,all_out,West Indies Won by 17 runs
+13522,West Indies in India T20I Series 2022,2022,1,131,120,7,120,157,0,157,,scheduled_balls_completed,India Won by 6 Wickets
+13522,West Indies in India T20I Series 2022,2022,2,116,113,4,120,162,0,162,,target_reached,India Won by 6 Wickets
+13523,West Indies in India T20I Series 2022,2022,1,130,120,5,120,182,4,186,,scheduled_balls_completed,India Won by 8 Runs
+13523,West Indies in India T20I Series 2022,2022,2,127,120,3,120,178,0,178,,scheduled_balls_completed,India Won by 8 Runs
+13524,West Indies in India T20I Series 2022,2022,1,124,120,5,120,184,0,184,,scheduled_balls_completed,India Won by 17 runs
+13524,West Indies in India T20I Series 2022,2022,2,127,120,9,120,167,0,167,,scheduled_balls_completed,India Won by 17 runs
+13612,Sri Lanka in Australia T20I Series 2022,2022,1,124,120,9,120,149,0,149,143.0,scheduled_balls_completed,Australia Won by 20 runs (D/L method)
+13612,Sri Lanka in Australia T20I Series 2022,2022,2,118,114,8,114,122,0,122,143.0,scheduled_balls_completed,Australia Won by 20 runs (D/L method)
+13613,Sri Lanka in Australia T20I Series 2022,2022,1,124,120,6,120,164,0,164,,scheduled_balls_completed,Australia Won the one over Eliminator
+13613,Sri Lanka in Australia T20I Series 2022,2022,2,122,120,8,120,164,0,164,,scheduled_balls_completed,Australia Won the one over Eliminator
+13614,Sri Lanka in Australia T20I Series 2022,2022,1,125,121,6,120,117,4,121,,scheduled_balls_completed,Australia Won by 6 Wkts
+13614,Sri Lanka in Australia T20I Series 2022,2022,2,102,102,4,120,124,0,124,,target_reached,Australia Won by 6 Wkts
+13615,Sri Lanka in Australia T20I Series 2022,2022,1,121,120,8,120,139,0,139,,scheduled_balls_completed,Australia Won by 6 Wickets
+13615,Sri Lanka in Australia T20I Series 2022,2022,2,115,109,4,120,143,0,143,,target_reached,Australia Won by 6 Wickets
+13616,Sri Lanka in Australia T20I Series 2022,2022,1,126,120,6,120,154,0,154,,scheduled_balls_completed,Sri Lanka Won by 5 wickets
+13616,Sri Lanka in Australia T20I Series 2022,2022,2,124,119,5,120,155,0,155,,target_reached,Sri Lanka Won by 5 wickets
+14094,IPL 2022,2022,1,126,121,5,120,131,0,131,,scheduled_balls_completed,Kolkata Knight Riders Won by 6 Wkts
+14094,IPL 2022,2022,2,111,111,4,120,133,0,133,,target_reached,Kolkata Knight Riders Won by 6 Wkts
+14095,IPL 2022,2022,1,122,120,5,120,177,0,177,,scheduled_balls_completed,Delhi Capitals Won by 4 Wickets
+14095,IPL 2022,2022,2,117,110,6,120,179,0,179,,target_reached,Delhi Capitals Won by 4 Wickets
+14096,IPL 2022,2022,1,127,120,2,120,205,0,205,,scheduled_balls_completed,Punjab Kings Won by 5 Wkts
+14096,IPL 2022,2022,2,126,114,5,120,208,0,208,,target_reached,Punjab Kings Won by 5 Wkts
+14097,IPL 2022,2022,1,124,120,6,120,158,0,158,,scheduled_balls_completed,Gujarat Titans Won by 5 Wickets
+14097,IPL 2022,2022,2,121,118,5,120,161,0,161,,target_reached,Gujarat Titans Won by 5 Wickets
+14098,IPL 2022,2022,1,130,120,6,120,210,0,210,,scheduled_balls_completed,Rajasthan Royals Won by 61 Runs
+14098,IPL 2022,2022,2,125,121,7,120,149,0,149,,scheduled_balls_completed,Rajasthan Royals Won by 61 Runs
+14099,IPL 2022,2022,1,115,113,10,120,128,0,128,,all_out,Royal Challengers Bengaluru Won 3 Wkts
+14099,IPL 2022,2022,2,121,116,7,120,132,0,132,,target_reached,Royal Challengers Bengaluru Won 3 Wkts
+14100,IPL 2022,2022,1,123,120,7,120,210,0,210,,scheduled_balls_completed,Lucknow Super Giants Won by 6 Wkts
+14100,IPL 2022,2022,2,129,117,4,120,211,0,211,,target_reached,Lucknow Super Giants Won by 6 Wkts
+14101,IPL 2022,2022,1,118,111,10,120,137,0,137,,all_out,Kolkata Knight Riders Won by 6 wkts
+14101,IPL 2022,2022,2,92,87,4,120,141,0,141,,target_reached,Kolkata Knight Riders Won by 6 wkts
+14102,IPL 2022,2022,1,126,120,8,120,193,0,193,,scheduled_balls_completed,Rajasthan Royals Won by 23 Runs
+14102,IPL 2022,2022,2,130,121,8,120,170,0,170,,scheduled_balls_completed,Rajasthan Royals Won by 23 Runs
+14103,IPL 2022,2022,1,124,120,6,120,171,0,171,,scheduled_balls_completed,Gujarat Titans won by 14 runs
+14103,IPL 2022,2022,2,123,120,9,120,157,0,157,,scheduled_balls_completed,Gujarat Titans won by 14 runs
+14104,IPL 2022,2022,1,133,120,8,120,180,0,180,,scheduled_balls_completed,Punjab Kings won by 54 runs
+14104,IPL 2022,2022,2,112,108,10,120,126,0,126,,all_out,Punjab Kings won by 54 runs
+14105,IPL 2022,2022,1,121,120,7,120,169,0,169,,scheduled_balls_completed,Lucknow Super Giants won by 12 Runs
+14105,IPL 2022,2022,2,126,120,9,120,157,0,157,,scheduled_balls_completed,Lucknow Super Giants won by 12 Runs
+14106,IPL 2022,2022,1,125,120,3,120,169,0,169,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 4 Wkts
+14106,IPL 2022,2022,2,122,115,6,120,173,0,173,,target_reached,Royal Challengers Bengaluru Won by 4 Wkts
+14107,IPL 2022,2022,1,121,120,4,120,161,0,161,,scheduled_balls_completed,Kolkata Knight Riders Won by 5 Wickets
+14107,IPL 2022,2022,2,97,97,5,120,162,0,162,,target_reached,Kolkata Knight Riders Won by 5 Wickets
+14108,IPL 2022,2022,1,124,120,3,120,149,0,149,,scheduled_balls_completed,Lucknow Super Giants won by 6 wickets
+14108,IPL 2022,2022,2,122,120,4,120,155,0,155,,target_reached,Lucknow Super Giants won by 6 wickets
+14109,IPL 2022,2022,1,123,120,9,120,189,0,189,,scheduled_balls_completed,Gujarat Titans won by 6 wickets
+14109,IPL 2022,2022,2,124,120,4,120,190,0,190,,target_reached,Gujarat Titans won by 6 wickets
+14110,IPL 2022,2022,1,125,120,7,120,154,0,154,,scheduled_balls_completed,Sunrisers Hyderabad won by 8 wickets
+14110,IPL 2022,2022,2,110,107,2,120,155,0,155,,target_reached,Sunrisers Hyderabad won by 8 wickets
+14111,IPL 2022,2022,1,122,120,6,120,151,0,151,,scheduled_balls_completed,Royal Challengers Bengaluru won by 7 wickets
+14111,IPL 2022,2022,2,114,111,3,120,152,0,152,,target_reached,Royal Challengers Bengaluru won by 7 wickets
+14112,IPL 2022,2022,1,125,120,5,120,211,4,215,,scheduled_balls_completed,Delhi Capitals won by 44 run
+14112,IPL 2022,2022,2,121,118,10,120,171,0,171,,all_out,Delhi Capitals won by 44 run
+14113,IPL 2022,2022,1,126,120,6,120,165,0,165,,scheduled_balls_completed,Rajasthan Royals Won By 3 Runs
+14113,IPL 2022,2022,2,124,120,8,120,162,0,162,,scheduled_balls_completed,Rajasthan Royals Won By 3 Runs
+14114,IPL 2022,2022,1,128,120,7,120,162,0,162,,scheduled_balls_completed,Sunrisers Hyderabad Won by 8 Wickets
+14114,IPL 2022,2022,2,118,115,2,120,168,0,168,,target_reached,Sunrisers Hyderabad Won by 8 Wickets
+14115,IPL 2022,2022,1,127,120,4,120,216,0,216,,scheduled_balls_completed,Chennai Super Kings Won by 23 Runs
+14115,IPL 2022,2022,2,129,121,9,120,193,0,193,,scheduled_balls_completed,Chennai Super Kings Won by 23 Runs
+14116,IPL 2022,2022,1,127,120,5,120,198,0,198,,scheduled_balls_completed,Punjab Kings won by 12 runs
+14116,IPL 2022,2022,2,125,120,9,120,186,0,186,,scheduled_balls_completed,Punjab Kings won by 12 runs
+14117,IPL 2022,2022,1,124,121,4,120,192,0,192,,scheduled_balls_completed,Gujarat Titans Won by 37 runs
+14117,IPL 2022,2022,2,122,120,9,120,155,0,155,,scheduled_balls_completed,Gujarat Titans Won by 37 runs
+14118,IPL 2022,2022,1,123,120,8,120,175,0,175,,scheduled_balls_completed,Sunrisers Hyderabad won by 7 wickets
+14118,IPL 2022,2022,2,111,107,3,120,176,0,176,,target_reached,Sunrisers Hyderabad won by 7 wickets
+14119,IPL 2022,2022,1,124,120,4,120,199,0,199,,scheduled_balls_completed,Lucknow Super Giants won by 18 runs
+14119,IPL 2022,2022,2,125,120,9,120,181,0,181,,scheduled_balls_completed,Lucknow Super Giants won by 18 runs
+14120,IPL 2022,2022,1,126,120,5,120,189,0,189,,scheduled_balls_completed,Royal Challengers Bengaluru won by 16 runs
+14120,IPL 2022,2022,2,124,120,7,120,173,0,173,,scheduled_balls_completed,Royal Challengers Bengaluru won by 16 runs
+14121,IPL 2022,2022,1,126,120,10,120,151,0,151,,all_out,Sunrisers Hyderabad won by 7 wicket
+14121,IPL 2022,2022,2,116,113,3,120,152,0,152,,target_reached,Sunrisers Hyderabad won by 7 wicket
+14122,IPL 2022,2022,1,125,120,5,120,169,0,169,,scheduled_balls_completed,Gujarat Titans won by 3 wickets
+14122,IPL 2022,2022,2,121,120,7,120,170,0,170,,target_reached,Gujarat Titans won by 3 wickets
+14123,IPL 2022,2022,1,127,120,5,120,217,0,217,,scheduled_balls_completed,Rajasthan Royals Won by 7 Runs
+14123,IPL 2022,2022,2,131,118,10,120,210,0,210,,all_out,Rajasthan Royals Won by 7 Runs
+14124,IPL 2022,2022,1,127,120,6,120,181,0,181,,scheduled_balls_completed,Royal Challengers Bengaluru won by 18 runs
+14124,IPL 2022,2022,2,127,120,8,120,163,0,163,,scheduled_balls_completed,Royal Challengers Bengaluru won by 18 runs
+14125,IPL 2022,2022,1,121,120,10,120,115,0,115,,all_out,Delhi Capitals won by 9 wickets
+14125,IPL 2022,2022,2,69,63,1,120,119,0,119,,target_reached,Delhi Capitals won by 9 wickets
+14126,IPL 2022,2022,1,123,120,7,120,155,0,155,,scheduled_balls_completed,Chennai Super Kings Won by 3 Wickets
+14126,IPL 2022,2022,2,127,120,7,120,156,0,156,,target_reached,Chennai Super Kings Won by 3 Wickets
+14127,IPL 2022,2022,1,124,120,2,120,222,0,222,,scheduled_balls_completed,Rajasthan Royals Won by 15 Runs
+14127,IPL 2022,2022,2,128,121,8,120,203,4,207,,scheduled_balls_completed,Rajasthan Royals Won by 15 Runs
+14128,IPL 2022,2022,1,127,120,9,120,156,0,156,,scheduled_balls_completed,Gujarat Titans Won by 8 Runs
+14128,IPL 2022,2022,2,126,120,8,120,148,0,148,,scheduled_balls_completed,Gujarat Titans Won by 8 Runs
+14129,IPL 2022,2022,1,105,98,10,120,68,0,68,,all_out,Sunrisers Hyderabad won by 9 wickets
+14129,IPL 2022,2022,2,49,48,1,120,72,0,72,,target_reached,Sunrisers Hyderabad won by 9 wickets
+14130,IPL 2022,2022,1,124,119,6,120,167,0,167,,incomplete_or_interrupted,Lucknow Super Giants Won 36  Runs
+14130,IPL 2022,2022,2,127,119,8,120,130,0,130,,incomplete_or_interrupted,Lucknow Super Giants Won 36  Runs
+14131,IPL 2022,2022,1,133,122,4,120,187,0,187,,scheduled_balls_completed,Punjab Kings Won by 11 Runs
+14131,IPL 2022,2022,2,126,120,6,120,176,0,176,,scheduled_balls_completed,Punjab Kings Won by 11 Runs
+14132,IPL 2022,2022,1,123,120,8,120,144,0,144,,scheduled_balls_completed,Rajasthan Royals Won by 29 Runs
+14132,IPL 2022,2022,2,123,117,10,120,115,0,115,,all_out,Rajasthan Royals Won by 29 Runs
+14133,IPL 2022,2022,1,126,120,6,120,195,0,195,,scheduled_balls_completed,Gujarat Titans Won by 5 Wickets
+14133,IPL 2022,2022,2,125,120,5,120,199,0,199,,target_reached,Gujarat Titans Won by 5 Wickets
+14134,IPL 2022,2022,1,124,120,9,120,146,0,146,,scheduled_balls_completed,Delhi Capitals Won By 4 Wickets
+14134,IPL 2022,2022,2,117,115,6,120,150,0,150,,target_reached,Delhi Capitals Won By 4 Wickets
+14135,IPL 2022,2022,1,124,120,8,120,153,0,153,,scheduled_balls_completed,Lucknow Super Giants Won by 20 Runs
+14135,IPL 2022,2022,2,129,120,8,120,133,0,133,,scheduled_balls_completed,Lucknow Super Giants Won by 20 Runs
+14136,IPL 2022,2022,1,122,120,6,120,170,0,170,,scheduled_balls_completed,Gujarat Titans won by 6 wickets
+14136,IPL 2022,2022,2,122,118,4,120,174,0,174,,target_reached,Gujarat Titans won by 6 wickets
+14137,IPL 2022,2022,1,127,120,6,120,158,0,158,,scheduled_balls_completed,Mumbai Indians Won By 5 Wickets
+14137,IPL 2022,2022,2,120,116,5,120,161,0,161,,target_reached,Mumbai Indians Won By 5 Wickets
+14139,IPL 2022,2022,1,132,120,3,120,195,0,195,,scheduled_balls_completed,Lucknow Super Giants won by 6 runs
+14139,IPL 2022,2022,2,123,120,7,120,189,0,189,,scheduled_balls_completed,Lucknow Super Giants won by 6 runs
+14140,IPL 2022,2022,1,123,120,2,120,202,0,202,,scheduled_balls_completed,Chennai Super Kings won by 13 runs
+14140,IPL 2022,2022,2,123,120,6,120,189,0,189,,scheduled_balls_completed,Chennai Super Kings won by 13 runs
+14141,IPL 2022,2022,1,127,121,5,120,152,0,152,,scheduled_balls_completed,Kolkata Knight Riders Won by 7 Wickets
+14141,IPL 2022,2022,2,124,115,3,120,158,0,158,,target_reached,Kolkata Knight Riders Won by 7 Wickets
+14142,IPL 2022,2022,1,129,120,8,120,143,0,143,,scheduled_balls_completed,Punjab Kings Won by 8 Wickets
+14142,IPL 2022,2022,2,100,96,2,120,145,0,145,,target_reached,Punjab Kings Won by 8 Wickets
+14143,IPL 2022,2022,1,127,120,8,120,173,0,173,,scheduled_balls_completed,Royal Challengers Bengaluru won by 13 Runs
+14143,IPL 2022,2022,2,120,120,8,120,160,0,160,,scheduled_balls_completed,Royal Challengers Bengaluru won by 13 Runs
+14144,IPL 2022,2022,1,127,120,3,120,207,0,207,,scheduled_balls_completed,Delhi Capitals Won by 21 Runs
+14144,IPL 2022,2022,2,126,120,8,120,186,0,186,,scheduled_balls_completed,Delhi Capitals Won by 21 Runs
+14145,IPL 2022,2022,1,125,121,6,120,177,0,177,,scheduled_balls_completed,Mumbai Indians won by 5 runs
+14145,IPL 2022,2022,2,121,120,5,120,172,0,172,,scheduled_balls_completed,Mumbai Indians won by 5 runs
+14146,IPL 2022,2022,1,131,120,5,120,189,0,189,,scheduled_balls_completed,Rajasthan Royals won by 6 wickets
+14146,IPL 2022,2022,2,124,118,4,120,190,0,190,,target_reached,Rajasthan Royals won by 6 wickets
+14147,IPL 2022,2022,1,122,120,7,120,176,0,176,,scheduled_balls_completed,Lucknow Super Giants won by 75 runs
+14147,IPL 2022,2022,2,89,87,10,120,101,0,101,,all_out,Lucknow Super Giants won by 75 runs
+14148,IPL 2022,2022,1,126,120,3,120,192,0,192,,scheduled_balls_completed,Royal Challengers Bengaluru won by 67 runs
+14148,IPL 2022,2022,2,120,116,10,120,125,0,125,,all_out,Royal Challengers Bengaluru won by 67 runs
+14149,IPL 2022,2022,1,131,120,6,120,208,0,208,,scheduled_balls_completed,Chennai Super Kings won by 91 runs
+14149,IPL 2022,2022,2,108,106,10,120,117,0,117,,all_out,Chennai Super Kings won by 91 runs
+14150,IPL 2022,2022,1,126,120,9,120,165,0,165,,scheduled_balls_completed,Kolkata Knight Riders Won by 52 Runs
+14150,IPL 2022,2022,2,107,105,10,120,113,0,113,,all_out,Kolkata Knight Riders Won by 52 Runs
+14151,IPL 2022,2022,1,126,120,4,120,144,0,144,,scheduled_balls_completed,Gujarat Titans won by 62 runs
+14151,IPL 2022,2022,2,86,83,10,120,82,0,82,,all_out,Gujarat Titans won by 62 runs
+14152,IPL 2022,2022,1,125,120,6,120,160,0,160,,scheduled_balls_completed,Delhi Capitals Won by 8 Wickets
+14152,IPL 2022,2022,2,114,109,2,120,161,0,161,,target_reached,Delhi Capitals Won by 8 Wickets
+14153,IPL 2022,2022,1,104,96,10,120,97,0,97,,all_out,Mumbai Indians Won by 5 Wickets
+14153,IPL 2022,2022,2,94,89,5,120,103,0,103,,target_reached,Mumbai Indians Won by 5 Wickets
+14154,IPL 2022,2022,1,124,121,9,120,209,0,209,,scheduled_balls_completed,Punjab Kings won by 54 runs
+14154,IPL 2022,2022,2,128,120,9,120,155,0,155,,scheduled_balls_completed,Punjab Kings won by 54 runs
+14155,IPL 2022,2022,1,128,120,6,120,177,0,177,,scheduled_balls_completed,Kolkata Knight Riders won by 54 runs
+14155,IPL 2022,2022,2,123,120,8,120,123,0,123,,scheduled_balls_completed,Kolkata Knight Riders won by 54 runs
+14156,IPL 2022,2022,1,125,120,5,120,133,0,133,,scheduled_balls_completed,Gujarat Titans won by 7 wickets
+14156,IPL 2022,2022,2,119,115,3,120,137,0,137,,target_reached,Gujarat Titans won by 7 wickets
+14157,IPL 2022,2022,1,123,120,6,120,178,0,178,,scheduled_balls_completed,Rajasthan Royals Won by 24 Runs
+14157,IPL 2022,2022,2,128,120,8,120,154,0,154,,scheduled_balls_completed,Rajasthan Royals Won by 24 Runs
+14158,IPL 2022,2022,1,123,120,7,120,159,0,159,,scheduled_balls_completed,Delhi Capitals Won by 17 Runs
+14158,IPL 2022,2022,2,126,120,9,120,142,0,142,,scheduled_balls_completed,Delhi Capitals Won by 17 Runs
+14159,IPL 2022,2022,1,125,120,6,120,193,0,193,,scheduled_balls_completed,Sunrisers Hyderabad Won by 3 Runs
+14159,IPL 2022,2022,2,130,122,7,120,189,1,190,,scheduled_balls_completed,Sunrisers Hyderabad Won by 3 Runs
+14160,IPL 2022,2022,1,122,120,0,120,210,0,210,,scheduled_balls_completed,Lucknow Super Giants Won by 2 Runs
+14160,IPL 2022,2022,2,127,120,8,120,208,0,208,,scheduled_balls_completed,Lucknow Super Giants Won by 2 Runs
+14161,IPL 2022,2022,1,122,120,5,120,168,0,168,,scheduled_balls_completed,Royal Challengers Bengaluru won by 8 wickets
+14161,IPL 2022,2022,2,115,112,2,120,170,0,170,,target_reached,Royal Challengers Bengaluru won by 8 wickets
+14162,IPL 2022,2022,1,125,120,6,120,150,0,150,,scheduled_balls_completed,Rajasthan Royals Won by 5 Wickets
+14162,IPL 2022,2022,2,122,118,5,120,151,0,151,,target_reached,Rajasthan Royals Won by 5 Wickets
+14163,IPL 2022,2022,1,128,120,7,120,159,0,159,,scheduled_balls_completed,Mumbai Indians Won by 5 wickets
+14163,IPL 2022,2022,2,119,116,5,120,160,0,160,,target_reached,Mumbai Indians Won by 5 wickets
+14164,IPL 2022,2022,1,124,119,8,120,156,0,156,,incomplete_or_interrupted,Punjab Kings Won by 5 wickets
+14164,IPL 2022,2022,2,95,91,5,120,160,0,160,,target_reached,Punjab Kings Won by 5 wickets
+15187,IPL 2022,2022,1,127,120,6,120,188,0,188,,scheduled_balls_completed,Gujarat Titans Won by 7 Wickets
+15187,IPL 2022,2022,2,125,118,3,120,191,0,191,,target_reached,Gujarat Titans Won by 7 Wickets
+15188,IPL 2022,2022,1,126,121,4,120,207,0,207,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 14 Runs
+15188,IPL 2022,2022,2,130,120,6,120,193,0,193,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 14 Runs
+15189,IPL 2022,2022,1,127,120,8,120,157,0,157,,scheduled_balls_completed,Rajasthan Royals won by 7 wickets
+15189,IPL 2022,2022,2,109,109,3,120,161,0,161,,target_reached,Rajasthan Royals won by 7 wickets
+15190,IPL 2022,2022,1,120,120,9,120,130,0,130,,scheduled_balls_completed,Gujarat Titans Won by 7 Wickets
+15190,IPL 2022,2022,2,113,109,3,120,133,0,133,,target_reached,Gujarat Titans Won by 7 Wickets
+15406,South Africa in India T20I Series 2022,2022,1,127,120,4,120,211,0,211,,scheduled_balls_completed,South Africa Won by 7 Wkts
+15406,South Africa in India T20I Series 2022,2022,2,119,115,3,120,212,0,212,,target_reached,South Africa Won by 7 Wkts
+15407,South Africa in India T20I Series 2022,2022,1,126,120,6,120,148,0,148,,scheduled_balls_completed,South Africa Won by 4 Wickets
+15407,South Africa in India T20I Series 2022,2022,2,112,110,6,120,149,0,149,,target_reached,South Africa Won by 4 Wickets
+15408,South Africa in India T20I Series 2022,2022,1,122,120,5,120,179,0,179,,scheduled_balls_completed,India Won by 48 runs
+15408,South Africa in India T20I Series 2022,2022,2,118,115,10,120,131,0,131,,all_out,India Won by 48 runs
+15409,South Africa in India T20I Series 2022,2022,1,124,120,6,120,169,0,169,,scheduled_balls_completed,India Won by 82 runs
+15409,South Africa in India T20I Series 2022,2022,2,102,101,9,120,87,0,87,,incomplete_or_interrupted,India Won by 82 runs
+15410,South Africa in India T20I Series 2022,2022,1,22,21,2,114,28,0,28,,incomplete_or_interrupted,Match Abandoned
+15458,Australia in Sri Lanka T20I Series 2022,2022,1,120,117,10,120,128,0,128,,all_out,Australia Won by 10 Wickets
+15458,Australia in Sri Lanka T20I Series 2022,2022,2,87,84,0,120,134,0,134,,target_reached,Australia Won by 10 Wickets
+15459,Australia in Sri Lanka T20I Series 2022,2022,1,120,120,9,120,124,0,124,,scheduled_balls_completed,Australia Won by 3 Wkts
+15459,Australia in Sri Lanka T20I Series 2022,2022,2,109,107,7,120,126,0,126,,target_reached,Australia Won by 3 Wkts
+15460,Australia in Sri Lanka T20I Series 2022,2022,1,124,120,5,120,176,0,176,,scheduled_balls_completed,Sri Lanka Won by 4 Wickets
+15460,Australia in Sri Lanka T20I Series 2022,2022,2,124,119,6,120,177,0,177,,target_reached,Sri Lanka Won by 4 Wickets
+15546,Bangladesh in West Indies T20I Series 2022,2022,1,82,79,8,84,105,0,105,,incomplete_or_interrupted,No Result
+15547,Bangladesh in West Indies T20I Series 2022,2022,1,129,120,5,120,193,0,193,,scheduled_balls_completed,West Indies Won by 35 Runs
+15547,Bangladesh in West Indies T20I Series 2022,2022,2,128,120,6,120,158,0,158,,scheduled_balls_completed,West Indies Won by 35 Runs
+15548,Bangladesh in West Indies T20I Series 2022,2022,1,130,121,5,120,163,0,163,,scheduled_balls_completed,West Indies Won by 5 Wickets
+15548,Bangladesh in West Indies T20I Series 2022,2022,2,118,110,5,120,169,0,169,,target_reached,West Indies Won by 5 Wickets
+15609,Afghanistan in Zimbabwe T20I Series 2022,2022,1,128,121,8,120,159,0,159,,scheduled_balls_completed,Afghanistan Won by 6 Wickets
+15609,Afghanistan in Zimbabwe T20I Series 2022,2022,2,123,116,4,120,160,0,160,,target_reached,Afghanistan Won by 6 Wickets
+15610,Afghanistan in Zimbabwe T20I Series 2022,2022,1,129,120,5,120,170,0,170,,scheduled_balls_completed,Afghanistan Won by 21 Runs
+15610,Afghanistan in Zimbabwe T20I Series 2022,2022,2,122,120,7,120,149,0,149,,scheduled_balls_completed,Afghanistan Won by 21 Runs
+15611,Afghanistan in Zimbabwe T20I Series 2022,2022,1,128,120,8,120,125,0,125,,scheduled_balls_completed,Afghanistan Won by 35 Runs
+15611,Afghanistan in Zimbabwe T20I Series 2022,2022,2,126,120,9,120,90,0,90,,scheduled_balls_completed,Afghanistan Won by 35 Runs
+15795,India in Ireland T20I Series 2022,2022,1,75,72,4,120,108,0,108,,incomplete_or_interrupted,India Won by 7 Wickets
+15795,India in Ireland T20I Series 2022,2022,2,64,56,3,120,111,0,111,,target_reached,India Won by 7 Wickets
+15796,India in Ireland T20I Series 2022,2022,1,128,120,7,120,225,0,225,,scheduled_balls_completed,India Won by 4 Runs
+15796,India in Ireland T20I Series 2022,2022,2,132,122,5,120,220,1,221,,scheduled_balls_completed,India Won by 4 Runs
+16040,India in England T20I Series 2022,2022,1,126,120,8,120,198,0,198,,scheduled_balls_completed,India Won by 50 Runs
+16040,India in England T20I Series 2022,2022,2,121,117,10,120,148,0,148,,all_out,India Won by 50 Runs
+16041,India in England T20I Series 2022,2022,1,128,120,8,120,170,0,170,,scheduled_balls_completed,India Won by 49 Runs
+16041,India in England T20I Series 2022,2022,2,103,102,10,120,121,0,121,,all_out,India Won by 49 Runs
+16042,India in England T20I Series 2022,2022,1,127,120,7,120,215,0,215,,scheduled_balls_completed,England Won by 17 runs
+16042,India in England T20I Series 2022,2022,2,128,120,9,120,198,0,198,,scheduled_balls_completed,England Won by 17 runs
+16062,India in West Indies T20I Series 2022,2022,1,128,120,6,120,190,0,190,,scheduled_balls_completed,India Won by 68 Runs
+16062,India in West Indies T20I Series 2022,2022,2,125,120,8,120,122,0,122,,scheduled_balls_completed,India Won by 68 Runs
+16063,India in West Indies T20I Series 2022,2022,1,121,118,10,120,138,0,138,,all_out,West Indies Won by 5 Wickets
+16063,India in West Indies T20I Series 2022,2022,2,119,116,5,120,141,0,141,,target_reached,West Indies Won by 5 Wickets
+16064,India in West Indies T20I Series 2022,2022,1,122,120,5,120,164,0,164,,scheduled_balls_completed,India Won by 7 Wickets
+16064,India in West Indies T20I Series 2022,2022,2,120,114,3,120,165,0,165,,target_reached,India Won by 7 Wickets
+16065,India in West Indies T20I Series 2022,2022,1,129,120,5,120,191,0,191,,scheduled_balls_completed,India Won by 59 Runs
+16065,India in West Indies T20I Series 2022,2022,2,120,115,10,120,132,0,132,,all_out,India Won by 59 Runs
+16066,India in West Indies T20I Series 2022,2022,1,130,120,7,120,188,0,188,,scheduled_balls_completed,India Won by 88 Runs
+16066,India in West Indies T20I Series 2022,2022,2,98,94,10,120,100,0,100,,all_out,India Won by 88 Runs
+16258,New Zealand in Ireland T20I Series 2022,2022,1,126,121,8,120,173,0,173,,scheduled_balls_completed,New Zealand Won by 31 Runs
+16258,New Zealand in Ireland T20I Series 2022,2022,2,118,110,10,120,142,0,142,,all_out,New Zealand Won by 31 Runs
+16259,New Zealand in Ireland T20I Series 2022,2022,1,123,120,4,120,179,0,179,,scheduled_balls_completed,New Zealand Won by 88 runs
+16259,New Zealand in Ireland T20I Series 2022,2022,2,87,83,10,120,91,0,91,,all_out,New Zealand Won by 88 runs
+16260,New Zealand in Ireland T20I Series 2022,2022,1,125,120,6,120,174,0,174,,scheduled_balls_completed,New Zealand Won by 6 wickets
+16260,New Zealand in Ireland T20I Series 2022,2022,2,117,114,4,120,180,0,180,,target_reached,New Zealand Won by 6 wickets
+16315,South Africa in England T20I Series 2022,2022,1,130,120,6,120,234,0,234,,scheduled_balls_completed,England Won by 41 Runs
+16315,South Africa in England T20I Series 2022,2022,2,120,120,8,120,193,0,193,,scheduled_balls_completed,England Won by 41 Runs
+16316,South Africa in England T20I Series 2022,2022,1,126,120,3,120,207,0,207,,scheduled_balls_completed,South Africa Won by 58 Runs
+16316,South Africa in England T20I Series 2022,2022,2,108,100,10,120,149,0,149,,all_out,South Africa Won by 58 Runs
+16317,South Africa in England T20I Series 2022,2022,1,126,120,5,120,191,0,191,,scheduled_balls_completed,South Africa Won by 90 Runs
+16317,South Africa in England T20I Series 2022,2022,2,101,101,10,120,101,0,101,,all_out,South Africa Won by 90 Runs
+16424,Bangladesh in Zimbabwe T20I Series 2022,2022,1,128,120,3,120,205,0,205,,scheduled_balls_completed,Zimbabwe Won by 17 Runs
+16424,Bangladesh in Zimbabwe T20I Series 2022,2022,2,129,121,6,120,184,4,188,,scheduled_balls_completed,Zimbabwe Won by 17 Runs
+16425,Bangladesh in Zimbabwe T20I Series 2022,2022,1,128,120,8,120,135,0,135,,scheduled_balls_completed,Bangladesh Won by 7 Wickets
+16425,Bangladesh in Zimbabwe T20I Series 2022,2022,2,109,105,3,120,136,0,136,,target_reached,Bangladesh Won by 7 Wickets
+16426,Bangladesh in Zimbabwe T20I Series 2022,2022,1,121,120,8,120,156,0,156,,scheduled_balls_completed,Zimbabwe Won by 10 runs
+16426,Bangladesh in Zimbabwe T20I Series 2022,2022,2,121,120,8,120,146,0,146,,scheduled_balls_completed,Zimbabwe Won by 10 runs
+16646,South Africa vs Ireland T20I Series 2022,2022,1,128,120,5,120,211,0,211,,scheduled_balls_completed,South Africa won by 21 runs
+16646,South Africa vs Ireland T20I Series 2022,2022,2,124,120,9,120,190,0,190,,scheduled_balls_completed,South Africa won by 21 runs
+16647,South Africa vs Ireland T20I Series 2022,2022,1,129,121,6,120,182,0,182,,scheduled_balls_completed,South Africa Won by 44 Runs
+16647,South Africa vs Ireland T20I Series 2022,2022,2,120,113,10,120,138,0,138,,all_out,South Africa Won by 44 Runs
+16653,Mens Twenty20 Asia Cup 2022,2022,1,123,119,10,120,105,0,105,,all_out,Afghanistan Won by 8 Wickets
+16653,Mens Twenty20 Asia Cup 2022,2022,2,63,61,2,120,106,0,106,,target_reached,Afghanistan Won by 8 Wickets
+16654,Mens Twenty20 Asia Cup 2022,2022,1,123,119,10,120,147,0,147,,all_out,India Won by 5 Wickets
+16654,Mens Twenty20 Asia Cup 2022,2022,2,124,118,5,120,148,0,148,,target_reached,India Won by 5 Wickets
+16655,Mens Twenty20 Asia Cup 2022,2022,1,122,120,7,120,127,0,127,,scheduled_balls_completed,Afghanistan Won by 7 wickets
+16655,Mens Twenty20 Asia Cup 2022,2022,2,114,111,3,120,131,0,131,,target_reached,Afghanistan Won by 7 wickets
+16656,Mens Twenty20 Asia Cup 2022,2022,1,127,121,2,120,192,0,192,,scheduled_balls_completed,India Won by 40 Runs
+16656,Mens Twenty20 Asia Cup 2022,2022,2,125,120,5,120,152,0,152,,scheduled_balls_completed,India Won by 40 Runs
+16657,Mens Twenty20 Asia Cup 2022,2022,1,120,120,7,120,183,0,183,,scheduled_balls_completed,Sri Lanka Won by 2 Wickets
+16657,Mens Twenty20 Asia Cup 2022,2022,2,126,117,8,120,184,0,184,,target_reached,Sri Lanka Won by 2 Wickets
+16658,Mens Twenty20 Asia Cup 2022,2022,1,129,120,2,120,193,0,193,,scheduled_balls_completed,Pakistan Won by 155 Runs
+16658,Mens Twenty20 Asia Cup 2022,2022,2,68,64,10,120,38,0,38,,all_out,Pakistan Won by 155 Runs
+16659,Mens Twenty20 Asia Cup 2022,2022,1,126,120,6,120,175,0,175,,scheduled_balls_completed,Sri Lanka Won by 4 Wickets
+16659,Mens Twenty20 Asia Cup 2022,2022,2,118,115,6,120,179,0,179,,target_reached,Sri Lanka Won by 4 Wickets
+16660,Mens Twenty20 Asia Cup 2022,2022,1,126,120,7,120,181,0,181,,scheduled_balls_completed,Pakistan Won by 5 Wickets
+16660,Mens Twenty20 Asia Cup 2022,2022,2,125,119,5,120,182,0,182,,target_reached,Pakistan Won by 5 Wickets
+16661,Mens Twenty20 Asia Cup 2022,2022,1,128,121,8,120,173,0,173,,scheduled_balls_completed,Sri Lanka Won by 6 Wickets
+16661,Mens Twenty20 Asia Cup 2022,2022,2,122,119,4,120,174,0,174,,target_reached,Sri Lanka Won by 6 Wickets
+16662,Mens Twenty20 Asia Cup 2022,2022,1,123,121,6,120,129,0,129,,scheduled_balls_completed,Pakistan Won by 1 Wicket
+16662,Mens Twenty20 Asia Cup 2022,2022,2,117,116,9,120,131,0,131,,target_reached,Pakistan Won by 1 Wicket
+16663,Mens Twenty20 Asia Cup 2022,2022,1,122,120,2,120,212,0,212,,scheduled_balls_completed,India Won by 101 Runs
+16663,Mens Twenty20 Asia Cup 2022,2022,2,123,120,8,120,111,0,111,,scheduled_balls_completed,India Won by 101 Runs
+16664,Mens Twenty20 Asia Cup 2022,2022,1,122,115,10,120,121,0,121,,all_out,Sri Lanka Won by 5 Wickets
+16664,Mens Twenty20 Asia Cup 2022,2022,2,103,102,5,120,124,0,124,,target_reached,Sri Lanka Won by 5 Wickets
+16665,Mens Twenty20 Asia Cup 2022,2022,1,122,120,6,120,170,0,170,,scheduled_balls_completed,Sri Lanka Won by 23 Runs
+16665,Mens Twenty20 Asia Cup 2022,2022,2,130,120,10,120,147,0,147,,all_out,Sri Lanka Won by 23 Runs
+16666,New Zealand in Netherlands T20I Series 2022,2022,1,124,120,7,120,148,0,148,,scheduled_balls_completed,New Zealand Won by 16 Runs
+16666,New Zealand in Netherlands T20I Series 2022,2022,2,122,117,10,120,132,0,132,,all_out,New Zealand Won by 16 Runs
+16667,New Zealand in Netherlands T20I Series 2022,2022,1,125,120,4,120,147,0,147,,scheduled_balls_completed,New Zealand Won by 8 Wickets
+16667,New Zealand in Netherlands T20I Series 2022,2022,2,85,84,2,120,149,0,149,,target_reached,New Zealand Won by 8 Wickets
+16683,New Zealand in West Indies T20I Series 2022,2022,1,129,120,5,120,185,0,185,,scheduled_balls_completed,New Zealand Won by 13 Runs
+16683,New Zealand in West Indies T20I Series 2022,2022,2,126,120,7,120,172,0,172,,scheduled_balls_completed,New Zealand Won by 13 Runs
+16684,New Zealand in West Indies T20I Series 2022,2022,1,125,120,5,120,215,0,215,,scheduled_balls_completed,New Zealand Won by 90 Runs
+16684,New Zealand in West Indies T20I Series 2022,2022,2,122,120,9,120,125,0,125,,scheduled_balls_completed,New Zealand Won by 90 Runs
+16685,New Zealand in West Indies T20I Series 2022,2022,1,122,120,7,120,145,0,145,,scheduled_balls_completed,West Indies Won by 8 Wickets
+16685,New Zealand in West Indies T20I Series 2022,2022,2,116,114,2,120,150,0,150,,target_reached,West Indies Won by 8 Wickets
+16750,Afghanistan in Ireland T20I Series 2022,2022,1,125,120,7,120,168,0,168,,scheduled_balls_completed,Ireland Won by 7 Wickets
+16750,Afghanistan in Ireland T20I Series 2022,2022,2,122,119,3,120,171,0,171,,target_reached,Ireland Won by 7 Wickets
+16751,Afghanistan in Ireland T20I Series 2022,2022,1,128,121,8,120,122,0,122,,scheduled_balls_completed,Ireland Won by 5 Wickets
+16751,Afghanistan in Ireland T20I Series 2022,2022,2,116,114,5,120,125,0,125,,target_reached,Ireland Won by 5 Wickets
+16752,Afghanistan in Ireland T20I Series 2022,2022,1,128,120,5,120,189,0,189,,scheduled_balls_completed,Afghanistan Won by 22 Runs
+16752,Afghanistan in Ireland T20I Series 2022,2022,2,126,120,9,120,167,0,167,,scheduled_balls_completed,Afghanistan Won by 22 Runs
+16753,Afghanistan in Ireland T20I Series 2022,2022,1,71,66,6,66,132,0,132,,scheduled_balls_completed,Afghanistan Won by 27 Runs
+16753,Afghanistan in Ireland T20I Series 2022,2022,2,67,65,10,120,105,0,105,,all_out,Afghanistan Won by 27 Runs
+16754,Afghanistan in Ireland T20I Series 2022,2022,1,94,90,5,120,95,0,95,56.0,incomplete_or_interrupted,Ireland Won by 7 Wickets(D/L Method)
+16754,Afghanistan in Ireland T20I Series 2022,2022,2,40,40,3,42,56,0,56,56.0,target_reached,Ireland Won by 7 Wickets(D/L Method)
+16862,Asia Cup T20 Qualifiers 2022,2022,1,127,120,9,120,148,0,148,,scheduled_balls_completed,Hong Kong Won by 8 runs
+16862,Asia Cup T20 Qualifiers 2022,2022,2,125,120,7,120,140,0,140,,scheduled_balls_completed,Hong Kong Won by 8 runs
+16863,Asia Cup T20 Qualifiers 2022,2022,1,129,120,5,120,173,0,173,,scheduled_balls_completed,Kuwait Won by 1 wicket
+16863,Asia Cup T20 Qualifiers 2022,2022,2,122,119,9,120,177,0,177,,target_reached,Kuwait Won by 1 wicket
+16864,Asia Cup T20 Qualifiers 2022,2022,1,123,120,8,120,160,0,160,,scheduled_balls_completed,United Arab Emirates Won by 47 Runs
+16864,Asia Cup T20 Qualifiers 2022,2022,2,112,111,10,120,113,0,113,,all_out,United Arab Emirates Won by 47 Runs
+16865,Asia Cup T20 Qualifiers 2022,2022,1,128,120,9,120,151,0,151,,scheduled_balls_completed,Hong Kong Won by 8 Wickets
+16865,Asia Cup T20 Qualifiers 2022,2022,2,107,106,2,120,153,0,153,,target_reached,Hong Kong Won by 8 Wickets
+16866,Asia Cup T20 Qualifiers 2022,2022,1,118,117,10,120,147,0,147,,all_out,Hong Kong Won by 8 Wickets
+16866,Asia Cup T20 Qualifiers 2022,2022,2,117,114,2,120,149,0,149,,target_reached,Hong Kong Won by 8 Wickets
+16867,Asia Cup T20 Qualifiers 2022,2022,1,123,119,10,120,104,0,104,,all_out,Kuwait Won by 6 Wickets
+16867,Asia Cup T20 Qualifiers 2022,2022,2,48,47,4,120,105,0,105,,target_reached,Kuwait Won by 6 Wickets
+17394,Australia in India T20I Series 2022,2022,1,124,120,6,120,208,0,208,,scheduled_balls_completed,Australia Won by 4 Wickets
+17394,Australia in India T20I Series 2022,2022,2,122,116,6,120,211,0,211,,target_reached,Australia Won by 4 Wickets
+17395,Australia in India T20I Series 2022,2022,1,49,48,5,48,90,0,90,91.0,scheduled_balls_completed,India Won by 6 Wickets
+17395,Australia in India T20I Series 2022,2022,2,48,44,4,48,92,0,92,91.0,target_reached,India Won by 6 Wickets
+17396,Australia in India T20I Series 2022,2022,1,124,120,7,120,186,0,186,,scheduled_balls_completed,India Won by 6 Wickets
+17396,Australia in India T20I Series 2022,2022,2,123,119,4,120,187,0,187,,target_reached,India Won by 6 Wickets
+17553,England in Pakistan T20I Series 2022,2022,1,124,120,7,120,158,0,158,,scheduled_balls_completed,England Won by 6 Wickets
+17553,England in Pakistan T20I Series 2022,2022,2,117,116,4,120,160,0,160,,target_reached,England Won by 6 Wickets
+17554,England in Pakistan T20I Series 2022,2022,1,123,120,5,120,199,0,199,,scheduled_balls_completed,Pakistan Won by 10 Wickets
+17554,England in Pakistan T20I Series 2022,2022,2,122,117,0,120,203,0,203,,target_reached,Pakistan Won by 10 Wickets
+17555,England in Pakistan T20I Series 2022,2022,1,125,120,3,120,220,1,221,,scheduled_balls_completed,England Won by 63 Runs
+17555,England in Pakistan T20I Series 2022,2022,2,124,121,8,120,158,0,158,,scheduled_balls_completed,England Won by 63 Runs
+17556,England in Pakistan T20I Series 2022,2022,1,122,120,4,120,166,0,166,,scheduled_balls_completed,Pakistan Won by 3 Runs
+17556,England in Pakistan T20I Series 2022,2022,2,119,116,10,120,163,0,163,,all_out,Pakistan Won by 3 Runs
+17557,England in Pakistan T20I Series 2022,2022,1,117,114,10,120,145,0,145,,all_out,Pakistan Won by 6 Runs
+17557,England in Pakistan T20I Series 2022,2022,2,124,120,7,120,139,0,139,,scheduled_balls_completed,Pakistan Won by 6 Runs
+17558,England in Pakistan T20I Series 2022,2022,1,122,120,6,120,169,0,169,,scheduled_balls_completed,England Won by 8 Wickets
+17558,England in Pakistan T20I Series 2022,2022,2,89,87,2,120,170,0,170,,target_reached,England Won by 8 Wickets
+17559,England in Pakistan T20I Series 2022,2022,1,125,120,3,120,209,0,209,,scheduled_balls_completed,England Won by 67 Runs
+17559,England in Pakistan T20I Series 2022,2022,2,125,120,8,120,142,0,142,,scheduled_balls_completed,England Won by 67 Runs
+17625,South Africa in India T20I Series 2022/23,2022/23,1,125,120,8,120,106,0,106,,scheduled_balls_completed,India Won by 8 Wickets
+17625,South Africa in India T20I Series 2022/23,2022/23,2,104,100,2,120,110,0,110,,target_reached,India Won by 8 Wickets
+17626,South Africa in India T20I Series 2022/23,2022/23,1,126,122,3,120,237,0,237,,scheduled_balls_completed,India Won by 16 Runs
+17626,South Africa in India T20I Series 2022/23,2022/23,2,132,120,3,120,221,0,221,,scheduled_balls_completed,India Won by 16 Runs
+17627,South Africa in India T20I Series 2022/23,2022/23,1,128,121,3,120,227,0,227,,scheduled_balls_completed,South Africa Won by 49 Runs
+17627,South Africa in India T20I Series 2022/23,2022/23,2,121,112,9,120,178,0,178,,incomplete_or_interrupted,South Africa Won by 49 Runs
+17631,Bangladesh in United Arab Emirates T20I Series 2022,2022,1,128,120,5,120,158,0,158,,scheduled_balls_completed,Bangladesh won by 7 runs
+17631,Bangladesh in United Arab Emirates T20I Series 2022,2022,2,121,119,10,120,151,0,151,,all_out,Bangladesh won by 7 runs
+17632,Bangladesh in United Arab Emirates T20I Series 2022,2022,1,121,120,5,120,169,0,169,,scheduled_balls_completed,Bangladesh Won by 32 Runs
+17632,Bangladesh in United Arab Emirates T20I Series 2022,2022,2,126,120,5,120,137,0,137,,scheduled_balls_completed,Bangladesh Won by 32 Runs
+17640,West Indies in Australia T20I Series 2022,2022,1,132,121,9,120,145,0,145,,scheduled_balls_completed,Australia Won by 3 Wickets
+17640,West Indies in Australia T20I Series 2022,2022,2,122,119,7,120,146,0,146,,target_reached,Australia Won by 3 Wickets
+17641,West Indies in Australia T20I Series 2022,2022,1,126,120,7,120,178,0,178,,scheduled_balls_completed,Australia Won by 31 runs
+17641,West Indies in Australia T20I Series 2022,2022,2,124,120,8,120,147,0,147,,scheduled_balls_completed,Australia Won by 31 runs
+17737,New Zealand T20I Tri Series 2022/23,2022/23,1,124,120,5,120,167,0,167,,scheduled_balls_completed,Pakistan Won by 21 Runs
+17737,New Zealand T20I Tri Series 2022/23,2022/23,2,124,120,8,120,146,0,146,,scheduled_balls_completed,Pakistan Won by 21 Runs
+17738,New Zealand T20I Tri Series 2022/23,2022/23,1,120,120,8,120,147,0,147,,scheduled_balls_completed,Pakistan Won by 6 Wickets
+17738,New Zealand T20I Tri Series 2022/23,2022/23,2,114,110,4,120,149,0,149,,target_reached,Pakistan Won by 6 Wickets
+17739,New Zealand T20I Tri Series 2022/23,2022/23,1,125,120,8,120,137,0,137,,scheduled_balls_completed,New Zealand Won by 8 wickets
+17739,New Zealand T20I Tri Series 2022/23,2022/23,2,108,107,2,120,142,0,142,,target_reached,New Zealand Won by 8 wickets
+17740,New Zealand T20I Tri Series 2022/23,2022/23,1,129,120,7,120,130,0,130,,scheduled_balls_completed,New Zealand Won by 9 Wickets
+17740,New Zealand T20I Tri Series 2022/23,2022/23,2,101,97,1,120,131,0,131,,target_reached,New Zealand Won by 9 Wickets
+17741,New Zealand T20I Tri Series 2022/23,2022/23,1,125,120,5,120,208,0,208,,scheduled_balls_completed,New Zealand Won by 48 Runs
+17741,New Zealand T20I Tri Series 2022/23,2022/23,2,122,120,7,120,160,0,160,,scheduled_balls_completed,New Zealand Won by 48 Runs
+17742,New Zealand T20I Tri Series 2022/23,2022/23,1,125,120,6,120,173,0,173,,scheduled_balls_completed,Pakistan Won by 7 Wickets
+17742,New Zealand T20I Tri Series 2022/23,2022/23,2,124,119,3,120,177,0,177,,target_reached,Pakistan Won by 7 Wickets
+17743,New Zealand T20I Tri Series 2022/23,2022/23,1,121,120,7,120,163,0,163,,scheduled_balls_completed,Pakistan Won by 5 Wickets
+17743,New Zealand T20I Tri Series 2022/23,2022/23,2,120,117,5,120,168,0,168,,target_reached,Pakistan Won by 5 Wickets
+17763,England in Australia T20I Series 2022,2022,1,125,121,6,120,208,0,208,,scheduled_balls_completed,England Won by 8 Runs
+17763,England in Australia T20I Series 2022,2022,2,130,120,9,120,200,0,200,,scheduled_balls_completed,England Won by 8 Runs
+17764,England in Australia T20I Series 2022,2022,1,126,120,7,120,178,0,178,,scheduled_balls_completed,England Won by 8 Runs
+17764,England in Australia T20I Series 2022,2022,2,128,120,6,120,170,0,170,,scheduled_balls_completed,England Won by 8 Runs
+17765,England in Australia T20I Series 2022,2022,1,75,72,2,72,112,0,112,130.0,scheduled_balls_completed,No Result
+17765,England in Australia T20I Series 2022,2022,2,25,23,3,72,30,0,30,130.0,incomplete_or_interrupted,No Result
+18531,India in New Zealand T20I Series 2022/23,2022/23,1,125,120,6,120,191,0,191,,scheduled_balls_completed,India won by 65 runs
+18531,India in New Zealand T20I Series 2022/23,2022/23,2,116,113,10,120,126,0,126,,all_out,India won by 65 runs
+18532,India in New Zealand T20I Series 2022/23,2022/23,1,123,118,10,120,160,0,160,,all_out,Match Tied
+18532,India in New Zealand T20I Series 2022/23,2022/23,2,56,54,4,120,75,0,75,,incomplete_or_interrupted,Match Tied
+19556,Sri Lanka in India T20I Series 2023,2023,1,124,120,5,120,162,0,162,,scheduled_balls_completed,India Won by 2 Runs
+19556,Sri Lanka in India T20I Series 2023,2023,2,125,121,10,120,160,0,160,,scheduled_balls_completed,India Won by 2 Runs
+19557,Sri Lanka in India T20I Series 2023,2023,1,131,120,6,120,206,0,206,,scheduled_balls_completed,Sri Lanka Won by 16 Runs
+19557,Sri Lanka in India T20I Series 2023,2023,2,126,120,8,120,190,0,190,,scheduled_balls_completed,Sri Lanka Won by 16 Runs
+19558,Sri Lanka in India T20I Series 2023,2023,1,123,120,5,120,228,0,228,,scheduled_balls_completed,India Won by 91 Runs
+19558,Sri Lanka in India T20I Series 2023,2023,2,112,100,10,120,137,0,137,,all_out,India Won by 91 Runs
+19690,Ireland in Zimbabwe T20I Series 2023,2023,1,116,116,10,120,114,0,114,,all_out,Zimbabwe Won by 5 Wickets
+19690,Ireland in Zimbabwe T20I Series 2023,2023,2,112,108,5,120,118,0,118,,target_reached,Zimbabwe Won by 5 Wickets
+19691,Ireland in Zimbabwe T20I Series 2023,2023,1,125,120,10,120,144,0,144,,all_out,Ireland Won by 6 wickets
+19691,Ireland in Zimbabwe T20I Series 2023,2023,2,120,118,4,120,150,0,150,,target_reached,Ireland Won by 6 wickets
+19692,Ireland in Zimbabwe T20I Series 2023,2023,1,124,120,9,120,141,0,141,,scheduled_balls_completed,Zimbabwe Won by 4 Wickets
+19692,Ireland in Zimbabwe T20I Series 2023,2023,2,118,114,6,120,144,0,144,,target_reached,Zimbabwe Won by 4 Wickets
+19715,New Zealand in India T20I Series 2023,2023,1,124,120,6,120,176,0,176,,scheduled_balls_completed,New Zealand won by 21 runs
+19715,New Zealand in India T20I Series 2023,2023,2,128,120,9,120,155,0,155,,scheduled_balls_completed,New Zealand won by 21 runs
+19716,New Zealand in India T20I Series 2023,2023,1,125,120,8,120,99,0,99,,scheduled_balls_completed,India won by 6 wickets
+19716,New Zealand in India T20I Series 2023,2023,2,125,119,4,120,101,0,101,,target_reached,India won by 6 wickets
+19717,New Zealand in India T20I Series 2023,2023,1,124,120,4,120,234,0,234,,scheduled_balls_completed,India Won by 168 runs
+19717,New Zealand in India T20I Series 2023,2023,2,75,73,10,120,66,0,66,,all_out,India Won by 168 runs
+19959,West Indies in South Africa T20I Series 2023,2023,1,73,66,8,66,131,0,131,,scheduled_balls_completed,West Indies won by 3 wickets
+19959,West Indies in South Africa T20I Series 2023,2023,2,67,63,7,120,132,0,132,,target_reached,West Indies won by 3 wickets
+19960,West Indies in South Africa T20I Series 2023,2023,1,124,120,5,120,258,0,258,,scheduled_balls_completed,South Africa Won by 6 wickets
+19960,West Indies in South Africa T20I Series 2023,2023,2,124,113,4,120,259,0,259,,target_reached,South Africa Won by 6 wickets
+19961,West Indies in South Africa T20I Series 2023,2023,1,128,120,8,120,220,0,220,,scheduled_balls_completed,West Indies Won by 7 runs
+19961,West Indies in South Africa T20I Series 2023,2023,2,130,120,6,120,213,0,213,,scheduled_balls_completed,West Indies Won by 7 runs
+20133,England in Bangladesh T20I Series 2023,2023,1,123,120,6,120,156,0,156,,scheduled_balls_completed,Bangladesh Won by 6 Wickets
+20133,England in Bangladesh T20I Series 2023,2023,2,109,108,4,120,158,0,158,,target_reached,Bangladesh Won by 6 Wickets
+20134,England in Bangladesh T20I Series 2023,2023,1,126,120,10,120,117,0,117,,all_out,Bangladesh Won  by 4 Wickets
+20134,England in Bangladesh T20I Series 2023,2023,2,116,113,6,120,120,0,120,,target_reached,Bangladesh Won  by 4 Wickets
+20135,England in Bangladesh T20I Series 2023,2023,1,127,120,2,120,158,0,158,,scheduled_balls_completed,Bangladesh won by 16 runs
+20135,England in Bangladesh T20I Series 2023,2023,2,122,120,6,120,142,0,142,,scheduled_balls_completed,Bangladesh won by 16 runs
+20181,IPL 2023,2023,1,121,121,7,120,178,0,178,,scheduled_balls_completed,Gujarat Titans Won by 5 wickets
+20181,IPL 2023,2023,2,122,116,5,120,182,0,182,,target_reached,Gujarat Titans Won by 5 wickets
+20182,IPL 2023,2023,1,123,121,5,120,191,0,191,,scheduled_balls_completed,Punjab Kings Won by 7 Runs(D/L Method)
+20182,IPL 2023,2023,2,99,96,7,120,146,0,146,,incomplete_or_interrupted,Punjab Kings Won by 7 Runs(D/L Method)
+20183,IPL 2023,2023,1,125,120,6,120,193,0,193,,scheduled_balls_completed,Lucknow Super Giants Won by 50 runs
+20183,IPL 2023,2023,2,126,121,9,120,143,0,143,,scheduled_balls_completed,Lucknow Super Giants Won by 50 runs
+20184,IPL 2023,2023,1,122,120,5,120,203,0,203,,scheduled_balls_completed,Rajasthan Royals Won By 72 Runs
+20184,IPL 2023,2023,2,126,121,8,120,131,0,131,,scheduled_balls_completed,Rajasthan Royals Won By 72 Runs
+20185,IPL 2023,2023,1,130,121,7,120,171,0,171,,scheduled_balls_completed,Royal Challengers Bengaluru won by 8 wickets
+20185,IPL 2023,2023,2,102,98,2,120,172,0,172,,target_reached,Royal Challengers Bengaluru won by 8 wickets
+20186,IPL 2023,2023,1,124,120,7,120,217,0,217,,scheduled_balls_completed,Chennai Super Kings Won by 12 runs
+20186,IPL 2023,2023,2,136,120,7,120,204,1,205,,scheduled_balls_completed,Chennai Super Kings Won by 12 runs
+20187,IPL 2023,2023,1,125,120,8,120,162,0,162,,scheduled_balls_completed,Gujarat Titans won by 6 wickets
+20187,IPL 2023,2023,2,115,109,4,120,163,0,163,,target_reached,Gujarat Titans won by 6 wickets
+20188,IPL 2023,2023,1,127,121,4,120,196,1,197,,scheduled_balls_completed,Punjab Kings Won by 5 runs
+20188,IPL 2023,2023,2,125,120,7,120,192,0,192,,scheduled_balls_completed,Punjab Kings Won by 5 runs
+20189,IPL 2023,2023,1,129,121,7,120,204,0,204,,scheduled_balls_completed,Kolkata Knight Riders Won By 81 Runs
+20189,IPL 2023,2023,2,107,106,10,120,123,0,123,,all_out,Kolkata Knight Riders Won By 81 Runs
+20190,IPL 2023,2023,1,122,120,8,120,121,0,121,,scheduled_balls_completed,Lucknow Super Giants Won by 6 wickets
+20190,IPL 2023,2023,2,101,96,5,120,127,0,127,,target_reached,Lucknow Super Giants Won by 6 wickets
+20191,IPL 2023,2023,1,124,120,4,120,199,0,199,,scheduled_balls_completed,Rajasthan Royals Won by 57 Runs
+20191,IPL 2023,2023,2,128,121,9,120,142,0,142,,scheduled_balls_completed,Rajasthan Royals Won by 57 Runs
+20192,IPL 2023,2023,1,125,120,8,120,157,0,157,,scheduled_balls_completed,Chennai Super Kings Won by 7 wickets
+20192,IPL 2023,2023,2,114,109,3,120,159,0,159,,target_reached,Chennai Super Kings Won by 7 wickets
+20193,IPL 2023,2023,1,127,120,4,120,204,0,204,,scheduled_balls_completed,Kolkata Knight Riders Won By 3 Wickets
+20193,IPL 2023,2023,2,123,120,7,120,207,0,207,,target_reached,Kolkata Knight Riders Won By 3 Wickets
+20194,IPL 2023,2023,1,125,120,9,120,143,0,143,,scheduled_balls_completed,Sunrisers Hyderabad won by 8 wickets
+20194,IPL 2023,2023,2,103,103,2,120,145,0,145,,target_reached,Sunrisers Hyderabad won by 8 wickets
+20195,IPL 2023,2023,1,124,120,2,120,212,0,212,,scheduled_balls_completed,Lucknow Super Giants Won by 1 wicket
+20195,IPL 2023,2023,2,129,120,9,120,213,0,213,,target_reached,Lucknow Super Giants Won by 1 wicket
+20196,IPL 2023,2023,1,124,118,10,120,172,0,172,,all_out,Mumbai Indians Won By 6 Wickets
+20196,IPL 2023,2023,2,122,120,4,120,173,0,173,,target_reached,Mumbai Indians Won By 6 Wickets
+20197,IPL 2023,2023,1,126,120,8,120,175,0,175,,scheduled_balls_completed,Rajasthan Royals Won by 3 Runs
+20197,IPL 2023,2023,2,127,120,6,120,172,0,172,,scheduled_balls_completed,Rajasthan Royals Won by 3 Runs
+20198,IPL 2023,2023,1,129,120,8,120,153,0,153,,scheduled_balls_completed,Gujarat Titans Won By 6 Wickets
+20198,IPL 2023,2023,2,119,119,4,120,154,0,154,,target_reached,Gujarat Titans Won By 6 Wickets
+20199,IPL 2023,2023,1,128,120,4,120,228,0,228,,scheduled_balls_completed,Sunrisers Hyderabad Won By 23 Runs
+20199,IPL 2023,2023,2,128,120,7,120,204,1,205,,scheduled_balls_completed,Sunrisers Hyderabad Won By 23 Runs
+20200,IPL 2023,2023,1,124,121,6,120,174,0,174,,scheduled_balls_completed,Royal Challengers Bengaluru won by 23 runs
+20200,IPL 2023,2023,2,123,120,9,120,151,0,151,,scheduled_balls_completed,Royal Challengers Bengaluru won by 23 runs
+20201,IPL 2023,2023,1,127,120,8,120,155,4,159,,scheduled_balls_completed,Punjab Kings won by 2 wickets
+20201,IPL 2023,2023,2,122,117,8,120,161,0,161,,target_reached,Punjab Kings won by 2 wickets
+20202,IPL 2023,2023,1,128,120,6,120,185,0,185,,scheduled_balls_completed,Mumbai Indians won by 5 wickets
+20202,IPL 2023,2023,2,109,106,5,120,186,0,186,,target_reached,Mumbai Indians won by 5 wickets
+20203,IPL 2023,2023,1,124,120,7,120,177,0,177,,scheduled_balls_completed,Rajasthan Royals Won by 3 Wickets
+20203,IPL 2023,2023,2,118,116,7,120,179,0,179,,target_reached,Rajasthan Royals Won by 3 Wickets
+20204,IPL 2023,2023,1,126,122,6,120,226,0,226,,scheduled_balls_completed,Chennai Super Kings Won by 8 Runs
+20204,IPL 2023,2023,2,126,120,8,120,218,0,218,,scheduled_balls_completed,Chennai Super Kings Won by 8 Runs
+20205,IPL 2023,2023,1,122,120,5,120,192,0,192,,scheduled_balls_completed,Mumbai Indians Won by 14 Runs
+20205,IPL 2023,2023,2,127,119,10,120,178,0,178,,all_out,Mumbai Indians Won by 14 Runs
+20206,IPL 2023,2023,1,122,120,7,120,154,0,154,,scheduled_balls_completed,Lucknow Super Giants Won by 10 Runs
+20206,IPL 2023,2023,2,123,120,6,120,144,0,144,,scheduled_balls_completed,Lucknow Super Giants Won by 10 Runs
+20207,IPL 2023,2023,1,123,121,4,120,174,0,174,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 24 Runs
+20207,IPL 2023,2023,2,113,111,10,120,150,0,150,,all_out,Royal Challengers Bengaluru Won by 24 Runs
+20208,IPL 2023,2023,1,130,120,10,120,127,0,127,,all_out,Delhi Capitals Won By 4 Wickets
+20208,IPL 2023,2023,2,121,116,6,120,128,0,128,,target_reached,Delhi Capitals Won By 4 Wickets
+20209,IPL 2023,2023,1,122,120,7,120,134,0,134,,scheduled_balls_completed,Chennai Super Kings Won by 7 Wickets
+20209,IPL 2023,2023,2,112,112,3,120,138,0,138,,target_reached,Chennai Super Kings Won by 7 Wickets
+20210,IPL 2023,2023,1,120,120,6,120,135,0,135,,scheduled_balls_completed,Gujarat Titans Won by 7 runs
+20210,IPL 2023,2023,2,121,120,7,120,128,0,128,,scheduled_balls_completed,Gujarat Titans Won by 7 runs
+20211,IPL 2023,2023,1,129,121,8,120,214,0,214,,scheduled_balls_completed,Punjab Kings Won By 13Runs
+20211,IPL 2023,2023,2,123,120,6,120,201,0,201,,scheduled_balls_completed,Punjab Kings Won By 13Runs
+20212,IPL 2023,2023,1,125,120,9,120,189,0,189,,scheduled_balls_completed,Royal Challengers Bengaluru Won By 7 Runs
+20212,IPL 2023,2023,2,126,120,6,120,182,0,182,,scheduled_balls_completed,Royal Challengers Bengaluru Won By 7 Runs
+20213,IPL 2023,2023,1,123,121,4,120,235,0,235,,scheduled_balls_completed,Chennai Super Kings won by 49 runs
+20213,IPL 2023,2023,2,129,120,8,120,186,0,186,,scheduled_balls_completed,Chennai Super Kings won by 49 runs
+20214,IPL 2023,2023,1,121,120,9,120,144,0,144,,scheduled_balls_completed,Delhi Capitals Won by 7 Runs
+20214,IPL 2023,2023,2,121,120,6,120,137,0,137,,scheduled_balls_completed,Delhi Capitals Won by 7 Runs
+20215,IPL 2023,2023,1,125,120,6,120,207,0,207,,scheduled_balls_completed,Gujarat Titans Won by 55 runs
+20215,IPL 2023,2023,2,121,120,9,120,152,0,152,,scheduled_balls_completed,Gujarat Titans Won by 55 runs
+20216,IPL 2023,2023,1,125,120,5,120,200,0,200,,scheduled_balls_completed,Kolkata Knight Riders Won by 21 Runs
+20216,IPL 2023,2023,2,122,120,8,120,179,0,179,,scheduled_balls_completed,Kolkata Knight Riders Won by 21 Runs
+20217,IPL 2023,2023,1,124,120,5,120,202,0,202,,scheduled_balls_completed,Rajasthan Royals Won by 32 Runs
+20217,IPL 2023,2023,2,121,120,6,120,170,0,170,,scheduled_balls_completed,Rajasthan Royals Won by 32 Runs
+20218,IPL 2023,2023,1,129,120,5,120,256,1,257,,scheduled_balls_completed,Lucknow Super Giants Won by 56 runs
+20218,IPL 2023,2023,2,128,120,10,120,201,0,201,,all_out,Lucknow Super Giants Won by 56 runs
+20219,IPL 2023,2023,1,123,120,7,120,179,0,179,,scheduled_balls_completed,Gujarat Titans Won by 7 Wickets
+20219,IPL 2023,2023,2,110,107,3,120,180,0,180,,target_reached,Gujarat Titans Won by 7 Wickets
+20220,IPL 2023,2023,1,129,121,6,120,197,0,197,,scheduled_balls_completed,Sunrisers Hyderabad Won by 9 Runs
+20220,IPL 2023,2023,2,123,120,6,120,188,0,188,,scheduled_balls_completed,Sunrisers Hyderabad Won by 9 Runs
+20221,IPL 2023,2023,1,127,120,4,120,200,0,200,,scheduled_balls_completed,Punjab Kings Won By  4 wickets
+20221,IPL 2023,2023,2,125,120,6,120,201,0,201,,target_reached,Punjab Kings Won By  4 wickets
+20222,IPL 2023,2023,1,133,120,7,120,212,0,212,,scheduled_balls_completed,Mumbai Indians won by 6 wickets
+20222,IPL 2023,2023,2,125,117,4,120,214,0,214,,target_reached,Mumbai Indians won by 6 wickets
+20223,IPL 2023,2023,1,122,120,9,120,126,0,126,,scheduled_balls_completed,Royal Challengers Bengaluru Won  by 18 Runs
+20223,IPL 2023,2023,2,124,120,10,120,108,0,108,,all_out,Royal Challengers Bengaluru Won  by 18 Runs
+20224,IPL 2023,2023,1,124,120,8,120,130,0,130,,scheduled_balls_completed,Delhi Capitals Won by 5 runs
+20224,IPL 2023,2023,2,124,120,6,120,125,0,125,,scheduled_balls_completed,Delhi Capitals Won by 5 runs
+20225,IPL 2023,2023,1,128,121,3,120,214,0,214,,scheduled_balls_completed,Mumbai Indians Won by 6 wickets
+20225,IPL 2023,2023,2,116,113,4,120,216,0,216,,target_reached,Mumbai Indians Won by 6 wickets
+20226,IPL 2023,2023,1,118,116,7,120,125,0,125,,incomplete_or_interrupted,Match Abandoned
+20227,IPL 2023,2023,1,127,120,9,120,171,0,171,,scheduled_balls_completed,Kolkata Knight Riders Won by 5 Runs
+20227,IPL 2023,2023,2,127,120,8,120,166,0,166,,scheduled_balls_completed,Kolkata Knight Riders Won by 5 Runs
+20228,IPL 2023,2023,1,114,107,10,120,118,0,118,,all_out,Gujarat Titans Won by 9 Wickets
+20228,IPL 2023,2023,2,84,83,1,120,119,0,119,,target_reached,Gujarat Titans Won by 9 Wickets
+20229,IPL 2023,2023,1,122,120,8,120,139,0,139,,scheduled_balls_completed,Chennai Super Kings Won by 6 wickets
+20229,IPL 2023,2023,2,109,106,4,120,140,0,140,,target_reached,Chennai Super Kings Won by 6 wickets
+20230,IPL 2023,2023,1,125,120,4,120,181,0,181,,scheduled_balls_completed,Delhi Capitals Won by 7 Wickets
+20230,IPL 2023,2023,2,103,100,3,120,187,0,187,,target_reached,Delhi Capitals Won by 7 Wickets
+20231,IPL 2023,2023,1,125,121,2,120,227,0,227,,scheduled_balls_completed,Gujarat Titans Won By 56 Runs
+20231,IPL 2023,2023,2,125,120,7,120,171,0,171,,scheduled_balls_completed,Gujarat Titans Won By 56 Runs
+20232,IPL 2023,2023,1,125,120,2,120,214,0,214,,scheduled_balls_completed,Sunrisers Hyderabad Won by 4 wickets
+20232,IPL 2023,2023,2,125,120,6,120,217,0,217,,target_reached,Sunrisers Hyderabad Won by 4 wickets
+20233,IPL 2023,2023,1,126,120,7,120,179,0,179,,scheduled_balls_completed,Kolkata Knight Riders Won by 5 Wickets
+20233,IPL 2023,2023,2,123,120,5,120,182,0,182,,target_reached,Kolkata Knight Riders Won by 5 Wickets
+20234,IPL 2023,2023,1,123,120,6,120,199,0,199,,scheduled_balls_completed,Mumbai Indians won by 6 wickets
+20234,IPL 2023,2023,2,106,101,4,120,196,4,200,,incomplete_or_interrupted,Mumbai Indians won by 6 wickets
+20235,IPL 2023,2023,1,130,120,8,120,167,0,167,,scheduled_balls_completed,Chennai Super Kings Won by 27 Runs
+20235,IPL 2023,2023,2,125,120,8,120,140,0,140,,scheduled_balls_completed,Chennai Super Kings Won by 27 Runs
+20236,IPL 2023,2023,1,121,120,8,120,149,0,149,,scheduled_balls_completed,Rajasthan Royals Won by 9 Wickets
+20236,IPL 2023,2023,2,82,79,1,120,151,0,151,,target_reached,Rajasthan Royals Won by 9 Wickets
+20237,IPL 2023,2023,1,120,120,5,120,218,0,218,,scheduled_balls_completed,Mumbai Indians Won by 27 Runs
+20237,IPL 2023,2023,2,123,120,8,120,191,0,191,,scheduled_balls_completed,Mumbai Indians Won by 27 Runs
+20238,IPL 2023,2023,1,123,121,6,120,182,0,182,,scheduled_balls_completed,Lucknow Super Giants Won by 7 wickets
+20238,IPL 2023,2023,2,121,116,3,120,185,0,185,,target_reached,Lucknow Super Giants Won by 7 wickets
+20239,IPL 2023,2023,1,127,120,7,120,167,0,167,,scheduled_balls_completed,Punjab Kings Won by 31 Runs
+20239,IPL 2023,2023,2,123,120,8,120,136,0,136,,scheduled_balls_completed,Punjab Kings Won by 31 Runs
+20240,IPL 2023,2023,1,124,120,5,120,171,0,171,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 112 runs
+20240,IPL 2023,2023,2,65,63,10,120,59,0,59,,all_out,Royal Challengers Bengaluru Won by 112 runs
+20241,IPL 2023,2023,1,125,120,6,120,144,0,144,,scheduled_balls_completed,Kolkata Knight Riders won by 6 Wickets
+20241,IPL 2023,2023,2,118,112,4,120,147,0,147,,target_reached,Kolkata Knight Riders won by 6 Wickets
+20242,IPL 2023,2023,1,128,120,9,120,188,0,188,,scheduled_balls_completed,Gujarat Titans Won by 34 runs
+20242,IPL 2023,2023,2,125,120,9,120,154,0,154,,scheduled_balls_completed,Gujarat Titans Won by 34 runs
+20243,IPL 2023,2023,1,125,120,3,120,177,0,177,,scheduled_balls_completed,Lucknow Super Giants won by 5 runs
+20243,IPL 2023,2023,2,130,121,5,120,168,4,172,,scheduled_balls_completed,Lucknow Super Giants won by 5 runs
+20244,IPL 2023,2023,1,125,120,2,120,213,0,213,,scheduled_balls_completed,Delhi Capitals Won by 15 runs
+20244,IPL 2023,2023,2,124,122,8,120,198,0,198,,scheduled_balls_completed,Delhi Capitals Won by 15 runs
+20245,IPL 2023,2023,1,124,120,5,120,186,0,186,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 8 wickets
+20245,IPL 2023,2023,2,121,117,2,120,187,0,187,,target_reached,Royal Challengers Bengaluru Won by 8 wickets
+20246,IPL 2023,2023,1,126,120,5,120,187,0,187,,scheduled_balls_completed,Rajasthan Royals Won by 4 wickets
+20246,IPL 2023,2023,2,126,118,6,120,189,0,189,,target_reached,Rajasthan Royals Won by 4 wickets
+20247,IPL 2023,2023,1,129,121,3,120,223,0,223,,scheduled_balls_completed,Chennai Super Kings Won by 77 runs
+20247,IPL 2023,2023,2,127,120,9,120,146,0,146,,scheduled_balls_completed,Chennai Super Kings Won by 77 runs
+20248,IPL 2023,2023,1,127,121,8,120,176,0,176,,scheduled_balls_completed,Lucknow Super Giants won by 1 run
+20248,IPL 2023,2023,2,125,120,7,120,175,0,175,,scheduled_balls_completed,Lucknow Super Giants won by 1 run
+20249,IPL 2023,2023,1,126,120,5,120,200,0,200,,scheduled_balls_completed,Mumbai Indians Won by 8 wickets
+20249,IPL 2023,2023,2,113,111,2,120,201,0,201,,target_reached,Mumbai Indians Won by 8 wickets
+20250,IPL 2023,2023,1,125,120,5,120,197,0,197,,scheduled_balls_completed,Gujarat Titans Won by 6 wickets
+20250,IPL 2023,2023,2,123,116,4,120,198,0,198,,target_reached,Gujarat Titans Won by 6 wickets
+20878,Afghanistan v Pakistan T20I Series 2023,2023,1,121,120,9,120,92,0,92,,scheduled_balls_completed,Afghanistan Won by 6 Wickets
+20878,Afghanistan v Pakistan T20I Series 2023,2023,2,109,107,4,120,98,0,98,,target_reached,Afghanistan Won by 6 Wickets
+20879,Afghanistan v Pakistan T20I Series 2023,2023,1,122,120,6,120,130,0,130,,scheduled_balls_completed,Afghanistan Won by 7 Wickets
+20879,Afghanistan v Pakistan T20I Series 2023,2023,2,121,119,3,120,133,0,133,,target_reached,Afghanistan Won by 7 Wickets
+20880,Afghanistan v Pakistan T20I Series 2023,2023,1,125,121,7,120,182,0,182,,scheduled_balls_completed,Pakistan Won by 66 Runs
+20880,Afghanistan v Pakistan T20I Series 2023,2023,2,116,112,10,120,116,0,116,,all_out,Pakistan Won by 66 Runs
+21070,Ireland in Bangladesh T20I Series 2023,2023,1,123,116,5,120,207,0,207,104.0,incomplete_or_interrupted,Bangladesh Won by 22 Runs (DLS method)
+21070,Ireland in Bangladesh T20I Series 2023,2023,2,51,48,5,48,81,0,81,104.0,scheduled_balls_completed,Bangladesh Won by 22 Runs (DLS method)
+21071,Ireland in Bangladesh T20I Series 2023,2023,1,110,102,3,102,202,0,202,203.0,scheduled_balls_completed,Bangladesh Won by 77 Runs
+21071,Ireland in Bangladesh T20I Series 2023,2023,2,103,102,9,102,125,0,125,203.0,scheduled_balls_completed,Bangladesh Won by 77 Runs
+21072,Ireland in Bangladesh T20I Series 2023,2023,1,119,116,10,120,124,0,124,,all_out,Ireland Won by 7 Wickets
+21072,Ireland in Bangladesh T20I Series 2023,2023,2,87,84,3,120,126,0,126,,target_reached,Ireland Won by 7 Wickets
+21176,Sri Lanka in New Zealand T20I Series 2023,2023,1,129,120,5,120,196,0,196,,scheduled_balls_completed,Sri Lanka won the super over
+21176,Sri Lanka in New Zealand T20I Series 2023,2023,2,123,120,8,120,196,0,196,,scheduled_balls_completed,Sri Lanka won the super over
+21177,Sri Lanka in New Zealand T20I Series 2023,2023,1,119,114,10,120,141,0,141,,all_out,New Zealand Won by 9 Wickets
+21177,Sri Lanka in New Zealand T20I Series 2023,2023,2,95,88,1,120,146,0,146,,target_reached,New Zealand Won by 9 Wickets
+21178,Sri Lanka in New Zealand T20I Series 2023,2023,1,128,120,6,120,182,0,182,,scheduled_balls_completed,New Zealand Won by 4 Wickets
+21178,Sri Lanka in New Zealand T20I Series 2023,2023,2,123,119,6,120,183,0,183,,target_reached,New Zealand Won by 4 Wickets
+21403,New Zealand in Pakistan T20I Series 2023,2023,1,126,119,10,120,182,0,182,,all_out,Pakistan Won by 88 Runs
+21403,New Zealand in Pakistan T20I Series 2023,2023,2,96,93,10,120,94,0,94,,all_out,Pakistan Won by 88 Runs
+21404,New Zealand in Pakistan T20I Series 2023,2023,1,122,120,4,120,192,0,192,,scheduled_balls_completed,Pakistan Won by 38 runs
+21404,New Zealand in Pakistan T20I Series 2023,2023,2,124,120,7,120,154,0,154,,scheduled_balls_completed,Pakistan Won by 38 runs
+21405,New Zealand in Pakistan T20I Series 2023,2023,1,123,120,5,120,163,0,163,,scheduled_balls_completed,New Zealand Won by 4 Runs
+21405,New Zealand in Pakistan T20I Series 2023,2023,2,126,120,10,120,159,0,159,,all_out,New Zealand Won by 4 Runs
+21406,New Zealand in Pakistan T20I Series 2023,2023,1,118,113,5,120,164,0,164,,incomplete_or_interrupted,Match Abandoned
+21407,New Zealand in Pakistan T20I Series 2023,2023,1,125,120,5,120,193,0,193,,scheduled_balls_completed,New Zealand Won by 6 wickets
+21407,New Zealand in Pakistan T20I Series 2023,2023,2,122,118,4,120,194,0,194,,target_reached,New Zealand Won by 6 wickets
+21583,IPL 2023,2023,1,122,121,7,120,171,1,172,,scheduled_balls_completed,Chennai Super Kings Won by 15 runs
+21583,IPL 2023,2023,2,132,120,10,120,157,0,157,,all_out,Chennai Super Kings Won by 15 runs
+21584,IPL 2023,2023,1,126,120,8,120,182,0,182,,scheduled_balls_completed,Mumbai Indians won by 81 runs
+21584,IPL 2023,2023,2,102,99,10,120,101,0,101,,all_out,Mumbai Indians won by 81 runs
+21585,IPL 2023,2023,1,127,121,3,120,233,0,233,,scheduled_balls_completed,Gujarat Titans won by 62 runs
+21585,IPL 2023,2023,2,115,110,10,120,171,0,171,,all_out,Gujarat Titans won by 62 runs
+21586,IPL 2023,2023,1,122,120,4,120,214,0,214,171.0,scheduled_balls_completed,Chennai Super Kings Won by 5 wickets  (DLS method)
+21586,IPL 2023,2023,2,94,90,5,90,171,0,171,171.0,target_reached,Chennai Super Kings Won by 5 wickets  (DLS method)
+23673,Afghanistan in Bangladesh T20I Series 2023,2023,1,122,120,7,120,154,0,154,,scheduled_balls_completed,Bangladesh Won by 2 wickets
+23673,Afghanistan in Bangladesh T20I Series 2023,2023,2,124,119,8,120,157,0,157,,target_reached,Bangladesh Won by 2 wickets
+23674,Afghanistan in Bangladesh T20I Series 2023,2023,1,108,102,7,120,116,0,116,,incomplete_or_interrupted,Bangladesh Won by 6 Wickets(D/L Method)
+23674,Afghanistan in Bangladesh T20I Series 2023,2023,2,103,97,4,120,119,0,119,,target_reached,Bangladesh Won by 6 Wickets(D/L Method)
+24350,India in West Indies T20I Series 2023,2023,1,127,120,6,120,149,0,149,,scheduled_balls_completed,West Indies Won   by 4 runs
+24350,India in West Indies T20I Series 2023,2023,2,126,121,9,120,145,0,145,,scheduled_balls_completed,West Indies Won   by 4 runs
+24351,India in West Indies T20I Series 2023,2023,1,126,120,7,120,152,0,152,,scheduled_balls_completed,West Indies Won by 2 wickets
+24351,India in West Indies T20I Series 2023,2023,2,114,113,8,120,155,0,155,,target_reached,West Indies Won by 2 wickets
+24352,India in West Indies T20I Series 2023,2023,1,125,120,5,120,159,0,159,,scheduled_balls_completed,India Won by 7 Wickets
+24352,India in West Indies T20I Series 2023,2023,2,110,107,3,120,164,0,164,,target_reached,India Won by 7 Wickets
+24353,India in West Indies T20I Series 2023,2023,1,123,120,8,120,178,0,178,,scheduled_balls_completed,India won by 9 wickets
+24353,India in West Indies T20I Series 2023,2023,2,106,102,1,120,179,0,179,,target_reached,India won by 9 wickets
+24354,India in West Indies T20I Series 2023,2023,1,127,120,9,120,165,0,165,,scheduled_balls_completed,West Indies Won by 8 wickets
+24354,India in West Indies T20I Series 2023,2023,2,111,108,2,120,171,0,171,,target_reached,West Indies Won by 8 wickets
+24792,New Zealand in United Arab Emirates T20I Series 2023,2023,1,122,120,6,120,155,0,155,,scheduled_balls_completed,New Zealand Won by 19 Runs
+24792,New Zealand in United Arab Emirates T20I Series 2023,2023,2,123,118,10,120,136,0,136,,all_out,New Zealand Won by 19 Runs
+24793,New Zealand in United Arab Emirates T20I Series 2023,2023,1,124,121,8,120,142,0,142,,scheduled_balls_completed,United Arab Emirates Won by 7 Wickets
+24793,New Zealand in United Arab Emirates T20I Series 2023,2023,2,97,94,3,120,144,0,144,,target_reached,United Arab Emirates Won by 7 Wickets
+24794,New Zealand in United Arab Emirates T20I Series 2023,2023,1,124,120,5,120,166,0,166,,scheduled_balls_completed,New Zealand Won by 32 Runs
+24794,New Zealand in United Arab Emirates T20I Series 2023,2023,2,128,120,7,120,134,0,134,,scheduled_balls_completed,New Zealand Won by 32 Runs
+24822,India in Ireland T20I Series 2023,2023,1,127,121,7,120,139,0,139,,scheduled_balls_completed,India Won by 2 Runs (DLS method)
+24822,India in Ireland T20I Series 2023,2023,2,43,41,2,120,47,0,47,,incomplete_or_interrupted,India Won by 2 Runs (DLS method)
+24823,India in Ireland T20I Series 2023,2023,1,125,120,5,120,185,0,185,,scheduled_balls_completed,India Won by 33 Runs
+24823,India in Ireland T20I Series 2023,2023,2,126,120,8,120,152,0,152,,scheduled_balls_completed,India Won by 33 Runs
+25155,Australia in South Africa T20I Series 2023,2023,1,125,120,6,120,226,0,226,,scheduled_balls_completed,Australia Won by 111 Runs
+25155,Australia in South Africa T20I Series 2023,2023,2,95,93,10,120,115,0,115,,all_out,Australia Won by 111 Runs
+25156,Australia in South Africa T20I Series 2023,2023,1,123,120,8,120,164,0,164,,scheduled_balls_completed,Australia won by 8 wickets
+25156,Australia in South Africa T20I Series 2023,2023,2,92,89,2,120,168,0,168,,target_reached,Australia won by 8 wickets
+25157,Australia in South Africa T20I Series 2023,2023,1,123,121,8,120,190,0,190,,scheduled_balls_completed,Australia Won by 5 Wickets
+25157,Australia in South Africa T20I Series 2023,2023,2,110,107,5,120,191,0,191,,target_reached,Australia Won by 5 Wickets
+25158,New Zealand in England T20I Series 2023,2023,1,122,120,9,120,139,0,139,,scheduled_balls_completed,England won by 7 wickets
+25158,New Zealand in England T20I Series 2023,2023,2,92,86,3,120,143,0,143,,target_reached,England won by 7 wickets
+25159,New Zealand in England T20I Series 2023,2023,1,123,120,4,120,198,0,198,,scheduled_balls_completed,England Won by 95 runs
+25159,New Zealand in England T20I Series 2023,2023,2,86,84,10,120,103,0,103,,all_out,England Won by 95 runs
+25160,New Zealand in England T20I Series 2023,2023,1,124,120,5,120,202,0,202,,scheduled_balls_completed,New Zealand Won by 74 runs
+25160,New Zealand in England T20I Series 2023,2023,2,116,111,10,120,128,0,128,,all_out,New Zealand Won by 74 runs
+25161,New Zealand in England T20I Series 2023,2023,1,127,120,8,120,175,0,175,,scheduled_balls_completed,New Zealand Won by 6 Wickets
+25161,New Zealand in England T20I Series 2023,2023,2,105,104,4,120,179,0,179,,target_reached,New Zealand Won by 6 Wickets
+27060,Australia in India T20I Series 2023,2023,1,125,120,3,120,208,0,208,,scheduled_balls_completed,India won by 2 wickets
+27060,Australia in India T20I Series 2023,2023,2,132,119,8,120,209,0,209,,target_reached,India won by 2 wickets
+27061,Australia in India T20I Series 2023,2023,1,132,121,4,120,235,0,235,,scheduled_balls_completed,India won by 44 runs
+27061,Australia in India T20I Series 2023,2023,2,126,120,9,120,191,0,191,,scheduled_balls_completed,India won by 44 runs
+27062,Australia in India T20I Series 2023,2023,1,134,120,3,120,222,0,222,,scheduled_balls_completed,Australia Won by 5 Wickets
+27062,Australia in India T20I Series 2023,2023,2,128,120,5,120,225,0,225,,target_reached,Australia Won by 5 Wickets
+27063,Australia in India T20I Series 2023,2023,1,124,120,9,120,174,0,174,,scheduled_balls_completed,India Won by 20 runs
+27063,Australia in India T20I Series 2023,2023,2,126,120,7,120,154,0,154,,scheduled_balls_completed,India Won by 20 runs
+27064,Australia in India T20I Series 2023,2023,1,123,120,8,120,160,0,160,,scheduled_balls_completed,India won by 6 runs
+27064,Australia in India T20I Series 2023,2023,2,121,120,8,120,154,0,154,,scheduled_balls_completed,India won by 6 runs
+28046,India in South Africa T20I Series 2023,2023,1,123,117,7,120,180,0,180,152.0,incomplete_or_interrupted,South Africa won by 5 wickets (DLS)
+28046,India in South Africa T20I Series 2023,2023,2,86,83,5,90,154,0,154,152.0,target_reached,South Africa won by 5 wickets (DLS)
+28047,India in South Africa T20I Series 2023,2023,1,125,120,7,120,201,0,201,,scheduled_balls_completed,India won by 106 runs
+28047,India in South Africa T20I Series 2023,2023,2,84,83,10,120,95,0,95,,all_out,India won by 106 runs
+28057,Ireland in Zimbabwe T20I Series 2023/24,2023/24,1,122,120,8,120,147,0,147,,scheduled_balls_completed,Zimbabwe Won By 1 Wicket
+28057,Ireland in Zimbabwe T20I Series 2023/24,2023/24,2,122,120,9,120,148,0,148,,target_reached,Zimbabwe Won By 1 Wicket
+28058,Ireland in Zimbabwe T20I Series 2023/24,2023/24,1,128,120,5,120,165,0,165,,scheduled_balls_completed,Ireland Won by 4 Wickets
+28058,Ireland in Zimbabwe T20I Series 2023/24,2023/24,2,126,119,6,120,166,0,166,,target_reached,Ireland Won by 4 Wickets
+28059,Ireland in Zimbabwe T20I Series 2023/24,2023/24,1,125,120,6,120,140,0,140,,scheduled_balls_completed,Ireland Won By 6 Wickets
+28059,Ireland in Zimbabwe T20I Series 2023/24,2023/24,2,116,112,4,120,141,0,141,,target_reached,Ireland Won By 6 Wickets
+28063,England in West Indies T20I Series 2023,2023,1,128,117,10,120,171,0,171,,all_out,West Indies Won by 4 Wickets
+28063,England in West Indies T20I Series 2023,2023,2,113,109,6,120,172,0,172,,target_reached,West Indies Won by 4 Wickets
+28064,England in West Indies T20I Series 2023,2023,1,124,120,7,120,176,0,176,,scheduled_balls_completed,West Indies won by 10 runs
+28064,England in West Indies T20I Series 2023,2023,2,125,121,7,120,166,0,166,,scheduled_balls_completed,West Indies won by 10 runs
+28065,England in West Indies T20I Series 2023,2023,1,126,120,6,120,222,0,222,,scheduled_balls_completed,England Won By 7 Wickets
+28065,England in West Indies T20I Series 2023,2023,2,123,119,3,120,226,0,226,,target_reached,England Won By 7 Wickets
+28066,England in West Indies T20I Series 2023,2023,1,125,120,3,120,267,0,267,,scheduled_balls_completed,England Won by 75 Runs
+28066,England in West Indies T20I Series 2023,2023,2,95,93,10,120,192,0,192,,all_out,England Won by 75 Runs
+28067,England in West Indies T20I Series 2023,2023,1,117,117,10,120,132,0,132,,all_out,West Indies Won by 4 Wickets
+28067,England in West Indies T20I Series 2023,2023,2,116,116,6,120,133,0,133,,target_reached,West Indies Won by 4 Wickets
+28332,Bangladesh in New Zealand T20I Series 2023,2023,1,121,120,9,120,134,0,134,,scheduled_balls_completed,Bangladesh won by 5 wickets
+28332,Bangladesh in New Zealand T20I Series 2023,2023,2,114,112,5,120,137,0,137,,target_reached,Bangladesh won by 5 wickets
+28333,Bangladesh in New Zealand T20I Series 2023,2023,1,66,66,2,120,72,0,72,,incomplete_or_interrupted,No Result
+28334,Bangladesh in New Zealand T20I Series 2023,2023,1,125,116,10,120,110,0,110,,all_out,New Zealand won by 17runs (DLS Method)
+28334,Bangladesh in New Zealand T20I Series 2023,2023,2,93,88,5,120,95,0,95,,incomplete_or_interrupted,New Zealand won by 17runs (DLS Method)
+28957,Zimbabwe in Sri Lanka T20I Series 2024,2024,1,122,121,5,120,143,0,143,,scheduled_balls_completed,Sri Lanka Won By 3 Wickets
+28957,Zimbabwe in Sri Lanka T20I Series 2024,2024,2,123,120,7,120,144,0,144,,target_reached,Sri Lanka Won By 3 Wickets
+28958,Zimbabwe in Sri Lanka T20I Series 2024,2024,1,123,120,6,120,173,0,173,,scheduled_balls_completed,Zimbabwe Won by 4 Wickets
+28958,Zimbabwe in Sri Lanka T20I Series 2024,2024,2,126,119,6,120,178,0,178,,target_reached,Zimbabwe Won by 4 Wickets
+28959,Zimbabwe in Sri Lanka T20I Series 2024,2024,1,85,85,10,120,82,0,82,,all_out,Sri Lanka Won by 9 Wickets
+28959,Zimbabwe in Sri Lanka T20I Series 2024,2024,2,65,65,1,120,88,0,88,,target_reached,Sri Lanka Won by 9 Wickets
+28960,Afghanistan in India T20I Series 2024,2024,1,125,120,5,120,158,0,158,,scheduled_balls_completed,India Won by 6 Wickets
+28960,Afghanistan in India T20I Series 2024,2024,2,108,105,4,120,159,0,159,,target_reached,India Won by 6 Wickets
+28961,Afghanistan in India T20I Series 2024,2024,1,127,120,10,120,172,0,172,,all_out,India Won by 6 Wickets
+28961,Afghanistan in India T20I Series 2024,2024,2,96,94,4,120,173,0,173,,target_reached,India Won by 6 Wickets
+28962,Afghanistan in India T20I Series 2024,2024,1,127,121,4,120,212,0,212,,scheduled_balls_completed,India Won Super Over By 10 Runs
+28962,Afghanistan in India T20I Series 2024,2024,2,129,120,6,120,212,0,212,,scheduled_balls_completed,India Won Super Over By 10 Runs
+28963,Pakistan in New Zealand T20I series 2024,2024,1,126,120,8,120,226,0,226,,scheduled_balls_completed,New Zealand won by 46 runs
+28963,Pakistan in New Zealand T20I series 2024,2024,2,113,108,10,120,180,0,180,,all_out,New Zealand won by 46 runs
+28964,Pakistan in New Zealand T20I series 2024,2024,1,127,120,8,120,194,0,194,,scheduled_balls_completed,New Zealand Won by 21 Runs
+28964,Pakistan in New Zealand T20I series 2024,2024,2,119,117,10,120,173,0,173,,all_out,New Zealand Won by 21 Runs
+28965,Pakistan in New Zealand T20I series 2024,2024,1,128,120,7,120,224,0,224,,scheduled_balls_completed,New Zealand Won by 45 Runs
+28965,Pakistan in New Zealand T20I series 2024,2024,2,124,120,7,120,179,0,179,,scheduled_balls_completed,New Zealand Won by 45 Runs
+28966,Pakistan in New Zealand T20I series 2024,2024,1,126,120,5,120,158,0,158,,scheduled_balls_completed,New Zealand Won by 7 wickets
+28966,Pakistan in New Zealand T20I series 2024,2024,2,113,109,3,120,159,0,159,,target_reached,New Zealand Won by 7 wickets
+28967,Pakistan in New Zealand T20I series 2024,2024,1,120,120,8,120,134,0,134,,scheduled_balls_completed,Pakistan Won by 42 Runs
+28967,Pakistan in New Zealand T20I series 2024,2024,2,104,104,10,120,92,0,92,,all_out,Pakistan Won by 42 Runs
+29815,West Indies in Australia T20I Series 2024,2024,1,125,120,7,120,213,0,213,,scheduled_balls_completed,Australia Won by 11 runs
+29815,West Indies in Australia T20I Series 2024,2024,2,126,120,8,120,202,0,202,,scheduled_balls_completed,Australia Won by 11 runs
+29816,West Indies in Australia T20I Series 2024,2024,1,128,120,4,120,241,0,241,,scheduled_balls_completed,Australia Won by 34 Runs
+29816,West Indies in Australia T20I Series 2024,2024,2,127,120,9,120,207,0,207,,scheduled_balls_completed,Australia Won by 34 Runs
+29817,West Indies in Australia T20I Series 2024,2024,1,124,120,6,120,220,0,220,,scheduled_balls_completed,West Indies Won by 37 runs
+29817,West Indies in Australia T20I Series 2024,2024,2,126,120,5,120,183,0,183,,scheduled_balls_completed,West Indies Won by 37 runs
+29924,Afghanistan in Sri Lanka T20I Series 2024,2024,1,117,114,10,120,160,0,160,,all_out,Sri Lanka Won by 4 runs
+29924,Afghanistan in Sri Lanka T20I Series 2024,2024,2,127,120,9,120,156,0,156,,scheduled_balls_completed,Sri Lanka Won by 4 runs
+29925,Afghanistan in Sri Lanka T20I Series 2024,2024,1,121,120,6,120,187,0,187,,scheduled_balls_completed,Sri Lanka Won by 72 Runs
+29925,Afghanistan in Sri Lanka T20I Series 2024,2024,2,111,102,10,120,115,0,115,,all_out,Sri Lanka Won by 72 Runs
+29926,Afghanistan in Sri Lanka T20I Series 2024,2024,1,124,120,5,120,209,0,209,,scheduled_balls_completed,Afghanistan won by 3 runs
+29926,Afghanistan in Sri Lanka T20I Series 2024,2024,2,127,120,6,120,206,0,206,,scheduled_balls_completed,Afghanistan won by 3 runs
+29982,Australia in New Zealand T20I Series 2024,2024,1,130,120,3,120,215,0,215,,scheduled_balls_completed,Australia Won by 6 wickets
+29982,Australia in New Zealand T20I Series 2024,2024,2,128,120,4,120,216,0,216,,target_reached,Australia Won by 6 wickets
+29983,Australia in New Zealand T20I Series 2024,2024,1,128,119,10,120,174,0,174,,all_out,Australia Won by 72 Runs
+29983,Australia in New Zealand T20I Series 2024,2024,2,103,102,9,120,102,0,102,,incomplete_or_interrupted,Australia Won by 72 Runs
+29984,Australia in New Zealand T20I Series 2024,2024,1,66,64,4,120,118,0,118,126.0,incomplete_or_interrupted,Australia Won by 27 Runs (DLS method)
+29984,Australia in New Zealand T20I Series 2024,2024,2,63,60,3,60,98,0,98,126.0,scheduled_balls_completed,Australia Won by 27 Runs (DLS method)
+30056,IPL 2024,2024,1,129,120,6,120,173,0,173,,scheduled_balls_completed,Chennai Super Kings Won by 6 Wickets
+30056,IPL 2024,2024,2,120,112,4,120,176,0,176,,target_reached,Chennai Super Kings Won by 6 Wickets
+30057,IPL 2024,2024,1,124,120,9,120,174,0,174,,scheduled_balls_completed,Punjab Kings Won by 4 Wickets
+30057,IPL 2024,2024,2,122,116,6,120,177,0,177,,target_reached,Punjab Kings Won by 4 Wickets
+30058,IPL 2024,2024,1,128,120,7,120,208,0,208,,scheduled_balls_completed,Kolkata Knight Riders won by 4 runs
+30058,IPL 2024,2024,2,122,120,7,120,204,0,204,,scheduled_balls_completed,Kolkata Knight Riders won by 4 runs
+30059,IPL 2024,2024,1,127,120,4,120,193,0,193,,scheduled_balls_completed,Rajasthan Royals won by 20 runs
+30059,IPL 2024,2024,2,124,120,6,120,173,0,173,,scheduled_balls_completed,Rajasthan Royals won by 20 runs
+30060,IPL 2024,2024,1,124,121,6,120,168,0,168,,scheduled_balls_completed,Gujarat Titans won by 6 runs
+30060,IPL 2024,2024,2,123,120,9,120,162,0,162,,scheduled_balls_completed,Gujarat Titans won by 6 runs
+30061,IPL 2024,2024,1,125,120,6,120,176,0,176,,scheduled_balls_completed,Royal Challengers Bengaluru won by 4 wickets
+30061,IPL 2024,2024,2,123,116,6,120,178,0,178,,target_reached,Royal Challengers Bengaluru won by 4 wickets
+30062,IPL 2024,2024,1,125,120,6,120,206,0,206,,scheduled_balls_completed,Chennai Super Kings won by 63 runs
+30062,IPL 2024,2024,2,128,120,8,120,143,0,143,,scheduled_balls_completed,Chennai Super Kings won by 63 runs
+30063,IPL 2024,2024,1,130,121,3,120,277,0,277,,scheduled_balls_completed,Sunrisers Hyderabad won by 31 runs
+30063,IPL 2024,2024,2,126,121,5,120,246,0,246,,scheduled_balls_completed,Sunrisers Hyderabad won by 31 runs
+30064,IPL 2024,2024,1,125,120,5,120,185,0,185,,scheduled_balls_completed,Rajasthan Royals won by 12 runs
+30064,IPL 2024,2024,2,124,120,5,120,173,0,173,,scheduled_balls_completed,Rajasthan Royals won by 12 runs
+30065,IPL 2024,2024,1,123,120,6,120,182,0,182,,scheduled_balls_completed,Kolkata Knight Riders won by 7 wickets
+30065,IPL 2024,2024,2,105,101,3,120,186,0,186,,target_reached,Kolkata Knight Riders won by 7 wickets
+30066,IPL 2024,2024,1,125,120,8,120,199,0,199,,scheduled_balls_completed,Lucknow Super Giants won by 21 runs
+30066,IPL 2024,2024,2,122,120,5,120,178,0,178,,scheduled_balls_completed,Lucknow Super Giants won by 21 runs
+30067,IPL 2024,2024,1,122,120,8,120,162,0,162,,scheduled_balls_completed,Gujarat Titans Won by 7 wickets
+30067,IPL 2024,2024,2,119,115,3,120,168,0,168,,target_reached,Gujarat Titans Won by 7 wickets
+30068,IPL 2024,2024,1,127,120,5,120,190,1,191,,scheduled_balls_completed,Delhi Capitals Won by 20 runs
+30068,IPL 2024,2024,2,129,120,6,120,171,0,171,,scheduled_balls_completed,Delhi Capitals Won by 20 runs
+30069,IPL 2024,2024,1,124,120,9,120,125,0,125,,scheduled_balls_completed,Rajasthan Royals Won by 6 wickets
+30069,IPL 2024,2024,2,99,93,4,120,127,0,127,,target_reached,Rajasthan Royals Won by 6 wickets
+30070,IPL 2024,2024,1,126,120,5,120,181,0,181,,scheduled_balls_completed,Lucknow Super Giants Won by 28 runs
+30070,IPL 2024,2024,2,122,118,10,120,153,0,153,,all_out,Lucknow Super Giants Won by 28 runs
+30071,IPL 2024,2024,1,134,121,7,120,272,0,272,,scheduled_balls_completed,Kolkata Knight Riders Won by 106 runs
+30071,IPL 2024,2024,2,110,104,10,120,162,4,166,,all_out,Kolkata Knight Riders Won by 106 runs
+30072,IPL 2024,2024,1,124,120,4,120,199,0,199,,scheduled_balls_completed,Punjab Kings Won by 3 wickets
+30072,IPL 2024,2024,2,123,119,7,120,200,0,200,,target_reached,Punjab Kings Won by 3 wickets
+30073,IPL 2024,2024,1,121,120,5,120,165,0,165,,scheduled_balls_completed,Sunrisers Hyderabad Won by 6 wickets
+30073,IPL 2024,2024,2,111,109,4,120,166,0,166,,target_reached,Sunrisers Hyderabad Won by 6 wickets
+30074,IPL 2024,2024,1,125,120,3,120,183,0,183,,scheduled_balls_completed,Rajasthan Royals Won by 6 Wickets
+30074,IPL 2024,2024,2,118,115,4,120,189,0,189,,target_reached,Rajasthan Royals Won by 6 Wickets
+30075,IPL 2024,2024,1,129,121,5,120,234,0,234,,scheduled_balls_completed,Mumbai Indians Won by 29 runs
+30075,IPL 2024,2024,2,122,120,8,120,205,0,205,,scheduled_balls_completed,Mumbai Indians Won by 29 runs
+30076,IPL 2024,2024,1,121,120,5,120,163,0,163,,scheduled_balls_completed,Lucknow Super Giants Won by 33 runs
+30076,IPL 2024,2024,2,122,113,10,120,129,1,130,,all_out,Lucknow Super Giants Won by 33 runs
+30341,Sri Lanka in Bangladesh T20I Series 2024,2024,1,127,120,3,120,202,4,206,,scheduled_balls_completed,Sri Lanka won by 3 runs
+30341,Sri Lanka in Bangladesh T20I Series 2024,2024,2,136,120,8,120,203,0,203,,target_reached,Sri Lanka won by 3 runs
+30342,Sri Lanka in Bangladesh T20I Series 2024,2024,1,125,120,5,120,165,0,165,,scheduled_balls_completed,Bangladesh won by 8 wickets
+30342,Sri Lanka in Bangladesh T20I Series 2024,2024,2,116,109,2,120,170,0,170,,target_reached,Bangladesh won by 8 wickets
+30343,Sri Lanka in Bangladesh T20I Series 2024,2024,1,123,120,7,120,174,0,174,,scheduled_balls_completed,Sri Lanka won by 28 runs
+30343,Sri Lanka in Bangladesh T20I Series 2024,2024,2,124,118,10,120,146,0,146,,all_out,Sri Lanka won by 28 runs
+30728,Afghanistan v Ireland T20I Series 2024,2024,1,124,120,6,120,149,0,149,,scheduled_balls_completed,Ireland won by 38 runs
+30728,Afghanistan v Ireland T20I Series 2024,2024,2,117,112,10,120,111,0,111,,all_out,Ireland won by 38 runs
+30729,Afghanistan v Ireland T20I Series 2024,2024,1,128,120,9,120,152,0,152,,scheduled_balls_completed,Afghanistan Won By 10Runs
+30729,Afghanistan v Ireland T20I Series 2024,2024,2,121,120,8,120,142,0,142,,scheduled_balls_completed,Afghanistan Won By 10Runs
+30730,Afghanistan v Ireland T20I Series 2024,2024,1,128,120,7,120,155,0,155,,scheduled_balls_completed,Afghanistan won by 57 runs
+30730,Afghanistan v Ireland T20I Series 2024,2024,2,105,104,10,120,98,0,98,,all_out,Afghanistan won by 57 runs
+31240,IPL 2024,2024,1,128,120,9,120,137,0,137,,scheduled_balls_completed,Chennai Super Kings Won by 7 wickets
+31240,IPL 2024,2024,2,109,106,3,120,141,0,141,,target_reached,Chennai Super Kings Won by 7 wickets
+31241,IPL 2024,2024,1,125,120,9,120,182,0,182,,scheduled_balls_completed,Sunrisers Hyderabad Won by 2 runs
+31241,IPL 2024,2024,2,126,120,6,120,180,0,180,,scheduled_balls_completed,Sunrisers Hyderabad Won by 2 runs
+31242,IPL 2024,2024,1,127,120,3,120,196,0,196,,scheduled_balls_completed,Gujarat Titans Won by 3 wickets
+31242,IPL 2024,2024,2,128,120,7,120,199,0,199,,target_reached,Gujarat Titans Won by 3 wickets
+31243,IPL 2024,2024,1,128,120,8,120,196,0,196,,scheduled_balls_completed,Mumbai Indians Won by 7 wickets
+31243,IPL 2024,2024,2,96,93,3,120,199,0,199,,target_reached,Mumbai Indians Won by 7 wickets
+31244,IPL 2024,2024,1,127,120,7,120,167,0,167,,scheduled_balls_completed,Delhi Capitals Won by 6 wickets
+31244,IPL 2024,2024,2,112,109,4,120,170,0,170,,target_reached,Delhi Capitals Won by 6 wickets
+31245,IPL 2024,2024,1,125,120,8,120,147,0,147,,scheduled_balls_completed,Rajasthan Royals Won by 3 wickets
+31245,IPL 2024,2024,2,122,119,7,120,152,0,152,,target_reached,Rajasthan Royals Won by 3 wickets
+31246,IPL 2024,2024,1,127,120,7,120,161,0,161,,scheduled_balls_completed,Kolkata Knight Riders Won by 8 wickets
+31246,IPL 2024,2024,2,105,94,2,120,162,0,162,,target_reached,Kolkata Knight Riders Won by 8 wickets
+31247,IPL 2024,2024,1,125,120,4,120,206,0,206,,scheduled_balls_completed,Chennai Super Kings Won by 20 runs
+31247,IPL 2024,2024,2,124,120,6,120,186,0,186,,scheduled_balls_completed,Chennai Super Kings Won by 20 runs
+31248,IPL 2024,2024,1,132,120,3,120,287,0,287,,scheduled_balls_completed,Sunrisers Hyderabad Won by 25 runs
+31248,IPL 2024,2024,2,133,120,7,120,262,0,262,,scheduled_balls_completed,Sunrisers Hyderabad Won by 25 runs
+31249,IPL 2024,2024,1,112,105,10,120,89,0,89,,all_out,Delhi Capitals Won by 6 wickets
+31249,IPL 2024,2024,2,55,53,4,120,92,0,92,,target_reached,Delhi Capitals Won by 6 wickets
+31250,IPL 2024,2024,1,129,120,6,120,223,0,223,,scheduled_balls_completed,Rajasthan Royals Won by 2 wickets
+31250,IPL 2024,2024,2,130,120,8,120,224,0,224,,target_reached,Rajasthan Royals Won by 2 wickets
+31251,IPL 2024,2024,1,125,120,7,120,192,0,192,,scheduled_balls_completed,Mumbai Indians Won by 9 runs
+31251,IPL 2024,2024,2,127,115,10,120,183,0,183,,all_out,Mumbai Indians Won by 9 runs
+31252,IPL 2024,2024,1,123,120,6,120,176,0,176,,scheduled_balls_completed,Lucknow Super Giants Won by 8 wickets
+31252,IPL 2024,2024,2,124,115,2,120,180,0,180,,target_reached,Lucknow Super Giants Won by 8 wickets
+31253,IPL 2024,2024,1,123,120,7,120,266,0,266,,scheduled_balls_completed,Sunrisers Hyderabad Won by 67 runs
+31253,IPL 2024,2024,2,122,115,10,120,199,0,199,,all_out,Sunrisers Hyderabad Won by 67 runs
+31254,IPL 2024,2024,1,129,121,6,120,218,4,222,,scheduled_balls_completed,Kolkata Knight Riders Won by 1 runs
+31254,IPL 2024,2024,2,124,120,10,120,221,0,221,,target_reached,Kolkata Knight Riders Won by 1 runs
+31255,IPL 2024,2024,1,123,121,10,120,142,0,142,,scheduled_balls_completed,Gujarat Titans Won by 3 wickets
+31255,IPL 2024,2024,2,116,115,7,120,146,0,146,,target_reached,Gujarat Titans Won by 3 wickets
+31256,IPL 2024,2024,1,128,120,9,120,179,0,179,,scheduled_balls_completed,Rajasthan Royals Won by 9 wickets
+31256,IPL 2024,2024,2,117,112,1,120,183,0,183,,target_reached,Rajasthan Royals Won by 9 wickets
+31257,IPL 2024,2024,1,122,120,4,120,210,0,210,,scheduled_balls_completed,Lucknow Super Giants Won by 6 wickets
+31257,IPL 2024,2024,2,123,118,4,120,213,0,213,,target_reached,Lucknow Super Giants Won by 6 wickets
+31258,IPL 2024,2024,1,123,120,4,120,224,0,224,,scheduled_balls_completed,Delhi Capitals Won by 4 runs
+31258,IPL 2024,2024,2,124,121,8,120,220,0,220,,scheduled_balls_completed,Delhi Capitals Won by 4 runs
+31259,IPL 2024,2024,1,125,120,7,120,206,0,206,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 35 runs
+31259,IPL 2024,2024,2,129,120,8,120,171,0,171,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 35 runs
+31260,IPL 2024,2024,1,131,120,6,120,261,0,261,,scheduled_balls_completed,Punjab Kings Won by 8 wickets
+31260,IPL 2024,2024,2,116,112,2,120,262,0,262,,target_reached,Punjab Kings Won by 8 wickets
+31261,IPL 2024,2024,1,127,120,4,120,257,0,257,,scheduled_balls_completed,Delhi Capitals Won by 10 runs
+31261,IPL 2024,2024,2,128,120,9,120,247,0,247,,scheduled_balls_completed,Delhi Capitals Won by 10 runs
+31262,IPL 2024,2024,1,128,121,5,120,196,0,196,,scheduled_balls_completed,Rajasthan Royals Won by 7 wickets
+31262,IPL 2024,2024,2,116,114,3,120,199,0,199,,target_reached,Rajasthan Royals Won by 7 wickets
+31263,IPL 2024,2024,1,130,120,3,120,200,0,200,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 9 wickets
+31263,IPL 2024,2024,2,100,97,1,120,206,0,206,,target_reached,Royal Challengers Bengaluru Won by 9 wickets
+31264,IPL 2024,2024,1,126,120,3,120,212,0,212,,scheduled_balls_completed,Chennai Super Kings Won by 78 runs
+31264,IPL 2024,2024,2,116,114,10,120,134,0,134,,all_out,Chennai Super Kings Won by 78 runs
+31265,IPL 2024,2024,1,126,120,9,120,153,0,153,,scheduled_balls_completed,Kolkata Knight Riders Won by 7 wickets
+31265,IPL 2024,2024,2,101,99,3,120,156,1,157,,target_reached,Kolkata Knight Riders Won by 7 wickets
+31266,IPL 2024,2024,1,126,120,7,120,144,0,144,,scheduled_balls_completed,Lucknow Super Giants Won by 4 wickets
+31266,IPL 2024,2024,2,122,116,6,120,145,0,145,,target_reached,Lucknow Super Giants Won by 4 wickets
+31267,IPL 2024,2024,1,129,121,7,120,162,0,162,,scheduled_balls_completed,Punjab Kings Won by 7 wickets
+31267,IPL 2024,2024,2,116,108,3,120,163,0,163,,target_reached,Punjab Kings Won by 7 wickets
+31268,IPL 2024,2024,1,128,120,3,120,201,0,201,,scheduled_balls_completed,Sunrisers Hyderabad Won by 1 runs
+31268,IPL 2024,2024,2,132,120,7,120,200,0,200,,scheduled_balls_completed,Sunrisers Hyderabad Won by 1 runs
+31269,IPL 2024,2024,1,125,120,10,120,169,0,169,,all_out,Kolkata Knight Riders Won by 24 runs
+31269,IPL 2024,2024,2,118,113,10,120,145,0,145,,all_out,Kolkata Knight Riders Won by 24 runs
+31270,IPL 2024,2024,1,121,117,10,120,147,0,147,,all_out,Royal Challengers Bengaluru Won by 4 wickets
+31270,IPL 2024,2024,2,83,82,6,120,152,0,152,,target_reached,Royal Challengers Bengaluru Won by 4 wickets
+31271,IPL 2024,2024,1,125,120,9,120,167,0,167,,scheduled_balls_completed,Chennai Super Kings Won by 28 runs
+31271,IPL 2024,2024,2,124,120,9,120,139,0,139,,scheduled_balls_completed,Chennai Super Kings Won by 28 runs
+31272,IPL 2024,2024,1,129,120,6,120,235,0,235,,scheduled_balls_completed,Kolkata Knight Riders Won by 98 runs
+31272,IPL 2024,2024,2,103,97,10,120,137,0,137,,all_out,Kolkata Knight Riders Won by 98 runs
+31273,IPL 2024,2024,1,131,121,8,120,173,0,173,,scheduled_balls_completed,Mumbai Indians Won by 7 wickets
+31273,IPL 2024,2024,2,108,104,3,120,174,0,174,,target_reached,Mumbai Indians Won by 7 wickets
+31274,IPL 2024,2024,1,121,120,8,120,221,0,221,,scheduled_balls_completed,Delhi Capitals Won by 20 runs
+31274,IPL 2024,2024,2,131,120,8,120,201,0,201,,scheduled_balls_completed,Delhi Capitals Won by 20 runs
+31275,IPL 2024,2024,1,123,120,4,120,165,0,165,,scheduled_balls_completed,Sunrisers Hyderabad Won by 10 wickets
+31275,IPL 2024,2024,2,60,58,0,120,167,0,167,,target_reached,Sunrisers Hyderabad Won by 10 wickets
+31276,IPL 2024,2024,1,127,120,7,120,241,0,241,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 60 runs
+31276,IPL 2024,2024,2,105,102,10,120,181,0,181,,all_out,Royal Challengers Bengaluru Won by 60 runs
+31277,IPL 2024,2024,1,125,120,3,120,231,0,231,,scheduled_balls_completed,Gujarat Titans Won by 35 runs
+31277,IPL 2024,2024,2,124,120,8,120,196,0,196,,scheduled_balls_completed,Gujarat Titans Won by 35 runs
+31278,IPL 2024,2024,1,99,96,7,120,157,0,157,,incomplete_or_interrupted,Kolkata Knight Riders Won by 18 runs
+31278,IPL 2024,2024,2,102,96,8,120,135,4,139,,incomplete_or_interrupted,Kolkata Knight Riders Won by 18 runs
+31279,IPL 2024,2024,1,124,120,5,120,141,0,141,,scheduled_balls_completed,Chennai Super Kings Won by 5 wickets
+31279,IPL 2024,2024,2,115,110,5,120,145,0,145,,target_reached,Chennai Super Kings Won by 5 wickets
+31280,IPL 2024,2024,1,127,120,9,120,187,0,187,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 47 runs
+31280,IPL 2024,2024,2,120,115,10,120,140,0,140,,all_out,Royal Challengers Bengaluru Won by 47 runs
+31282,IPL 2024,2024,1,128,120,4,120,208,0,208,,scheduled_balls_completed,Delhi Capitals Won by 19 runs
+31282,IPL 2024,2024,2,125,120,9,120,189,0,189,,scheduled_balls_completed,Delhi Capitals Won by 19 runs
+31283,IPL 2024,2024,1,121,120,9,120,144,0,144,,scheduled_balls_completed,Punjab Kings Won by 5 wickets
+31283,IPL 2024,2024,2,114,113,5,120,145,0,145,,target_reached,Punjab Kings Won by 5 wickets
+31285,IPL 2024,2024,1,130,120,6,120,214,0,214,,scheduled_balls_completed,Lucknow Super Giants Won by 18 runs
+31285,IPL 2024,2024,2,129,120,6,120,196,0,196,,scheduled_balls_completed,Lucknow Super Giants Won by 18 runs
+31286,IPL 2024,2024,1,127,120,5,120,218,0,218,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 27 runs
+31286,IPL 2024,2024,2,126,122,7,120,191,0,191,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 27 runs
+31287,IPL 2024,2024,1,125,120,5,120,214,0,214,,scheduled_balls_completed,Sunrisers Hyderabad Won by 4 wickets
+31287,IPL 2024,2024,2,122,115,6,120,215,0,215,,target_reached,Sunrisers Hyderabad Won by 4 wickets
+31289,IPL 2024,2024,1,124,117,10,120,159,0,159,,all_out,Kolkata Knight Riders Won by 8 wickets
+31289,IPL 2024,2024,2,84,82,2,120,164,0,164,,target_reached,Kolkata Knight Riders Won by 8 wickets
+31290,IPL 2024,2024,1,122,120,8,120,172,0,172,,scheduled_balls_completed,Rajasthan Royals Won by 4 wickets
+31290,IPL 2024,2024,2,119,114,6,120,174,0,174,,target_reached,Rajasthan Royals Won by 4 wickets
+31291,IPL 2024,2024,1,127,120,9,120,175,0,175,,scheduled_balls_completed,Sunrisers Hyderabad Won by 36 runs
+31291,IPL 2024,2024,2,124,120,7,120,139,0,139,,scheduled_balls_completed,Sunrisers Hyderabad Won by 36 runs
+31292,IPL 2024,2024,1,117,111,10,120,113,0,113,,all_out,Kolkata Knight Riders Won by 8 wickets
+31292,IPL 2024,2024,2,67,63,2,120,114,0,114,,target_reached,Kolkata Knight Riders Won by 8 wickets
+31707,New Zealand in Pakistan T20I Series 2024,2024,1,2,2,1,30,2,0,2,,incomplete_or_interrupted,No Result
+31708,New Zealand in Pakistan T20I Series 2024,2024,1,111,109,10,120,90,0,90,,all_out,Pakistan Won by 7 wickets
+31708,New Zealand in Pakistan T20I Series 2024,2024,2,73,73,3,120,92,0,92,,target_reached,Pakistan Won by 7 wickets
+31709,New Zealand in Pakistan T20I Series 2024,2024,1,127,121,4,120,178,0,178,,scheduled_balls_completed,New Zealand Won by 7 wickets
+31709,New Zealand in Pakistan T20I Series 2024,2024,2,116,110,3,120,179,0,179,,target_reached,New Zealand Won by 7 wickets
+31710,New Zealand in Pakistan T20I Series 2024,2024,1,132,120,7,120,178,0,178,,scheduled_balls_completed,New Zealand Won by 4 runs
+31710,New Zealand in Pakistan T20I Series 2024,2024,2,128,120,8,120,174,0,174,,scheduled_balls_completed,New Zealand Won by 4 runs
+31711,New Zealand in Pakistan T20I Series 2024,2024,1,128,120,5,120,178,0,178,,scheduled_balls_completed,Pakistan Won by 9 runs
+31711,New Zealand in Pakistan T20I Series 2024,2024,2,126,116,10,120,169,0,169,,all_out,Pakistan Won by 9 runs
+32132,Zimbabwe in Bangladesh T20I Series 2024,2024,1,124,120,10,120,124,0,124,,all_out,Bangladesh Won by 8 wickets
+32132,Zimbabwe in Bangladesh T20I Series 2024,2024,2,95,92,2,120,126,0,126,,target_reached,Bangladesh Won by 8 wickets
+32133,Zimbabwe in Bangladesh T20I Series 2024,2024,1,121,120,7,120,138,0,138,,scheduled_balls_completed,Bangladesh Won by 6 wickets
+32133,Zimbabwe in Bangladesh T20I Series 2024,2024,2,117,112,4,120,142,0,142,,target_reached,Bangladesh Won by 6 wickets
+32134,Zimbabwe in Bangladesh T20I Series 2024,2024,1,127,121,5,120,165,0,165,,scheduled_balls_completed,Bangladesh Won by 9 runs
+32134,Zimbabwe in Bangladesh T20I Series 2024,2024,2,127,120,9,120,156,0,156,,scheduled_balls_completed,Bangladesh Won by 9 runs
+32135,Zimbabwe in Bangladesh T20I Series 2024,2024,1,124,119,10,120,143,0,143,,all_out,Bangladesh Won by 5 runs
+32135,Zimbabwe in Bangladesh T20I Series 2024,2024,2,122,118,10,120,138,0,138,,all_out,Bangladesh Won by 5 runs
+32136,Zimbabwe in Bangladesh T20I Series 2024,2024,1,125,122,6,120,157,0,157,,scheduled_balls_completed,Zimbabwe Won by 8 wickets
+32136,Zimbabwe in Bangladesh T20I Series 2024,2024,2,116,111,2,120,158,0,158,,target_reached,Zimbabwe Won by 8 wickets
+32290,Pakistan in Ireland T20I series 2024,2024,1,125,120,6,120,182,0,182,,scheduled_balls_completed,Ireland Won by 5 wickets
+32290,Pakistan in Ireland T20I series 2024,2024,2,126,119,5,120,183,0,183,,target_reached,Ireland Won by 5 wickets
+32291,Pakistan in Ireland T20I series 2024,2024,1,124,120,7,120,193,0,193,,scheduled_balls_completed,Pakistan Won by 7 wickets
+32291,Pakistan in Ireland T20I series 2024,2024,2,104,102,3,120,195,0,195,,target_reached,Pakistan Won by 7 wickets
+32292,Pakistan in Ireland T20I series 2024,2024,1,124,120,7,120,178,0,178,,scheduled_balls_completed,Pakistan Won by 6 wickets
+32292,Pakistan in Ireland T20I series 2024,2024,2,110,102,4,120,181,0,181,,target_reached,Pakistan Won by 6 wickets
+32611,Pakistan in England T20I Series 2024,2024,1,121,120,7,120,183,0,183,,scheduled_balls_completed,England Won by 23 runs
+32611,Pakistan in England T20I Series 2024,2024,2,121,116,10,120,160,0,160,,all_out,England Won by 23 runs
+32613,Pakistan in England T20I Series 2024,2024,1,123,119,10,120,157,0,157,,all_out,England Won by 7 wickets
+32613,Pakistan in England T20I Series 2024,2024,2,96,93,3,120,158,0,158,,target_reached,England Won by 7 wickets
+32617,South Africa in West Indies T20I Series [May 2024] 2024,2024,1,126,120,8,120,175,0,175,,scheduled_balls_completed,West Indies Won by 28 runs
+32617,South Africa in West Indies T20I Series [May 2024] 2024,2024,2,122,119,10,120,147,0,147,,all_out,West Indies Won by 28 runs
+32618,South Africa in West Indies T20I Series [May 2024] 2024,2024,1,123,120,7,120,207,0,207,,scheduled_balls_completed,West Indies Won by 16 runs
+32618,South Africa in West Indies T20I Series [May 2024] 2024,2024,2,132,123,7,120,191,0,191,,scheduled_balls_completed,West Indies Won by 16 runs
+32619,South Africa in West Indies T20I Series [May 2024] 2024,2024,1,123,120,7,120,163,0,163,,scheduled_balls_completed,West Indies Won by 8 wickets
+32619,South Africa in West Indies T20I Series [May 2024] 2024,2024,2,88,83,2,120,165,0,165,,target_reached,West Indies Won by 8 wickets
+32620,Netherlands Tri-Nation T20I Series 2024,2024,1,124,121,8,120,167,0,167,,scheduled_balls_completed,Netherlands Won by 41 runs
+32620,Netherlands Tri-Nation T20I Series 2024,2024,2,113,109,10,120,126,0,126,,all_out,Netherlands Won by 41 runs
+32621,Netherlands Tri-Nation T20I Series 2024,2024,1,121,120,8,120,150,0,150,,scheduled_balls_completed,Ireland Won by 1 runs
+32621,Netherlands Tri-Nation T20I Series 2024,2024,2,128,120,8,120,149,0,149,,scheduled_balls_completed,Ireland Won by 1 runs
+32623,Netherlands Tri-Nation T20I Series 2024,2024,1,126,121,7,120,158,0,158,,scheduled_balls_completed,Scotland Won by 71 runs
+32623,Netherlands Tri-Nation T20I Series 2024,2024,2,93,89,10,120,87,0,87,,all_out,Scotland Won by 71 runs
+32624,Netherlands Tri-Nation T20I Series 2024,2024,1,126,120,8,120,157,0,157,,scheduled_balls_completed,Ireland Won by 5 wickets
+32624,Netherlands Tri-Nation T20I Series 2024,2024,2,117,117,5,120,158,0,158,,target_reached,Ireland Won by 5 wickets
+32625,Netherlands Tri-Nation T20I Series 2024,2024,1,122,120,6,120,161,0,161,,scheduled_balls_completed,Ireland Won by 3 runs
+32625,Netherlands Tri-Nation T20I Series 2024,2024,2,121,120,5,120,158,0,158,,scheduled_balls_completed,Ireland Won by 3 runs
+33803,India in Zimbabwe T20I Series 2024,2024,1,121,120,9,120,115,0,115,,scheduled_balls_completed,Zimbabwe Won by 13 runs
+33803,India in Zimbabwe T20I Series 2024,2024,2,122,119,10,120,102,0,102,,all_out,Zimbabwe Won by 13 runs
+33804,India in Zimbabwe T20I Series 2024,2024,1,126,120,2,120,234,0,234,,scheduled_balls_completed,India Won by 100 runs
+33804,India in Zimbabwe T20I Series 2024,2024,2,117,112,10,120,134,0,134,,all_out,India Won by 100 runs
+33805,India in Zimbabwe T20I Series 2024,2024,1,122,120,4,120,182,0,182,,scheduled_balls_completed,India Won by 23 runs
+33805,India in Zimbabwe T20I Series 2024,2024,2,122,120,6,120,159,0,159,,scheduled_balls_completed,India Won by 23 runs
+33806,India in Zimbabwe T20I Series 2024,2024,1,125,121,7,120,152,0,152,,scheduled_balls_completed,India Won by 10 wickets
+33806,India in Zimbabwe T20I Series 2024,2024,2,95,92,0,120,156,0,156,,target_reached,India Won by 10 wickets
+33807,India in Zimbabwe T20I Series 2024,2024,1,126,121,6,120,167,0,167,,scheduled_balls_completed,India Won by 42 runs
+33807,India in Zimbabwe T20I Series 2024,2024,2,117,111,10,120,125,0,125,,all_out,India Won by 42 runs
+34427,India in Sri Lanka T20I Series 2024,2024,1,124,120,7,120,213,0,213,,scheduled_balls_completed,India Won by 43 runs
+34427,India in Sri Lanka T20I Series 2024,2024,2,118,116,10,120,170,0,170,,all_out,India Won by 43 runs
+34428,India in Sri Lanka T20I Series 2024,2024,1,129,120,9,120,161,0,161,78.0,scheduled_balls_completed,India Won by 7 wickets(D/L Method)
+34428,India in Sri Lanka T20I Series 2024,2024,2,39,39,3,48,81,0,81,78.0,target_reached,India Won by 7 wickets(D/L Method)
+34429,India in Sri Lanka T20I Series 2024,2024,1,125,120,9,120,137,0,137,,scheduled_balls_completed,India Tied with Srilanka (India Won the Super Over by 2 wickets)
+34429,India in Sri Lanka T20I Series 2024,2024,2,127,120,8,120,137,0,137,,scheduled_balls_completed,India Tied with Srilanka (India Won the Super Over by 2 wickets)
+34429,India in Sri Lanka T20I Series 2024,2024,3,4,3,2,6,2,0,2,,incomplete_or_interrupted,India Tied with Srilanka (India Won the Super Over by 2 wickets)
+34429,India in Sri Lanka T20I Series 2024,2024,4,1,1,0,6,4,0,4,,target_reached,India Tied with Srilanka (India Won the Super Over by 2 wickets)
+35423,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,2024,1,132,120,5,120,152,0,152,,scheduled_balls_completed,Netherlands Won by 5 wickets
+35423,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,2024,2,99,97,5,120,153,0,153,,target_reached,Netherlands Won by 5 wickets
+35424,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,2024,1,125,120,5,120,169,0,169,,scheduled_balls_completed,No Result
+35425,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,2024,1,122,120,5,120,217,0,217,,scheduled_balls_completed,Netherlands Won by 102 runs
+35425,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,2024,2,95,94,10,120,115,0,115,,all_out,Netherlands Won by 102 runs
+35427,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,2024,1,127,120,9,120,132,0,132,,scheduled_balls_completed,Canada Won by 8 runs
+35427,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,2024,2,125,120,8,120,124,0,124,,scheduled_balls_completed,Canada Won by 8 runs
+35428,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,2024,1,121,120,6,120,168,0,168,,scheduled_balls_completed,United States Of America Won by 20 runs
+35428,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,2024,2,123,120,7,120,148,0,148,,scheduled_balls_completed,United States Of America Won by 20 runs
+35429,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,2024,1,121,120,8,120,132,0,132,,scheduled_balls_completed,Netherlands Won by 4 runs
+35429,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,2024,2,116,115,10,120,128,0,128,,all_out,Netherlands Won by 4 runs
+36096,South Africa in West Indies T20I Series 2024,2024,1,126,124,7,120,174,0,174,,scheduled_balls_completed,West Indies Won by 7 wickets
+36096,South Africa in West Indies T20I Series 2024,2024,2,115,108,3,120,176,0,176,,target_reached,West Indies Won by 7 wickets
+36097,South Africa in West Indies T20I Series 2024,2024,1,127,120,6,120,179,0,179,,scheduled_balls_completed,West Indies Won by 30 runs
+36097,South Africa in West Indies T20I Series 2024,2024,2,120,118,10,120,149,0,149,,all_out,West Indies Won by 30 runs
+36098,South Africa in West Indies T20I Series 2024,2024,1,79,78,4,78,108,0,108,116.0,scheduled_balls_completed,West Indies Won by 8 wickets (DLS)
+36098,South Africa in West Indies T20I Series 2024,2024,2,62,56,2,78,116,0,116,116.0,target_reached,West Indies Won by 8 wickets (DLS)
+36199,West Indies in England T20I Series 2025,2025,1,131,120,6,120,188,0,188,,scheduled_balls_completed,England Won by 21 runs
+36199,West Indies in England T20I Series 2025,2025,2,136,120,9,120,167,0,167,,scheduled_balls_completed,England Won by 21 runs
+36200,West Indies in England T20I Series 2025,2025,1,125,121,6,120,196,0,196,,scheduled_balls_completed,England Won by 4 wickets
+36200,West Indies in England T20I Series 2025,2025,2,120,112,6,120,195,4,199,,incomplete_or_interrupted,England Won by 4 wickets
+36201,West Indies in England T20I Series 2025,2025,1,127,120,3,120,248,0,248,,scheduled_balls_completed,England Won by 37 runs
+36201,West Indies in England T20I Series 2025,2025,2,125,121,8,120,211,0,211,,scheduled_balls_completed,England Won by 37 runs
+36208,South Africa in England T20I Series 2025,2025,1,49,47,5,54,97,0,97,69.0,incomplete_or_interrupted,South Africa Won by 14 runs(DLS method)
+36208,South Africa in England T20I Series 2025,2025,2,31,30,5,30,54,0,54,69.0,scheduled_balls_completed,South Africa Won by 14 runs(DLS method)
+36209,South Africa in England T20I Series 2025,2025,1,132,120,2,120,304,0,304,,scheduled_balls_completed,England Won by 146 runs
+36209,South Africa in England T20I Series 2025,2025,2,100,97,10,120,158,0,158,,all_out,England Won by 146 runs
+36559,Australia in Scotland T20I Series 2024,2024,1,122,120,9,120,154,0,154,,scheduled_balls_completed,Australia Won by 7 wickets
+36559,Australia in Scotland T20I Series 2024,2024,2,60,58,3,120,156,0,156,,target_reached,Australia Won by 7 wickets
+36560,Australia in Scotland T20I Series 2024,2024,1,124,122,4,120,196,0,196,,scheduled_balls_completed,Australia Won by 70 runs
+36560,Australia in Scotland T20I Series 2024,2024,2,104,100,10,120,126,0,126,,all_out,Australia Won by 70 runs
+36561,Australia in Scotland T20I Series 2024,2024,1,122,120,9,120,149,0,149,,scheduled_balls_completed,Australia Won by 6 wickets
+36561,Australia in Scotland T20I Series 2024,2024,2,103,97,4,120,153,0,153,,target_reached,Australia Won by 6 wickets
+36562,Australia in England T20I Series 2024,2024,1,119,117,10,120,179,0,179,,all_out,Australia Won by 28 runs
+36562,Australia in England T20I Series 2024,2024,2,126,119,10,120,151,0,151,,all_out,Australia Won by 28 runs
+36563,Australia in England T20I Series 2024,2024,1,124,120,6,120,193,0,193,,scheduled_balls_completed,England Won by 3 wickets
+36563,Australia in England T20I Series 2024,2024,2,120,114,7,120,194,0,194,,target_reached,England Won by 3 wickets
+37014,Ireland v South Africa T20I Series 2024,2024,1,127,120,8,120,171,0,171,,scheduled_balls_completed,South Africa Won by 8 wickets
+37014,Ireland v South Africa T20I Series 2024,2024,2,112,107,2,120,174,0,174,,target_reached,South Africa Won by 8 wickets
+37015,Ireland v South Africa T20I Series 2024,2024,1,128,120,6,120,195,0,195,,scheduled_balls_completed,Ireland Won by 10 runs
+37015,Ireland v South Africa T20I Series 2024,2024,2,130,120,9,120,185,0,185,,scheduled_balls_completed,Ireland Won by 10 runs
+37085,Mens T20 Emerging Teams Asia Cup 2024,2024,1,121,120,8,120,150,0,150,,scheduled_balls_completed,Bangladesh A Won by 5 wickets
+37085,Mens T20 Emerging Teams Asia Cup 2024,2024,2,115,110,5,120,151,0,151,,target_reached,Bangladesh A Won by 5 wickets
+37086,Mens T20 Emerging Teams Asia Cup 2024,2024,1,124,120,7,120,166,0,166,,scheduled_balls_completed,Afghanistan A Won by 11 runs
+37086,Mens T20 Emerging Teams Asia Cup 2024,2024,2,120,117,10,120,155,0,155,,all_out,Afghanistan A Won by 11 runs
+37087,Mens T20 Emerging Teams Asia Cup 2024,2024,1,123,120,8,120,150,0,150,,scheduled_balls_completed,United Arab Emirates Won by 4 wickets
+37087,Mens T20 Emerging Teams Asia Cup 2024,2024,2,118,115,6,120,151,0,151,,target_reached,United Arab Emirates Won by 4 wickets
+37088,Mens T20 Emerging Teams Asia Cup 2024,2024,1,124,120,8,120,183,0,183,,scheduled_balls_completed,India A Won by 7 runs
+37088,Mens T20 Emerging Teams Asia Cup 2024,2024,2,126,121,7,120,176,0,176,,scheduled_balls_completed,India A Won by 7 runs
+37089,Mens T20 Emerging Teams Asia Cup 2024,2024,1,123,120,5,120,178,0,178,,scheduled_balls_completed,Sri Lanka A Won by 42 runs
+37089,Mens T20 Emerging Teams Asia Cup 2024,2024,2,121,120,7,120,136,0,136,,scheduled_balls_completed,Sri Lanka A Won by 42 runs
+37090,Mens T20 Emerging Teams Asia Cup 2024,2024,1,124,120,4,120,164,0,164,,scheduled_balls_completed,Afghanistan A Won by 4 wickets
+37090,Mens T20 Emerging Teams Asia Cup 2024,2024,2,120,116,6,120,165,0,165,,target_reached,Afghanistan A Won by 4 wickets
+37091,Mens T20 Emerging Teams Asia Cup 2024,2024,1,130,120,5,120,185,0,185,,scheduled_balls_completed,Pakistan A Won by 74 runs
+37091,Mens T20 Emerging Teams Asia Cup 2024,2024,2,124,120,7,120,111,0,111,,scheduled_balls_completed,Pakistan A Won by 74 runs
+37092,Mens T20 Emerging Teams Asia Cup 2024,2024,1,103,101,10,120,107,0,107,,all_out,India A Won by 7 wickets
+37092,Mens T20 Emerging Teams Asia Cup 2024,2024,2,69,65,3,120,111,0,111,,target_reached,India A Won by 7 wickets
+37093,Mens T20 Emerging Teams Asia Cup 2024,2024,1,120,119,10,120,131,0,131,,all_out,Hong Kong Won by 5 wickets
+37093,Mens T20 Emerging Teams Asia Cup 2024,2024,2,119,118,5,120,132,1,133,,target_reached,Hong Kong Won by 5 wickets
+37094,Mens T20 Emerging Teams Asia Cup 2024,2024,1,122,120,7,120,161,0,161,,scheduled_balls_completed,Sri Lanka A Won by 19 runs
+37094,Mens T20 Emerging Teams Asia Cup 2024,2024,2,125,120,7,120,142,0,142,,scheduled_balls_completed,Sri Lanka A Won by 19 runs
+37095,Mens T20 Emerging Teams Asia Cup 2024,2024,1,126,120,4,120,179,0,179,,scheduled_balls_completed,Pakistan A Won by 114 runs
+37095,Mens T20 Emerging Teams Asia Cup 2024,2024,2,100,99,10,120,65,0,65,,all_out,Pakistan A Won by 114 runs
+37096,Mens T20 Emerging Teams Asia Cup 2024,2024,1,124,120,5,120,140,0,140,,scheduled_balls_completed,India A Won by 6 wickets
+37096,Mens T20 Emerging Teams Asia Cup 2024,2024,2,92,92,4,120,146,0,146,,target_reached,India A Won by 6 wickets
+37097,Mens T20 Emerging Teams Asia Cup 2024,2024,1,124,120,9,120,135,0,135,,scheduled_balls_completed,Sri Lanka A Won by 7 wickets
+37097,Mens T20 Emerging Teams Asia Cup 2024,2024,2,102,99,3,120,137,0,137,,target_reached,Sri Lanka A Won by 7 wickets
+37098,Mens T20 Emerging Teams Asia Cup 2024,2024,1,124,120,4,120,206,0,206,,scheduled_balls_completed,Afghanistan A Won by 20 runs
+37098,Mens T20 Emerging Teams Asia Cup 2024,2024,2,122,120,7,120,186,0,186,,scheduled_balls_completed,Afghanistan A Won by 20 runs
+37099,Mens T20 Emerging Teams Asia Cup 2024,2024,1,123,120,7,120,133,0,133,,scheduled_balls_completed,Afghanistan A Won by 7 wickets
+37099,Mens T20 Emerging Teams Asia Cup 2024,2024,2,111,109,3,120,134,0,134,,target_reached,Afghanistan A Won by 7 wickets
+37276,Bangladesh in India T20I Series 2024,2024,1,121,119,10,120,127,0,127,,all_out,India Won by 7 wickets
+37276,Bangladesh in India T20I Series 2024,2024,2,72,71,3,120,132,0,132,,target_reached,India Won by 7 wickets
+37277,Bangladesh in India T20I Series 2024,2024,1,124,121,9,120,221,0,221,,scheduled_balls_completed,India Won by 86 runs
+37277,Bangladesh in India T20I Series 2024,2024,2,124,120,9,120,135,0,135,,scheduled_balls_completed,India Won by 86 runs
+37278,Bangladesh in India T20I Series 2024,2024,1,126,121,6,120,293,4,297,,scheduled_balls_completed,India Won by 133 runs
+37278,Bangladesh in India T20I Series 2024,2024,2,127,120,7,120,164,0,164,,scheduled_balls_completed,India Won by 133 runs
+37349,England in West Indies T20I Series 2024,2024,1,124,120,9,120,182,0,182,,scheduled_balls_completed,England Won by 8 wickets
+37349,England in West Indies T20I Series 2024,2024,2,105,101,2,120,183,0,183,,target_reached,England Won by 8 wickets
+37350,England in West Indies T20I Series 2024,2024,1,131,120,8,120,158,0,158,,scheduled_balls_completed,England Won by 7 wickets
+37350,England in West Indies T20I Series 2024,2024,2,95,89,3,120,161,0,161,,target_reached,England Won by 7 wickets
+37351,England in West Indies T20I Series 2024,2024,1,123,120,8,120,145,0,145,,scheduled_balls_completed,England Won by 3 wickets
+37351,England in West Indies T20I Series 2024,2024,2,121,116,7,120,149,0,149,,target_reached,England Won by 3 wickets
+37352,England in West Indies T20I Series 2024,2024,1,123,120,5,120,218,0,218,,scheduled_balls_completed,West Indies Won by 5 wickets
+37352,England in West Indies T20I Series 2024,2024,2,121,114,5,120,221,0,221,,target_reached,West Indies Won by 5 wickets
+37353,England in West Indies T20I Series 2024,2024,1,30,30,0,120,44,0,44,,incomplete_or_interrupted,No Result
+37354,Pakistan in Australia T20I Series 2024,2024,1,44,42,4,42,93,0,93,94.0,scheduled_balls_completed,Australia Won by 29 runs
+37354,Pakistan in Australia T20I Series 2024,2024,2,42,42,9,42,64,0,64,94.0,scheduled_balls_completed,Australia Won by 29 runs
+37355,Pakistan in Australia T20I Series 2024,2024,1,124,120,9,120,147,0,147,,scheduled_balls_completed,Australia Won by 13 runs
+37355,Pakistan in Australia T20I Series 2024,2024,2,126,118,10,120,134,0,134,,all_out,Australia Won by 13 runs
+37356,Pakistan in Australia T20I Series 2024,2024,1,114,110,10,120,117,0,117,,all_out,Australia Won by 7 wickets
+37356,Pakistan in Australia T20I Series 2024,2024,2,70,69,3,120,118,0,118,,target_reached,Australia Won by 7 wickets
+37553,West Indies in Sri Lanka T20I Series 2024,2024,1,124,120,7,120,179,0,179,,scheduled_balls_completed,West Indies Won by 5 wickets
+37553,West Indies in Sri Lanka T20I Series 2024,2024,2,122,115,5,120,180,0,180,,target_reached,West Indies Won by 5 wickets
+37554,West Indies in Sri Lanka T20I Series 2024,2024,1,126,120,5,120,162,0,162,,scheduled_balls_completed,Sri Lanka Won by 73 runs
+37554,West Indies in Sri Lanka T20I Series 2024,2024,2,99,97,10,120,89,0,89,,all_out,Sri Lanka Won by 73 runs
+37555,West Indies in Sri Lanka T20I Series 2024,2024,1,123,120,8,120,162,0,162,,scheduled_balls_completed,Sri Lanka Won by 9 wickets
+37555,West Indies in Sri Lanka T20I Series 2024,2024,2,111,108,1,120,166,0,166,,target_reached,Sri Lanka Won by 9 wickets
+37894,New Zealand in Sri Lanka T20I Series 2024,2024,1,123,117,10,120,131,4,135,,all_out,Sri Lanka Won by 4 wickets
+37894,New Zealand in Sri Lanka T20I Series 2024,2024,2,116,114,6,120,140,0,140,,target_reached,Sri Lanka Won by 4 wickets
+37895,New Zealand in Sri Lanka T20I Series 2024,2024,1,120,117,10,120,108,0,108,,all_out,New Zealand Won by 5 runs
+37895,New Zealand in Sri Lanka T20I Series 2024,2024,2,126,120,10,120,103,0,103,,all_out,New Zealand Won by 5 runs
+37926,Pakistan in Zimbabwe T20I Series 2024,2024,1,122,120,4,120,165,0,165,,scheduled_balls_completed,Pakistan Won by 57 runs
+37926,Pakistan in Zimbabwe T20I Series 2024,2024,2,95,93,10,120,108,0,108,,all_out,Pakistan Won by 57 runs
+37927,Pakistan in Zimbabwe T20I Series 2024,2024,1,76,76,10,120,57,0,57,,all_out,Pakistan Won by 10 wickets
+37927,Pakistan in Zimbabwe T20I Series 2024,2024,2,34,33,0,120,61,0,61,,target_reached,Pakistan Won by 10 wickets
+37928,Pakistan in Zimbabwe T20I Series 2024,2024,1,124,120,7,120,132,0,132,,scheduled_balls_completed,Zimbabwe Won by 2 wickets
+37928,Pakistan in Zimbabwe T20I Series 2024,2024,2,123,119,8,120,133,0,133,,target_reached,Zimbabwe Won by 2 wickets
+37940,India in South Africa T20I Series 2024,2024,1,128,121,8,120,202,0,202,,scheduled_balls_completed,India Won by 61 runs
+37940,India in South Africa T20I Series 2024,2024,2,113,107,10,120,141,0,141,,all_out,India Won by 61 runs
+37941,India in South Africa T20I Series 2024,2024,1,128,120,6,120,124,0,124,,scheduled_balls_completed,South Africa Won by 3 wickets
+37941,India in South Africa T20I Series 2024,2024,2,118,114,7,120,128,0,128,,target_reached,South Africa Won by 3 wickets
+37942,India in South Africa T20I Series 2024,2024,1,133,120,6,120,219,0,219,,scheduled_balls_completed,India Won by 11 runs
+37942,India in South Africa T20I Series 2024,2024,2,121,120,7,120,208,0,208,,scheduled_balls_completed,India Won by 11 runs
+37943,India in South Africa T20I Series 2024,2024,1,133,121,1,120,283,0,283,,scheduled_balls_completed,India Won by 135 runs
+37943,India in South Africa T20I Series 2024,2024,2,116,110,10,120,148,0,148,,all_out,India Won by 135 runs
+38626,Afghanistan in Zimbabwe T20I Series 2024,2024,1,126,120,6,120,144,0,144,,scheduled_balls_completed,Zimbabwe Won by 4 wickets
+38626,Afghanistan in Zimbabwe T20I Series 2024,2024,2,128,120,6,120,145,0,145,,target_reached,Zimbabwe Won by 4 wickets
+38627,Afghanistan in Zimbabwe T20I Series 2024,2024,1,123,120,6,120,153,0,153,,scheduled_balls_completed,Afghanistan Won by 50 runs
+38627,Afghanistan in Zimbabwe T20I Series 2024,2024,2,110,106,10,120,103,0,103,,all_out,Afghanistan Won by 50 runs
+38628,Afghanistan in Zimbabwe T20I Series 2024,2024,1,122,119,10,120,127,0,127,,all_out,Afghanistan Won by 3 wickets
+38628,Afghanistan in Zimbabwe T20I Series 2024,2024,2,131,117,7,120,128,0,128,,target_reached,Afghanistan Won by 3 wickets
+38632,Sri Lanka in New Zealand T20I Series 2024/25,2024/25,1,127,121,8,120,172,0,172,,scheduled_balls_completed,New Zealand Won by 8 runs
+38632,Sri Lanka in New Zealand T20I Series 2024/25,2024/25,2,123,120,8,120,164,0,164,,scheduled_balls_completed,New Zealand Won by 8 runs
+38633,Sri Lanka in New Zealand T20I Series 2024/25,2024/25,1,128,120,5,120,186,0,186,,scheduled_balls_completed,New Zealand Won by 45 runs
+38633,Sri Lanka in New Zealand T20I Series 2024/25,2024/25,2,123,115,10,120,141,0,141,,all_out,New Zealand Won by 45 runs
+38634,Sri Lanka in New Zealand T20I Series 2024/25,2024/25,1,125,120,5,120,218,0,218,,scheduled_balls_completed,Sri Lanka Won by 7 runs
+38634,Sri Lanka in New Zealand T20I Series 2024/25,2024/25,2,128,120,7,120,211,0,211,,scheduled_balls_completed,Sri Lanka Won by 7 runs
+38795,Pakistan in South Africa T20I Series 2024,2024,1,122,120,9,120,183,0,183,,scheduled_balls_completed,South Africa Won by 11 runs
+38795,Pakistan in South Africa T20I Series 2024,2024,2,129,120,8,120,172,0,172,,scheduled_balls_completed,South Africa Won by 11 runs
+38796,Pakistan in South Africa T20I Series 2024,2024,1,134,121,5,120,206,0,206,,scheduled_balls_completed,South Africa Won by 7 wickets
+38796,Pakistan in South Africa T20I Series 2024,2024,2,121,117,3,120,210,0,210,,target_reached,South Africa Won by 7 wickets
+38842,Bangladesh in West Indies T20I Series 2024,2024,1,127,120,6,120,147,0,147,,scheduled_balls_completed,Bangladesh Won by 7 runs
+38842,Bangladesh in West Indies T20I Series 2024,2024,2,124,119,10,120,140,0,140,,all_out,Bangladesh Won by 7 runs
+38843,Bangladesh in West Indies T20I Series 2024,2024,1,124,120,7,120,129,0,129,,scheduled_balls_completed,Bangladesh Won by 27 runs
+38843,Bangladesh in West Indies T20I Series 2024,2024,2,115,111,10,120,102,0,102,,all_out,Bangladesh Won by 27 runs
+38844,Bangladesh in West Indies T20I Series 2024,2024,1,124,120,7,120,188,1,189,,scheduled_balls_completed,Bangladesh Won by 80 runs
+38844,Bangladesh in West Indies T20I Series 2024,2024,2,104,100,10,120,109,0,109,,all_out,Bangladesh Won by 80 runs
+39808,Pakistan in New Zealand T20I Series 2025,2025,1,116,112,10,120,91,0,91,,all_out,New Zealand Won by 9 wickets
+39808,Pakistan in New Zealand T20I Series 2025,2025,2,61,61,1,120,92,0,92,,target_reached,New Zealand Won by 9 wickets
+39809,Pakistan in New Zealand T20I Series 2025,2025,1,92,90,9,90,135,0,135,136.0,scheduled_balls_completed,New Zealand Won by 5 wickets
+39809,Pakistan in New Zealand T20I Series 2025,2025,2,84,80,5,90,137,0,137,136.0,target_reached,New Zealand Won by 5 wickets
+39810,Pakistan in New Zealand T20I Series 2025,2025,1,123,119,10,120,204,0,204,,all_out,Pakistan Won by 9 wickets
+39810,Pakistan in New Zealand T20I Series 2025,2025,2,101,96,1,120,207,0,207,,target_reached,Pakistan Won by 9 wickets
+39811,Pakistan in New Zealand T20I Series 2025,2025,1,128,120,6,120,219,1,220,,scheduled_balls_completed,New Zealand Won by 115 runs
+39811,Pakistan in New Zealand T20I Series 2025,2025,2,106,98,10,120,105,0,105,,all_out,New Zealand Won by 115 runs
+39812,Pakistan in New Zealand T20I Series 2025,2025,1,127,120,9,120,128,0,128,,scheduled_balls_completed,New Zealand Won by 8 wickets
+39812,Pakistan in New Zealand T20I Series 2025,2025,2,62,60,2,120,131,0,131,,target_reached,New Zealand Won by 8 wickets
+39983,Ireland in Zimbabwe T20I Series 2025,2025,1,56,54,5,54,77,0,77,,scheduled_balls_completed,No Result
+39984,Ireland in Zimbabwe T20I Series 2025,2025,1,121,120,8,120,137,0,137,,scheduled_balls_completed,Zimbabwe Won by 3 wickets
+39984,Ireland in Zimbabwe T20I Series 2025,2025,2,122,116,7,120,141,0,141,,target_reached,Zimbabwe Won by 3 wickets
+39985,Ireland in Zimbabwe T20I Series 2025,2025,1,113,109,6,108,142,0,142,,scheduled_balls_completed,No Result
+40036,England in India T20I Series 2025,2025,1,125,120,10,120,132,0,132,,all_out,India Won by 7 wickets
+40036,England in India T20I Series 2025,2025,2,78,77,3,120,133,0,133,,target_reached,India Won by 7 wickets
+40037,England in India T20I Series 2025,2025,1,121,120,9,120,165,0,165,,scheduled_balls_completed,India Won by 2 wickets
+40037,England in India T20I Series 2025,2025,2,122,116,8,120,166,0,166,,target_reached,India Won by 2 wickets
+40038,England in India T20I Series 2025,2025,1,125,121,9,120,170,1,171,,scheduled_balls_completed,England Won by 26 runs
+40038,England in India T20I Series 2025,2025,2,126,120,9,120,145,0,145,,scheduled_balls_completed,England Won by 26 runs
+40039,England in India T20I Series 2025,2025,1,127,121,9,120,181,0,181,,scheduled_balls_completed,India Won by 15 runs
+40039,England in India T20I Series 2025,2025,2,119,118,10,120,166,0,166,,all_out,India Won by 15 runs
+40040,England in India T20I Series 2025,2025,1,123,120,9,120,247,0,247,,scheduled_balls_completed,India Won by 150 runs
+40040,England in India T20I Series 2025,2025,2,65,63,10,120,97,0,97,,all_out,India Won by 150 runs
+40694,IPL 2025,2025,1,124,120,8,120,174,0,174,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 7 wickets
+40694,IPL 2025,2025,2,99,98,3,120,177,0,177,,target_reached,Royal Challengers Bengaluru Won by 7 wickets
+40695,IPL 2025,2025,1,133,121,6,120,282,4,286,,scheduled_balls_completed,Sunrisers Hyderabad Won by 44 runs
+40695,IPL 2025,2025,2,129,120,6,120,242,0,242,,scheduled_balls_completed,Sunrisers Hyderabad Won by 44 runs
+40696,IPL 2025,2025,1,125,120,9,120,155,0,155,,scheduled_balls_completed,Chennai Super Kings Won by 4 wickets
+40696,IPL 2025,2025,2,118,115,6,120,158,0,158,,target_reached,Chennai Super Kings Won by 4 wickets
+40697,IPL 2025,2025,1,125,121,8,120,209,0,209,,scheduled_balls_completed,Delhi Capitals Won by 1 wickets
+40697,IPL 2025,2025,2,121,117,9,120,211,0,211,,target_reached,Delhi Capitals Won by 1 wickets
+40698,IPL 2025,2025,1,126,120,5,120,243,0,243,,scheduled_balls_completed,Punjab Kings Won by 11 runs
+40698,IPL 2025,2025,2,128,120,5,120,232,0,232,,scheduled_balls_completed,Punjab Kings Won by 11 runs
+40699,IPL 2025,2025,1,124,120,9,120,151,0,151,,scheduled_balls_completed,Kolkata Knight Riders Won by 8 wickets
+40699,IPL 2025,2025,2,110,105,2,120,153,0,153,,target_reached,Kolkata Knight Riders Won by 8 wickets
+40700,IPL 2025,2025,1,127,120,9,120,190,0,190,,scheduled_balls_completed,Lucknow Super Giants Won by 5 wickets
+40700,IPL 2025,2025,2,106,97,5,120,193,0,193,,target_reached,Lucknow Super Giants Won by 5 wickets
+40701,IPL 2025,2025,1,128,120,7,120,196,0,196,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 50 runs
+40701,IPL 2025,2025,2,122,120,8,120,146,0,146,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 50 runs
+40702,IPL 2025,2025,1,130,120,8,120,196,0,196,,scheduled_balls_completed,Gujarat Titans Won by 36 runs
+40702,IPL 2025,2025,2,127,120,6,120,160,0,160,,scheduled_balls_completed,Gujarat Titans Won by 36 runs
+40703,IPL 2025,2025,1,119,112,10,120,163,0,163,,all_out,Delhi Capitals Won by 7 wickets
+40703,IPL 2025,2025,2,98,96,3,120,166,0,166,,target_reached,Delhi Capitals Won by 7 wickets
+40704,IPL 2025,2025,1,127,120,9,120,182,0,182,,scheduled_balls_completed,Rajasthan Royals Won by 6 runs
+40704,IPL 2025,2025,2,123,120,6,120,176,0,176,,scheduled_balls_completed,Rajasthan Royals Won by 6 runs
+40705,IPL 2025,2025,1,102,99,10,120,116,0,116,,all_out,Mumbai Indians Won by 8 wickets
+40705,IPL 2025,2025,2,80,77,2,120,121,0,121,,target_reached,Mumbai Indians Won by 8 wickets
+40706,IPL 2025,2025,1,124,120,7,120,171,0,171,,scheduled_balls_completed,Punjab Kings Won by 8 wickets
+40706,IPL 2025,2025,2,101,98,2,120,177,0,177,,target_reached,Punjab Kings Won by 8 wickets
+40707,IPL 2025,2025,1,123,120,8,120,169,0,169,,scheduled_balls_completed,Gujarat Titans Won by 8 wickets
+40707,IPL 2025,2025,2,108,107,2,120,170,0,170,,target_reached,Gujarat Titans Won by 8 wickets
+40708,IPL 2025,2025,1,123,120,6,120,200,0,200,,scheduled_balls_completed,Kolkata Knight Riders Won by 80 runs
+40708,IPL 2025,2025,2,105,100,10,120,120,0,120,,all_out,Kolkata Knight Riders Won by 80 runs
+40709,IPL 2025,2025,1,128,120,8,120,203,0,203,,scheduled_balls_completed,Lucknow Super Giants Won by 12 runs
+40709,IPL 2025,2025,2,124,120,5,120,191,0,191,,scheduled_balls_completed,Lucknow Super Giants Won by 12 runs
+40710,IPL 2025,2025,1,123,120,6,120,183,0,183,,scheduled_balls_completed,Delhi Capitals Won by 25 runs
+40710,IPL 2025,2025,2,128,120,5,120,158,0,158,,scheduled_balls_completed,Delhi Capitals Won by 25 runs
+40711,IPL 2025,2025,1,125,120,4,120,205,0,205,,scheduled_balls_completed,Rajasthan Royals Won by 50 runs
+40711,IPL 2025,2025,2,128,120,9,120,155,0,155,,scheduled_balls_completed,Rajasthan Royals Won by 50 runs
+40712,IPL 2025,2025,1,128,120,3,120,238,0,238,,scheduled_balls_completed,Lucknow Super Giants Won by 4 runs
+40712,IPL 2025,2025,2,136,120,7,120,234,0,234,,scheduled_balls_completed,Lucknow Super Giants Won by 4 runs
+40713,IPL 2025,2025,1,122,120,8,120,152,0,152,,scheduled_balls_completed,Gujarat Titans Won by 7 wickets
+40713,IPL 2025,2025,2,103,100,3,120,153,0,153,,target_reached,Gujarat Titans Won by 7 wickets
+40714,IPL 2025,2025,1,127,120,5,120,221,0,221,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 12 runs
+40714,IPL 2025,2025,2,126,120,9,120,209,0,209,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 12 runs
+40715,IPL 2025,2025,1,124,120,6,120,219,0,219,,scheduled_balls_completed,Punjab Kings Won by 18 runs
+40715,IPL 2025,2025,2,129,120,5,120,201,0,201,,scheduled_balls_completed,Punjab Kings Won by 18 runs
+40716,IPL 2025,2025,1,135,120,6,120,217,0,217,,scheduled_balls_completed,Gujarat Titans Won by 58 runs
+40716,IPL 2025,2025,2,125,116,10,120,159,0,159,,all_out,Gujarat Titans Won by 58 runs
+40717,IPL 2025,2025,1,126,120,7,120,163,0,163,,scheduled_balls_completed,Delhi Capitals Won by 6 wickets
+40717,IPL 2025,2025,2,110,107,4,120,169,0,169,,target_reached,Delhi Capitals Won by 6 wickets
+40718,IPL 2025,2025,1,124,120,9,120,103,0,103,,scheduled_balls_completed,Kolkata Knight Riders Won by 8 wickets
+40718,IPL 2025,2025,2,65,61,2,120,107,0,107,,target_reached,Kolkata Knight Riders Won by 8 wickets
+40719,IPL 2025,2025,1,129,120,6,120,180,0,180,,scheduled_balls_completed,Lucknow Super Giants Won by 6 wickets
+40719,IPL 2025,2025,2,120,117,4,120,186,0,186,,target_reached,Lucknow Super Giants Won by 6 wickets
+40720,IPL 2025,2025,1,128,120,6,120,245,0,245,,scheduled_balls_completed,Sunrisers Hyderabad Won by 8 wickets
+40720,IPL 2025,2025,2,120,111,2,120,247,0,247,,target_reached,Sunrisers Hyderabad Won by 8 wickets
+40721,IPL 2025,2025,1,122,120,4,120,173,0,173,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 9 wickets
+40721,IPL 2025,2025,2,111,105,1,120,175,0,175,,target_reached,Royal Challengers Bengaluru Won by 9 wickets
+40722,IPL 2025,2025,1,124,120,5,120,205,0,205,,scheduled_balls_completed,Mumbai Indians Won by 12 runs
+40722,IPL 2025,2025,2,119,114,10,120,193,0,193,,all_out,Mumbai Indians Won by 12 runs
+40723,IPL 2025,2025,1,128,121,7,120,166,0,166,,scheduled_balls_completed,Chennai Super Kings Won by 5 wickets
+40723,IPL 2025,2025,2,126,118,5,120,168,0,168,,target_reached,Chennai Super Kings Won by 5 wickets
+40724,IPL 2025,2025,1,96,93,10,120,111,0,111,,all_out,Punjab Kings Won by 16 runs
+40724,IPL 2025,2025,2,92,91,10,120,95,0,95,,all_out,Punjab Kings Won by 16 runs
+40725,IPL 2025,2025,1,128,120,5,120,188,0,188,,scheduled_balls_completed,Delhi Capitals Tied with Rajasthan Royals (DC won the Super Over)
+40725,IPL 2025,2025,2,124,120,4,120,188,0,188,,scheduled_balls_completed,Delhi Capitals Tied with Rajasthan Royals (DC won the Super Over)
+40725,IPL 2025,2025,3,6,6,2,6,11,0,11,,scheduled_balls_completed,Delhi Capitals Tied with Rajasthan Royals (DC won the Super Over)
+40725,IPL 2025,2025,4,4,4,0,6,13,0,13,,target_reached,Delhi Capitals Tied with Rajasthan Royals (DC won the Super Over)
+40726,IPL 2025,2025,1,129,120,5,120,162,0,162,,scheduled_balls_completed,Mumbai Indians Won by 4 wickets
+40726,IPL 2025,2025,2,113,110,6,120,166,0,166,,target_reached,Mumbai Indians Won by 4 wickets
+40727,IPL 2025,2025,1,85,84,9,84,95,0,95,96.0,scheduled_balls_completed,Punjab Kings Won by 5 wickets
+40727,IPL 2025,2025,2,75,73,5,84,98,0,98,96.0,target_reached,Punjab Kings Won by 5 wickets
+40728,IPL 2025,2025,1,129,120,8,120,203,0,203,,scheduled_balls_completed,Gujarat Titans Won by 7 wickets
+40728,IPL 2025,2025,2,121,116,3,120,204,0,204,,target_reached,Gujarat Titans Won by 7 wickets
+40729,IPL 2025,2025,1,125,120,5,120,180,0,180,,scheduled_balls_completed,Lucknow Super Giants Won by 2 runs
+40729,IPL 2025,2025,2,121,120,5,120,178,0,178,,scheduled_balls_completed,Lucknow Super Giants Won by 2 runs
+40730,IPL 2025,2025,1,123,120,6,120,157,0,157,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 7 wickets
+40730,IPL 2025,2025,2,114,113,3,120,159,0,159,,target_reached,Royal Challengers Bengaluru Won by 7 wickets
+40731,IPL 2025,2025,1,126,120,5,120,176,0,176,,scheduled_balls_completed,Mumbai Indians Won by 9 wickets
+40731,IPL 2025,2025,2,102,94,1,120,177,0,177,,target_reached,Mumbai Indians Won by 9 wickets
+40732,IPL 2025,2025,1,124,120,3,120,198,0,198,,scheduled_balls_completed,Gujarat Titans Won by 39 runs
+40732,IPL 2025,2025,2,125,120,8,120,159,0,159,,scheduled_balls_completed,Gujarat Titans Won by 39 runs
+40733,IPL 2025,2025,1,121,120,6,120,159,0,159,,scheduled_balls_completed,Delhi Capitals Won by 8 wickets
+40733,IPL 2025,2025,2,110,107,2,120,161,0,161,,target_reached,Delhi Capitals Won by 8 wickets
+40734,IPL 2025,2025,1,123,120,8,120,143,0,143,,scheduled_balls_completed,Mumbai Indians Won by 7 wickets
+40734,IPL 2025,2025,2,95,94,3,120,146,0,146,,target_reached,Mumbai Indians Won by 7 wickets
+40735,IPL 2025,2025,1,130,120,5,120,205,0,205,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 11 runs
+40735,IPL 2025,2025,2,123,120,9,120,194,0,194,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 11 runs
+40736,IPL 2025,2025,1,123,121,10,120,154,0,154,,scheduled_balls_completed,Sunrisers Hyderabad Won by 5 wickets
+40736,IPL 2025,2025,2,121,112,5,120,155,0,155,,target_reached,Sunrisers Hyderabad Won by 5 wickets
+40737,IPL 2025,2025,1,123,120,4,120,201,0,201,,scheduled_balls_completed,No Result
+40737,IPL 2025,2025,2,7,6,0,120,7,0,7,,incomplete_or_interrupted,No Result
+40738,IPL 2025,2025,1,125,120,7,120,215,0,215,,scheduled_balls_completed,Mumbai Indians Won by 54 runs
+40738,IPL 2025,2025,2,126,120,10,120,161,0,161,,all_out,Mumbai Indians Won by 54 runs
+40739,IPL 2025,2025,1,123,120,8,120,162,0,162,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 6 wickets
+40739,IPL 2025,2025,2,115,112,4,120,165,0,165,,target_reached,Royal Challengers Bengaluru Won by 6 wickets
+40740,IPL 2025,2025,1,128,120,4,120,209,0,209,,scheduled_balls_completed,Rajasthan Royals Won by 8 wickets
+40740,IPL 2025,2025,2,99,95,2,120,212,0,212,,target_reached,Rajasthan Royals Won by 8 wickets
+40741,IPL 2025,2025,1,132,120,9,120,204,0,204,,scheduled_balls_completed,Kolkata Knight Riders Won by 14 runs
+40741,IPL 2025,2025,2,125,120,9,120,190,0,190,,scheduled_balls_completed,Kolkata Knight Riders Won by 14 runs
+40742,IPL 2025,2025,1,128,116,10,120,190,0,190,,all_out,Punjab Kings Won by 4 wickets
+40742,IPL 2025,2025,2,121,118,6,120,194,0,194,,target_reached,Punjab Kings Won by 4 wickets
+40743,IPL 2025,2025,1,126,120,2,120,217,0,217,,scheduled_balls_completed,Mumbai Indians Won by 100 runs
+40743,IPL 2025,2025,2,100,97,10,120,117,0,117,,all_out,Mumbai Indians Won by 100 runs
+40744,IPL 2025,2025,1,123,120,6,120,224,0,224,,scheduled_balls_completed,Gujarat Titans Won by 38 runs
+40744,IPL 2025,2025,2,127,120,6,120,186,0,186,,scheduled_balls_completed,Gujarat Titans Won by 38 runs
+40745,IPL 2025,2025,1,125,120,5,120,213,0,213,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 2 runs
+40745,IPL 2025,2025,2,121,121,5,120,211,0,211,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 2 runs
+40746,IPL 2025,2025,1,127,120,4,120,206,0,206,,scheduled_balls_completed,Kolkata Knight Riders Won by 1 run
+40746,IPL 2025,2025,2,125,120,8,120,205,0,205,,scheduled_balls_completed,Kolkata Knight Riders Won by 1 run
+40747,IPL 2025,2025,1,125,120,5,120,236,0,236,,scheduled_balls_completed,Punjab Kings Won by 37 runs
+40747,IPL 2025,2025,2,128,120,7,120,199,0,199,,scheduled_balls_completed,Punjab Kings Won by 37 runs
+40748,IPL 2025,2025,1,123,120,7,120,133,0,133,,scheduled_balls_completed,No Result
+40749,IPL 2025,2025,1,121,120,8,120,155,0,155,147.0,scheduled_balls_completed,Gujarat Titans Won by 3 wickets (DLS Method)
+40749,IPL 2025,2025,2,123,114,7,114,147,0,147,147.0,target_reached,Gujarat Titans Won by 3 wickets (DLS Method)
+40750,IPL 2025,2025,1,122,120,6,120,179,0,179,,scheduled_balls_completed,Chennai Super Kings Won by 2 wickets
+40750,IPL 2025,2025,2,122,118,8,120,183,0,183,,target_reached,Chennai Super Kings Won by 2 wickets
+40751,IPL 2025,2025,1,63,61,1,120,122,0,122,,incomplete_or_interrupted,No Result
+40752,IPL 2025,2025,1,127,121,3,120,227,0,227,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 6 wickets
+40752,IPL 2025,2025,2,117,113,4,120,230,0,230,,target_reached,Royal Challengers Bengaluru Won by 6 wickets
+40753,IPL 2025,2025,1,131,120,3,120,278,0,278,,scheduled_balls_completed,Sunrisers Hyderabad Won by 110 runs
+40753,IPL 2025,2025,2,116,112,10,120,168,0,168,,all_out,Sunrisers Hyderabad Won by 110 runs
+40754,IPL 2025,2025,1,127,120,7,120,184,0,184,,scheduled_balls_completed,Punjab Kings Won by 7 wickets
+40754,IPL 2025,2025,2,118,111,3,120,187,0,187,,target_reached,Punjab Kings Won by 7 wickets
+40755,IPL 2025,2025,1,124,120,3,120,199,0,199,,scheduled_balls_completed,Gujarat Titans Won by 10 wickets
+40755,IPL 2025,2025,2,117,114,0,120,205,0,205,,target_reached,Gujarat Titans Won by 10 wickets
+40756,IPL 2025,2025,1,129,120,8,120,186,1,187,,scheduled_balls_completed,Rajasthan Royals Won by 6 wickets
+40756,IPL 2025,2025,2,107,103,4,120,188,0,188,,target_reached,Rajasthan Royals Won by 6 wickets
+40757,IPL 2025,2025,1,123,120,6,120,231,0,231,,scheduled_balls_completed,Sunrisers Hyderabad Won by 42 runs
+40757,IPL 2025,2025,2,124,120,10,120,189,0,189,,all_out,Sunrisers Hyderabad Won by 42 runs
+40758,IPL 2025,2025,1,127,121,2,120,235,0,235,,scheduled_balls_completed,Lucknow Super Giants Won by 33 runs
+40758,IPL 2025,2025,2,127,120,9,120,202,0,202,,scheduled_balls_completed,Lucknow Super Giants Won by 33 runs
+40759,IPL 2025,2025,1,121,120,5,120,180,0,180,,scheduled_balls_completed,Mumbai Indians Won by 59 runs
+40759,IPL 2025,2025,2,111,111,10,120,121,0,121,,all_out,Mumbai Indians Won by 59 runs
+40760,IPL 2025,2025,1,125,120,5,120,219,0,219,,scheduled_balls_completed,Punjab Kings Won by 10 runs
+40760,IPL 2025,2025,2,123,120,7,120,209,0,209,,scheduled_balls_completed,Punjab Kings Won by 10 runs
+40762,IPL 2025,2025,1,125,120,5,120,230,0,230,,scheduled_balls_completed,Chennai Super Kings Won by 83 runs
+40762,IPL 2025,2025,2,117,111,10,120,147,0,147,,all_out,Chennai Super Kings Won by 83 runs
+40763,IPL 2025,2025,1,131,122,7,120,205,0,205,,scheduled_balls_completed,Sunrisers Hyderabad Won by 6 wickets
+40763,IPL 2025,2025,2,119,110,4,120,206,0,206,,target_reached,Sunrisers Hyderabad Won by 6 wickets
+40764,IPL 2025,2025,1,87,85,10,120,101,0,101,,all_out,Royal Challengers Bengaluru Won by 8 wickets
+40764,IPL 2025,2025,2,60,60,2,120,106,0,106,,target_reached,Royal Challengers Bengaluru Won by 8 wickets
+40765,IPL 2025,2025,1,124,120,5,120,228,0,228,,scheduled_balls_completed,Mumbai Indians Won by 20 runs
+40765,IPL 2025,2025,2,124,120,6,120,208,0,208,,scheduled_balls_completed,Mumbai Indians Won by 20 runs
+40766,IPL 2025,2025,1,126,121,6,120,203,0,203,,scheduled_balls_completed,Punjab Kings Won by 5 wickets
+40766,IPL 2025,2025,2,118,114,5,120,207,0,207,,target_reached,Punjab Kings Won by 5 wickets
+40767,IPL 2025,2025,1,129,120,9,120,190,0,190,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 6 runs
+40767,IPL 2025,2025,2,123,120,7,120,184,0,184,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 6 runs
+41504,West Indies in Ireland T20I Series 2025,2025,1,129,120,5,120,256,0,256,,scheduled_balls_completed,West Indies Won by 62 runs
+41504,West Indies in Ireland T20I Series 2025,2025,2,128,120,7,120,194,0,194,,scheduled_balls_completed,West Indies Won by 62 runs
+41505,Australia in West Indies T20I Series 2025,2025,1,123,120,8,120,189,0,189,,scheduled_balls_completed,Australia Won by 3 wickets
+41505,Australia in West Indies T20I Series 2025,2025,2,115,113,7,120,190,0,190,,target_reached,Australia Won by 3 wickets
+41506,Australia in West Indies T20I Series 2025,2025,1,127,120,8,120,172,0,172,,scheduled_balls_completed,Australia Won by 8 wickets
+41506,Australia in West Indies T20I Series 2025,2025,2,97,92,2,120,173,0,173,,target_reached,Australia Won by 8 wickets
+41507,Australia in West Indies T20I Series 2025,2025,1,126,120,4,120,214,0,214,,scheduled_balls_completed,Australia Won By 6 Wickets
+41507,Australia in West Indies T20I Series 2025,2025,2,105,97,4,120,215,0,215,,target_reached,Australia Won By 6 Wickets
+41508,Australia in West Indies T20I Series 2025,2025,1,128,120,9,120,205,0,205,,scheduled_balls_completed,Australia Won by 3 wickets
+41508,Australia in West Indies T20I Series 2025,2025,2,133,117,7,120,206,0,206,,target_reached,Australia Won by 3 wickets
+41509,Australia in West Indies T20I Series 2025,2025,1,121,120,10,120,170,0,170,,all_out,Australia Won by 3 wickets
+41509,Australia in West Indies T20I Series 2025,2025,2,110,102,7,120,173,0,173,,target_reached,Australia Won by 3 wickets
+41510,Pakistan in West Indies T20I Series 2025,2025,1,127,120,6,120,178,0,178,,scheduled_balls_completed,Pakistan Won by 14 runs
+41510,Pakistan in West Indies T20I Series 2025,2025,2,129,120,7,120,164,0,164,,scheduled_balls_completed,Pakistan Won by 14 runs
+41511,Pakistan in West Indies T20I Series 2025,2025,1,124,120,9,120,133,0,133,,scheduled_balls_completed,West Indies Won by 2 wickets
+41511,Pakistan in West Indies T20I Series 2025,2025,2,128,120,8,120,135,0,135,,target_reached,West Indies Won by 2 wickets
+41512,Pakistan in West Indies T20I Series 2025,2025,1,130,120,4,120,189,0,189,,scheduled_balls_completed,Pakistan Won by 13 runs
+41512,Pakistan in West Indies T20I Series 2025,2025,2,125,120,6,120,176,0,176,,scheduled_balls_completed,Pakistan Won by 13 runs
+41849,West Indies in South Africa T20I Series 2026,2026,1,126,120,7,120,173,0,173,,scheduled_balls_completed,South Africa Won by 9 wickets
+41849,West Indies in South Africa T20I Series 2026,2026,2,111,107,1,120,176,0,176,,target_reached,South Africa Won by 9 wickets
+41850,West Indies in South Africa T20I Series 2026,2026,1,129,121,4,120,221,0,221,,scheduled_balls_completed,South Africa Won by 7 wickets
+41850,West Indies in South Africa T20I Series 2026,2026,2,109,105,3,120,225,0,225,,target_reached,South Africa Won by 7 wickets
+41851,West Indies in South Africa T20I Series 2026,2026,1,60,60,3,60,114,0,114,125.0,scheduled_balls_completed,West Indies Won by 6 runs(DLS Method)
+41851,West Indies in South Africa T20I Series 2026,2026,2,61,60,6,60,118,0,118,125.0,scheduled_balls_completed,West Indies Won by 6 runs(DLS Method)
+41969,South Africa in Australia T20I Series 2025,2025,1,127,121,10,120,178,0,178,,scheduled_balls_completed,Australia Won by 17 runs
+41969,South Africa in Australia T20I Series 2025,2025,2,124,120,9,120,161,0,161,,scheduled_balls_completed,Australia Won by 17 runs
+41970,South Africa in Australia T20I Series 2025,2025,1,126,120,7,120,218,0,218,,scheduled_balls_completed,South Africa Won by 53 runs
+41970,South Africa in Australia T20I Series 2025,2025,2,116,107,10,120,165,0,165,,all_out,South Africa Won by 53 runs
+41971,South Africa in Australia T20I Series 2025,2025,1,122,120,7,120,172,0,172,,scheduled_balls_completed,Australia Won by 2 wickets
+41971,South Africa in Australia T20I Series 2025,2025,2,124,120,8,120,173,0,173,,target_reached,Australia Won by 2 wickets
+41975,India in Australia T20I Series 2025,2025,1,60,58,1,108,97,0,97,,incomplete_or_interrupted,No Result
+41976,India in Australia T20I Series 2025,2025,1,114,112,10,120,125,0,125,,all_out,Australia Won by 4 wickets
+41976,India in Australia T20I Series 2025,2025,2,82,80,6,120,126,0,126,,target_reached,Australia Won by 4 wickets
+41977,India in Australia T20I Series 2025,2025,1,120,120,6,120,186,0,186,,scheduled_balls_completed,India Won by 5 wickets
+41977,India in Australia T20I Series 2025,2025,2,116,111,5,120,188,0,188,,target_reached,India Won by 5 wickets
+41978,India in Australia T20I Series 2025,2025,1,126,120,8,120,167,0,167,,scheduled_balls_completed,India Won by 48 runs
+41978,India in Australia T20I Series 2025,2025,2,111,110,10,120,119,0,119,,all_out,India Won by 48 runs
+41979,India in Australia T20I Series 2025,2025,1,29,29,0,120,52,0,52,,incomplete_or_interrupted,No Result
+42027,South Africa in India T20I Series 2025,2025,1,125,120,6,120,175,0,175,,scheduled_balls_completed,India Won by 101 runs
+42027,South Africa in India T20I Series 2025,2025,2,76,75,10,120,74,0,74,,all_out,India Won by 101 runs
+42028,South Africa in India T20I Series 2025,2025,1,135,120,4,120,213,0,213,,scheduled_balls_completed,South Africa Won by 51 runs
+42028,South Africa in India T20I Series 2025,2025,2,116,115,10,120,162,0,162,,all_out,South Africa Won by 51 runs
+42029,South Africa in India T20I Series 2025,2025,1,120,120,10,120,117,0,117,,all_out,India Won by 7 wickets
+42029,South Africa in India T20I Series 2025,2025,2,97,95,3,120,120,0,120,,target_reached,India Won by 7 wickets
+42031,South Africa in India T20I Series 2025,2025,1,126,120,5,120,231,0,231,,scheduled_balls_completed,India Won by 30 runs
+42031,South Africa in India T20I Series 2025,2025,2,130,120,8,120,201,0,201,,scheduled_balls_completed,India Won by 30 runs
+42742,Bangladesh in Pakistan T20I Series 2025,2025,1,123,120,7,120,201,0,201,,scheduled_balls_completed,Pakistan Won by 37 runs
+42742,Bangladesh in Pakistan T20I Series 2025,2025,2,118,116,10,120,164,0,164,,all_out,Pakistan Won by 37 runs
+42743,Bangladesh in Pakistan T20I Series 2025,2025,1,124,120,6,120,201,0,201,,scheduled_balls_completed,Pakistan Won by 57 runs
+42743,Bangladesh in Pakistan T20I Series 2025,2025,2,116,115,9,120,144,0,144,,incomplete_or_interrupted,Pakistan Won by 57 runs
+42744,Bangladesh in Pakistan T20I Series 2025,2025,1,125,121,6,120,196,0,196,,scheduled_balls_completed,Pakistan Won by 7 wickets
+42744,Bangladesh in Pakistan T20I Series 2025,2025,2,106,104,3,120,197,0,197,,target_reached,Pakistan Won by 7 wickets
+42783,Bangladesh in United Arab Emirates T20I Series 2025,2025,1,128,120,7,120,191,0,191,,scheduled_balls_completed,Bangladesh Won by 27 runs
+42783,Bangladesh in United Arab Emirates T20I Series 2025,2025,2,123,120,10,120,164,0,164,,all_out,Bangladesh Won by 27 runs
+42784,Bangladesh in United Arab Emirates T20I Series 2025,2025,1,127,121,5,120,205,0,205,,scheduled_balls_completed,United Arab Emirates Won by 2 wickets
+42784,Bangladesh in United Arab Emirates T20I Series 2025,2025,2,127,122,8,120,206,0,206,,scheduled_balls_completed,United Arab Emirates Won by 2 wickets
+43057,IPL 2025,2025,1,128,120,8,120,206,0,206,,scheduled_balls_completed,Delhi Capitals Won by 6 wickets
+43057,IPL 2025,2025,2,121,117,4,120,207,1,208,,target_reached,Delhi Capitals Won by 6 wickets
+43171,Bangladesh in United Arab Emirates T20I Series 2025,2025,1,127,121,9,120,162,0,162,,scheduled_balls_completed,United Arab Emirates Won by 7 wickets
+43171,Bangladesh in United Arab Emirates T20I Series 2025,2025,2,120,115,3,120,166,0,166,,target_reached,United Arab Emirates Won by 7 wickets
+43592,Bangladesh in Sri Lanka T20I Series 2025,2025,1,121,120,5,120,154,0,154,,scheduled_balls_completed,Sri Lanka Won by 7 wickets
+43592,Bangladesh in Sri Lanka T20I Series 2025,2025,2,114,114,3,120,159,0,159,,target_reached,Sri Lanka Won by 7 wickets
+43594,Bangladesh in Sri Lanka T20I Series 2025,2025,1,122,120,7,120,177,0,177,,scheduled_balls_completed,Bangladesh Won by 83 runs
+43594,Bangladesh in Sri Lanka T20I Series 2025,2025,2,96,92,10,120,94,0,94,,all_out,Bangladesh Won by 83 runs
+43595,Bangladesh in Sri Lanka T20I Series 2025,2025,1,123,120,7,120,132,0,132,,scheduled_balls_completed,Bangladesh Won by 8 wickets
+43595,Bangladesh in Sri Lanka T20I Series 2025,2025,2,99,99,2,120,133,0,133,,target_reached,Bangladesh Won by 8 wickets
+44265,Pakistan in Bangladesh T20I Series 2025,2025,1,119,117,10,120,110,0,110,,all_out,Bangladesh Won by 7 wickets
+44265,Pakistan in Bangladesh T20I Series 2025,2025,2,96,93,3,120,112,0,112,,target_reached,Bangladesh Won by 7 wickets
+44266,Pakistan in Bangladesh T20I Series 2025,2025,1,122,120,10,120,133,0,133,,all_out,Bangladesh Won by 8 runs
+44266,Pakistan in Bangladesh T20I Series 2025,2025,2,120,117,10,120,125,0,125,,all_out,Bangladesh Won by 8 runs
+44267,Pakistan in Bangladesh T20I Series 2025,2025,1,126,120,7,120,178,0,178,,scheduled_balls_completed,Pakistan Won by 74 runs
+44267,Pakistan in Bangladesh T20I Series 2025,2025,2,107,100,10,120,104,0,104,,all_out,Pakistan Won by 74 runs
+45390,India in England T20I Series 2026,2026,1,122,120,7,120,189,0,189,,scheduled_balls_completed,No Result
+45391,India in England T20I Series 2026,2026,1,125,120,7,120,190,0,190,,scheduled_balls_completed,England Won by 4 wickets
+45391,India in England T20I Series 2026,2026,2,121,117,6,120,191,0,191,,target_reached,England Won by 4 wickets
+45392,India in England T20I Series 2026,2026,1,125,120,7,120,201,0,201,,scheduled_balls_completed,England Won by 125 runs
+45392,India in England T20I Series 2026,2026,2,70,70,10,120,76,0,76,,all_out,England Won by 125 runs
+45393,India in England T20I Series 2026,2026,1,123,120,7,120,158,0,158,,scheduled_balls_completed,England Won by 9 wickets
+45393,India in England T20I Series 2026,2026,2,90,83,1,120,159,0,159,,target_reached,England Won by 9 wickets
+45394,India in England T20I Series 2026,2026,1,132,120,3,120,257,0,257,,scheduled_balls_completed,England Won by 56 runs
+45394,India in England T20I Series 2026,2026,2,124,121,8,120,201,0,201,,scheduled_balls_completed,England Won by 56 runs
+45489,Sri Lanka in England T20I Series 2026,2026,1,129,120,4,120,254,0,254,,scheduled_balls_completed,England Won by 119 runs
+45489,Sri Lanka in England T20I Series 2026,2026,2,119,114,10,120,135,0,135,,all_out,England Won by 119 runs
+45490,Sri Lanka in England T20I Series 2026,2026,1,123,120,9,120,145,0,145,,scheduled_balls_completed,England Won by 6 wickets
+45490,Sri Lanka in England T20I Series 2026,2026,2,77,73,4,120,146,0,146,,target_reached,England Won by 6 wickets
+45491,Sri Lanka in England T20I Series 2026,2026,1,116,113,10,120,124,0,124,,all_out,England Won by 8 wickets
+45491,Sri Lanka in England T20I Series 2026,2026,2,68,58,2,120,126,0,126,,target_reached,England Won by 8 wickets
+45495,Asia Cup 2025,2025,1,128,120,6,120,188,0,188,,scheduled_balls_completed,Afghanistan Won by 94 runs
+45495,Asia Cup 2025,2025,2,125,120,9,120,94,0,94,,scheduled_balls_completed,Afghanistan Won by 94 runs
+45496,Asia Cup 2025,2025,1,81,79,10,120,57,0,57,,all_out,India Won by 9 wickets
+45496,Asia Cup 2025,2025,2,30,27,1,120,60,0,60,,target_reached,India Won by 9 wickets
+45497,Asia Cup 2025,2025,1,125,120,7,120,143,0,143,,scheduled_balls_completed,Bangladesh Won by 7 wickets
+45497,Asia Cup 2025,2025,2,113,106,3,120,144,0,144,,target_reached,Bangladesh Won by 7 wickets
+45498,Asia Cup 2025,2025,1,123,120,7,120,160,0,160,,scheduled_balls_completed,Pakistan Won by 93 runs
+45498,Asia Cup 2025,2025,2,102,100,10,120,67,0,67,,all_out,Pakistan Won by 93 runs
+45499,Asia Cup 2025,2025,1,125,120,5,120,139,0,139,,scheduled_balls_completed,Sri Lanka Won by 6 wickets
+45499,Asia Cup 2025,2025,2,95,88,4,120,140,0,140,,target_reached,Sri Lanka Won by 6 wickets
+45500,Asia Cup 2025,2025,1,123,120,9,120,127,0,127,,scheduled_balls_completed,India Won by 7 wickets
+45500,Asia Cup 2025,2025,2,96,95,3,120,131,0,131,,target_reached,India Won by 7 wickets
+45501,Asia Cup 2025,2025,1,126,120,5,120,172,0,172,,scheduled_balls_completed,United Arab Emirates Won by 42 runs
+45501,Asia Cup 2025,2025,2,121,112,10,120,130,0,130,,all_out,United Arab Emirates Won by 42 runs
+45502,Asia Cup 2025,2025,1,125,120,4,120,149,0,149,,scheduled_balls_completed,Sri Lanka Won by 4 wickets
+45502,Asia Cup 2025,2025,2,114,113,6,120,153,0,153,,target_reached,Sri Lanka Won by 4 wickets
+45503,Asia Cup 2025,2025,1,122,120,5,120,154,0,154,,scheduled_balls_completed,Bangladesh Won by 8 runs
+45503,Asia Cup 2025,2025,2,123,120,10,120,146,0,146,,all_out,Bangladesh Won by 8 runs
+45504,Asia Cup 2025,2025,1,128,120,9,120,146,0,146,,scheduled_balls_completed,Pakistan Won by 41 runs
+45504,Asia Cup 2025,2025,2,110,106,10,120,105,0,105,,all_out,Pakistan Won by 41 runs
+45505,Asia Cup 2025,2025,1,122,120,8,120,169,0,169,,scheduled_balls_completed,Sri Lanka Won by 6 wickets
+45505,Asia Cup 2025,2025,2,118,112,4,120,171,0,171,,target_reached,Sri Lanka Won by 6 wickets
+45506,Asia Cup 2025,2025,1,126,120,8,120,188,0,188,,scheduled_balls_completed,India Won by 21 runs
+45506,Asia Cup 2025,2025,2,126,120,4,120,167,0,167,,scheduled_balls_completed,India Won by 21 runs
+45507,Asia Cup 2025,2025,1,122,120,7,120,168,0,168,,scheduled_balls_completed,Bangladesh Won by 4 wickets
+45507,Asia Cup 2025,2025,2,121,119,6,120,169,0,169,,target_reached,Bangladesh Won by 4 wickets
+45508,Asia Cup 2025,2025,1,129,121,5,120,171,0,171,,scheduled_balls_completed,India Won by 6 wickets
+45508,Asia Cup 2025,2025,2,116,113,4,120,174,0,174,,target_reached,India Won by 6 wickets
+45509,Asia Cup 2025,2025,1,124,121,8,120,133,0,133,,scheduled_balls_completed,Pakistan Won by 5 wickets
+45509,Asia Cup 2025,2025,2,110,108,5,120,138,0,138,,target_reached,Pakistan Won by 5 wickets
+45510,Asia Cup 2025,2025,1,123,121,6,120,168,0,168,,scheduled_balls_completed,India Won by 41 runs
+45510,Asia Cup 2025,2025,2,122,117,10,120,127,0,127,,all_out,India Won by 41 runs
+45511,Asia Cup 2025,2025,1,124,120,8,120,135,0,135,,scheduled_balls_completed,Pakistan Won by 11 runs
+45511,Asia Cup 2025,2025,2,120,120,9,120,124,0,124,,scheduled_balls_completed,Pakistan Won by 11 runs
+45512,Asia Cup 2025,2025,1,129,121,5,120,202,0,202,,scheduled_balls_completed,India won the Super Over(Match Tied)
+45512,Asia Cup 2025,2025,2,124,120,5,120,202,0,202,,scheduled_balls_completed,India won the Super Over(Match Tied)
+45512,Asia Cup 2025,2025,3,6,5,2,6,2,0,2,,incomplete_or_interrupted,India won the Super Over(Match Tied)
+45512,Asia Cup 2025,2025,4,1,1,0,6,3,0,3,,target_reached,India won the Super Over(Match Tied)
+45513,Asia Cup 2025,2025,1,119,115,10,120,146,0,146,,all_out,India Won by 5 wickets
+45513,Asia Cup 2025,2025,2,120,118,5,120,150,0,150,,target_reached,India Won by 5 wickets
+45851,United Arab Emirates T20I Tri-Series 2025,2025,1,125,121,7,120,182,0,182,,scheduled_balls_completed,Pakistan Won by 39 runs
+45851,United Arab Emirates T20I Tri-Series 2025,2025,2,122,119,10,120,143,0,143,,all_out,Pakistan Won by 39 runs
+45852,United Arab Emirates T20I Tri-Series 2025,2025,1,125,120,10,120,207,0,207,,all_out,Pakistan Won by 31 runs
+45852,United Arab Emirates T20I Tri-Series 2025,2025,2,125,120,8,120,176,0,176,,scheduled_balls_completed,Pakistan Won by 31 runs
+45853,United Arab Emirates T20I Tri-Series 2025,2025,1,129,120,4,120,188,0,188,,scheduled_balls_completed,Afghanistan Won by 38 runs
+45853,United Arab Emirates T20I Tri-Series 2025,2025,2,123,120,8,120,150,0,150,,scheduled_balls_completed,Afghanistan Won by 38 runs
+45854,United Arab Emirates T20I Tri-Series 2025,2025,1,124,120,5,120,169,0,169,,scheduled_balls_completed,Afghanistan Won by 18 runs
+45854,United Arab Emirates T20I Tri-Series 2025,2025,2,124,120,9,120,151,0,151,,scheduled_balls_completed,Afghanistan Won by 18 runs
+45855,United Arab Emirates T20I Tri-Series 2025,2025,1,122,120,5,120,171,0,171,,scheduled_balls_completed,Pakistan Won by 31 runs
+45855,United Arab Emirates T20I Tri-Series 2025,2025,2,122,120,7,120,140,0,140,,scheduled_balls_completed,Pakistan Won by 31 runs
+45856,United Arab Emirates T20I Tri-Series 2025,2025,1,129,120,4,120,170,0,170,,scheduled_balls_completed,Afghanistan Won by 4 runs
+45856,United Arab Emirates T20I Tri-Series 2025,2025,2,127,120,5,120,166,0,166,,scheduled_balls_completed,Afghanistan Won by 4 runs
+45857,United Arab Emirates T20I Tri-Series 2025,2025,1,126,120,8,120,141,0,141,,scheduled_balls_completed,Pakistan Won by 75 runs
+45857,United Arab Emirates T20I Tri-Series 2025,2025,2,98,95,10,120,66,0,66,,all_out,Pakistan Won by 75 runs
+45903,Sri Lanka in Zimbabwe T20I Series 2025,2025,1,127,120,7,120,175,0,175,,scheduled_balls_completed,Sri Lanka Won by 4 wickets
+45903,Sri Lanka in Zimbabwe T20I Series 2025,2025,2,119,117,6,120,177,0,177,,target_reached,Sri Lanka Won by 4 wickets
+45904,Sri Lanka in Zimbabwe T20I Series 2025,2025,1,107,106,10,120,80,0,80,,all_out,Zimbabwe Won by 5 wickets
+45904,Sri Lanka in Zimbabwe T20I Series 2025,2025,2,88,86,5,120,84,0,84,,target_reached,Zimbabwe Won by 5 wickets
+45905,Sri Lanka in Zimbabwe T20I Series 2025,2025,1,128,120,8,120,191,0,191,,scheduled_balls_completed,Sri Lanka Won by 8 wickets
+45905,Sri Lanka in Zimbabwe T20I Series 2025,2025,2,110,106,2,120,193,0,193,,target_reached,Sri Lanka Won by 8 wickets
+45906,Netherlands in Bangladesh T20I Series 2025,2025,1,123,120,8,120,136,0,136,,scheduled_balls_completed,Bangladesh Won by 8 wickets
+45906,Netherlands in Bangladesh T20I Series 2025,2025,2,85,81,2,120,138,0,138,,target_reached,Bangladesh Won by 8 wickets
+45907,Netherlands in Bangladesh T20I Series 2025,2025,1,109,105,10,120,103,0,103,,all_out,Bangladesh Won by 9 wickets
+45907,Netherlands in Bangladesh T20I Series 2025,2025,2,85,79,1,120,104,0,104,,target_reached,Bangladesh Won by 9 wickets
+45908,Netherlands in Bangladesh T20I Series 2025,2025,1,114,111,4,120,164,0,164,,incomplete_or_interrupted,No Result
+46007,England in Ireland T20I series 2025,2025,1,125,120,3,120,196,0,196,,scheduled_balls_completed,England Won by 4 wickets
+46007,England in Ireland T20I series 2025,2025,2,111,107,6,120,197,0,197,,target_reached,England Won by 4 wickets
+46009,England in Ireland T20I series 2025,2025,1,123,120,8,120,154,0,154,,scheduled_balls_completed,England Won by 6 wickets
+46009,England in Ireland T20I series 2025,2025,2,108,103,4,120,155,0,155,,target_reached,England Won by 6 wickets
+46249,Nepal v West Indies T20I Series 2025,2025,1,129,120,8,120,148,0,148,,scheduled_balls_completed,Nepal Won by 19 runs
+46249,Nepal v West Indies T20I Series 2025,2025,2,125,120,9,120,129,0,129,,scheduled_balls_completed,Nepal Won by 19 runs
+46250,Nepal v West Indies T20I Series 2025,2025,1,128,120,6,120,173,0,173,,scheduled_balls_completed,Nepal Won by 90 runs
+46250,Nepal v West Indies T20I Series 2025,2025,2,106,103,10,120,83,0,83,,all_out,Nepal Won by 90 runs
+46251,Nepal v West Indies T20I Series 2025,2025,1,124,119,10,120,122,0,122,,all_out,West Indies Won by 10 wickets
+46251,Nepal v West Indies T20I Series 2025,2025,2,77,74,0,120,123,0,123,,target_reached,West Indies Won by 10 wickets
+46310,Australia in New Zealand T20I Series 2025,2025,1,126,120,6,120,181,0,181,,scheduled_balls_completed,Australia Won by 6 wickets
+46310,Australia in New Zealand T20I Series 2025,2025,2,104,99,4,120,185,0,185,,target_reached,Australia Won by 6 wickets
+46311,Australia in New Zealand T20I Series 2025,2025,1,13,13,1,54,16,0,16,,incomplete_or_interrupted,No Result
+46312,Australia in New Zealand T20I Series 2025,2025,1,124,120,9,120,156,0,156,,scheduled_balls_completed,Australia Won by 3 wickets
+46312,Australia in New Zealand T20I Series 2025,2025,2,110,108,7,120,160,0,160,,target_reached,Australia Won by 3 wickets
+46740,South Africa in Pakistan T20I Series 2025,2025,1,131,120,9,120,194,0,194,,scheduled_balls_completed,South Africa Won by 55 runs
+46740,South Africa in Pakistan T20I Series 2025,2025,2,117,109,10,120,138,1,139,,all_out,South Africa Won by 55 runs
+46741,South Africa in Pakistan T20I Series 2025,2025,1,119,116,10,120,110,0,110,,all_out,Pakistan Won by 9 wickets
+46741,South Africa in Pakistan T20I Series 2025,2025,2,81,79,1,120,112,0,112,,target_reached,Pakistan Won by 9 wickets
+46742,South Africa in Pakistan T20I Series 2025,2025,1,126,120,9,120,139,0,139,,scheduled_balls_completed,Pakistan Won by 4 wickets
+46742,South Africa in Pakistan T20I Series 2025,2025,2,119,114,6,120,140,0,140,,target_reached,Pakistan Won by 4 wickets
+46747,England in New Zealand T20I Series 2025,2025,1,124,120,6,120,153,0,153,,scheduled_balls_completed,No Result
+46748,England in New Zealand T20I Series 2025,2025,1,125,120,4,120,236,0,236,,scheduled_balls_completed,England Won by 65 runs
+46748,England in New Zealand T20I Series 2025,2025,2,117,109,10,120,171,0,171,,all_out,England Won by 65 runs
+46749,England in New Zealand T20I Series 2025,2025,1,25,22,1,84,38,0,38,,incomplete_or_interrupted,No Result
+46753,Afghanistan v Bangladesh T20I Series 2025,2025,1,120,120,9,120,151,0,151,,scheduled_balls_completed,Bangladesh Won by 4 wickets
+46753,Afghanistan v Bangladesh T20I Series 2025,2025,2,113,112,6,120,153,0,153,,target_reached,Bangladesh Won by 4 wickets
+46754,Afghanistan v Bangladesh T20I Series 2025,2025,1,120,120,5,120,147,0,147,,scheduled_balls_completed,Bangladesh Won by 2 wickets
+46754,Afghanistan v Bangladesh T20I Series 2025,2025,2,118,115,8,120,150,0,150,,target_reached,Bangladesh Won by 2 wickets
+46755,Afghanistan v Bangladesh T20I Series 2025,2025,1,126,120,9,120,143,0,143,,scheduled_balls_completed,Bangladesh Won by 6 wickets
+46755,Afghanistan v Bangladesh T20I Series 2025,2025,2,116,108,4,120,144,0,144,,target_reached,Bangladesh Won by 6 wickets
+46940,West Indies in Bangladesh T20I Series 2025,2025,1,125,120,3,120,165,0,165,,scheduled_balls_completed,West Indies Won by 16 runs
+46940,West Indies in Bangladesh T20I Series 2025,2025,2,123,118,10,120,149,0,149,,all_out,West Indies Won by 16 runs
+46941,West Indies in Bangladesh T20I Series 2025,2025,1,121,120,9,120,149,0,149,,scheduled_balls_completed,West Indies Won by 14 runs
+46941,West Indies in Bangladesh T20I Series 2025,2025,2,126,120,8,120,135,0,135,,scheduled_balls_completed,West Indies Won by 14 runs
+46942,West Indies in Bangladesh T20I Series 2025,2025,1,125,120,10,120,151,0,151,,all_out,West Indies Won by 5 wickets
+46942,West Indies in Bangladesh T20I Series 2025,2025,2,102,101,5,120,152,0,152,,target_reached,West Indies Won by 5 wickets
+47241,Ireland in Bangladesh T20I Series 2025,2025,1,121,120,4,120,181,0,181,,scheduled_balls_completed,Ireland Won by 39 runs
+47241,Ireland in Bangladesh T20I Series 2025,2025,2,130,120,9,120,142,0,142,,scheduled_balls_completed,Ireland Won by 39 runs
+47242,Ireland in Bangladesh T20I Series 2025,2025,1,125,120,6,120,170,0,170,,scheduled_balls_completed,Bangladesh Won by 4 wickets
+47242,Ireland in Bangladesh T20I Series 2025,2025,2,122,118,6,120,174,0,174,,target_reached,Bangladesh Won by 4 wickets
+47243,Ireland in Bangladesh T20I Series 2025,2025,1,120,119,10,120,117,0,117,,all_out,Bangladesh Won by 8 wickets
+47243,Ireland in Bangladesh T20I Series 2025,2025,2,87,82,2,120,119,0,119,,target_reached,Bangladesh Won by 8 wickets
+47260,Afghanistan in Zimbabwe T20I Series 2025,2025,1,124,121,6,120,180,0,180,,scheduled_balls_completed,Afghanistan Won by 53 runs
+47260,Afghanistan in Zimbabwe T20I Series 2025,2025,2,101,97,10,120,127,0,127,,all_out,Afghanistan Won by 53 runs
+47261,Afghanistan in Zimbabwe T20I Series 2025,2025,1,117,117,10,120,125,0,125,,all_out,Afghanistan Won by 7 wickets
+47261,Afghanistan in Zimbabwe T20I Series 2025,2025,2,110,108,3,120,129,0,129,,target_reached,Afghanistan Won by 7 wickets
+47262,Afghanistan in Zimbabwe T20I Series 2025,2025,1,125,120,3,120,210,0,210,,scheduled_balls_completed,Afghanistan Won by 9 runs
+47262,Afghanistan in Zimbabwe T20I Series 2025,2025,2,125,121,10,120,201,0,201,,scheduled_balls_completed,Afghanistan Won by 9 runs
+47965,West Indies in New Zealand T20I Series 2025,2025,1,129,120,6,120,164,0,164,,scheduled_balls_completed,West Indies Won by 7 runs
+47965,West Indies in New Zealand T20I Series 2025,2025,2,123,120,9,120,157,0,157,,scheduled_balls_completed,West Indies Won by 7 runs
+47966,West Indies in New Zealand T20I Series 2025,2025,1,130,120,5,120,207,0,207,,scheduled_balls_completed,New Zealand Won by 3 runs
+47966,West Indies in New Zealand T20I Series 2025,2025,2,125,120,8,120,204,0,204,,scheduled_balls_completed,New Zealand Won by 3 runs
+47967,West Indies in New Zealand T20I Series 2025,2025,1,123,120,9,120,177,0,177,,scheduled_balls_completed,New Zealand Won by 9 runs
+47967,West Indies in New Zealand T20I Series 2025,2025,2,124,119,10,120,168,0,168,,all_out,New Zealand Won by 9 runs
+47968,West Indies in New Zealand T20I Series 2025,2025,1,41,39,1,120,38,0,38,,incomplete_or_interrupted,No Result
+47969,West Indies in New Zealand T20I Series 2025,2025,1,116,112,10,120,140,0,140,,all_out,New Zealand Won by 8 wickets
+47969,West Indies in New Zealand T20I Series 2025,2025,2,98,94,2,120,141,0,141,,target_reached,New Zealand Won by 8 wickets
+47976,Pakistan T20I Tri-Series 2025,2025,1,123,120,8,120,147,0,147,,scheduled_balls_completed,Pakistan Won by 5 wickets
+47976,Pakistan T20I Tri-Series 2025,2025,2,120,117,5,120,151,0,151,,target_reached,Pakistan Won by 5 wickets
+47977,Pakistan T20I Tri-Series 2025,2025,1,121,120,8,120,162,0,162,,scheduled_balls_completed,Zimbabwe Won by 67 runs
+47977,Pakistan T20I Tri-Series 2025,2025,2,126,120,10,120,95,0,95,,all_out,Zimbabwe Won by 67 runs
+47978,Pakistan T20I Tri-Series 2025,2025,1,123,120,7,120,128,0,128,,scheduled_balls_completed,Pakistan Won by 7 wickets
+47978,Pakistan T20I Tri-Series 2025,2025,2,95,93,3,120,131,0,131,,target_reached,Pakistan Won by 7 wickets
+47979,Pakistan T20I Tri-Series 2025,2025,1,124,120,5,120,195,0,195,,scheduled_balls_completed,Pakistan Won by 69 runs
+47979,Pakistan T20I Tri-Series 2025,2025,2,117,114,10,120,126,0,126,,all_out,Pakistan Won by 69 runs
+47980,Pakistan T20I Tri-Series 2025,2025,1,123,120,5,120,146,0,146,,scheduled_balls_completed,Sri Lanka Won by 9 wickets
+47980,Pakistan T20I Tri-Series 2025,2025,2,104,98,1,120,148,0,148,,target_reached,Sri Lanka Won by 9 wickets
+47981,Pakistan T20I Tri-Series 2025,2025,1,127,120,5,120,184,0,184,,scheduled_balls_completed,Sri Lanka Won by 6 runs
+47981,Pakistan T20I Tri-Series 2025,2025,2,128,120,7,120,178,0,178,,scheduled_balls_completed,Sri Lanka Won by 6 runs
+47982,Pakistan T20I Tri-Series 2025,2025,1,120,115,10,120,114,0,114,,all_out,Pakistan Won by 6 wickets
+47982,Pakistan T20I Tri-Series 2025,2025,2,114,112,4,120,118,0,118,,target_reached,Pakistan Won by 6 wickets
+48015,Asia Cup Rising Stars 2025,2025,1,125,120,4,120,220,0,220,,scheduled_balls_completed,Pakistan A Won by 40 runs
+48015,Asia Cup Rising Stars 2025,2025,2,124,121,9,120,180,0,180,,scheduled_balls_completed,Pakistan A Won by 40 runs
+48016,Asia Cup Rising Stars 2025,2025,1,126,120,4,120,297,0,297,,scheduled_balls_completed,India A Won by 148 runs
+48016,Asia Cup Rising Stars 2025,2025,2,129,120,7,120,149,0,149,,scheduled_balls_completed,India A Won by 148 runs
+48017,Asia Cup Rising Stars 2025,2025,1,121,120,8,120,167,0,167,,scheduled_balls_completed,Bangladesh A Won by 8 wickets
+48017,Asia Cup Rising Stars 2025,2025,2,72,66,2,120,171,0,171,,target_reached,Bangladesh A Won by 8 wickets
+48018,Asia Cup Rising Stars 2025,2025,1,122,120,9,120,170,0,170,,scheduled_balls_completed,Afghanistan A Won by 3 wickets
+48018,Asia Cup Rising Stars 2025,2025,2,125,119,7,120,171,0,171,,target_reached,Afghanistan A Won by 3 wickets
+48019,Asia Cup Rising Stars 2025,2025,1,125,120,6,120,154,0,154,,scheduled_balls_completed,Oman Won by 2 wickets
+48019,Asia Cup Rising Stars 2025,2025,2,130,120,8,120,155,0,155,,target_reached,Oman Won by 2 wickets
+48020,Asia Cup Rising Stars 2025,2025,1,114,114,10,120,136,0,136,,all_out,Pakistan A Won by 8 wickets
+48020,Asia Cup Rising Stars 2025,2025,2,85,80,2,120,137,0,137,,target_reached,Pakistan A Won by 8 wickets
+48021,Asia Cup Rising Stars 2025,2025,1,127,120,9,120,117,0,117,,scheduled_balls_completed,Sri Lanka A Won by 7 wickets
+48021,Asia Cup Rising Stars 2025,2025,2,88,83,3,120,120,0,120,,target_reached,Sri Lanka A Won by 7 wickets
+48022,Asia Cup Rising Stars 2025,2025,1,118,112,10,120,78,0,78,,all_out,Bangladesh A Won by 8 wickets
+48022,Asia Cup Rising Stars 2025,2025,2,85,81,2,120,79,0,79,,target_reached,Bangladesh A Won by 8 wickets
+48023,Asia Cup Rising Stars 2025,2025,1,112,108,10,120,59,0,59,,all_out,Pakistan A Won by 9 wickets
+48023,Asia Cup Rising Stars 2025,2025,2,34,32,1,120,61,0,61,,target_reached,Pakistan A Won by 9 wickets
+48024,Asia Cup Rising Stars 2025,2025,1,123,120,7,120,135,0,135,,scheduled_balls_completed,India A Won by 6 wickets
+48024,Asia Cup Rising Stars 2025,2025,2,111,107,4,120,138,0,138,,target_reached,India A Won by 6 wickets
+48025,Asia Cup Rising Stars 2025,2025,1,125,120,6,120,140,0,140,,scheduled_balls_completed,Afghanistan A Won by 24 runs
+48025,Asia Cup Rising Stars 2025,2025,2,121,120,9,120,116,0,116,,scheduled_balls_completed,Afghanistan A Won by 24 runs
+48026,Asia Cup Rising Stars 2025,2025,1,122,120,7,120,159,0,159,,scheduled_balls_completed,Sri Lanka A Won by 6 runs
+48026,Asia Cup Rising Stars 2025,2025,2,130,120,6,120,153,0,153,,scheduled_balls_completed,Sri Lanka A Won by 6 runs
+48027,Asia Cup Rising Stars 2025,2025,1,132,120,6,120,194,0,194,,scheduled_balls_completed,Bangladesh A Won The Super Over
+48027,Asia Cup Rising Stars 2025,2025,2,126,120,6,120,194,0,194,,scheduled_balls_completed,Bangladesh A Won The Super Over
+48027,Asia Cup Rising Stars 2025,2025,3,2,2,2,6,0,0,0,,incomplete_or_interrupted,Bangladesh A Won The Super Over
+48027,Asia Cup Rising Stars 2025,2025,4,2,1,1,6,1,0,1,,target_reached,Bangladesh A Won The Super Over
+48028,Asia Cup Rising Stars 2025,2025,1,123,120,9,120,153,0,153,,scheduled_balls_completed,Pakistan A Won by 5 runs
+48028,Asia Cup Rising Stars 2025,2025,2,130,120,9,120,148,0,148,,scheduled_balls_completed,Pakistan A Won by 5 runs
+48029,Asia Cup Rising Stars 2025,2025,1,123,120,10,120,125,0,125,,all_out,Pakistan A Won the super over
+48029,Asia Cup Rising Stars 2025,2025,2,126,120,9,120,125,0,125,,scheduled_balls_completed,Pakistan A Won the super over
+48029,Asia Cup Rising Stars 2025,2025,3,4,3,2,6,6,0,6,,incomplete_or_interrupted,Pakistan A Won the super over
+48029,Asia Cup Rising Stars 2025,2025,4,4,4,0,6,7,0,7,,target_reached,Pakistan A Won the super over
+48466,Ireland in United Arab Emirates T20I Series 2026,2026,1,122,120,6,120,178,0,178,,scheduled_balls_completed,Ireland Won by 57 runs
+48466,Ireland in United Arab Emirates T20I Series 2026,2026,2,122,119,10,120,121,0,121,,all_out,Ireland Won by 57 runs
+48467,Ireland in United Arab Emirates T20I Series 2026,2026,1,127,122,7,120,169,1,170,,scheduled_balls_completed,Ireland Won by 30 runs
+48467,Ireland in United Arab Emirates T20I Series 2026,2026,2,123,120,8,120,140,0,140,,scheduled_balls_completed,Ireland Won by 30 runs
+48512,Pakistan in Sri Lanka T20I Series 2026,2026,1,116,116,10,120,128,0,128,,all_out,Pakistan Won by 6 wickets
+48512,Pakistan in Sri Lanka T20I Series 2026,2026,2,103,100,4,120,129,0,129,,target_reached,Pakistan Won by 6 wickets
+48514,Pakistan in Sri Lanka T20I Series 2026,2026,1,78,72,6,120,160,0,160,,incomplete_or_interrupted,Sri Lanka Won by 14 runs
+48514,Pakistan in Sri Lanka T20I Series 2026,2026,2,79,72,8,120,146,0,146,,incomplete_or_interrupted,Sri Lanka Won by 14 runs
+48591,New Zealand in India T20I Series 2026,2026,1,130,120,7,120,238,0,238,,scheduled_balls_completed,India Won by 48 runs
+48591,New Zealand in India T20I Series 2026,2026,2,122,120,7,120,190,0,190,,scheduled_balls_completed,India Won by 48 runs
+48592,New Zealand in India T20I Series 2026,2026,1,126,120,6,120,208,0,208,,scheduled_balls_completed,India Won by 7 wickets
+48592,New Zealand in India T20I Series 2026,2026,2,101,93,3,120,209,0,209,,target_reached,India Won by 7 wickets
+48593,New Zealand in India T20I Series 2026,2026,1,121,120,9,120,153,0,153,,scheduled_balls_completed,India Won by 8 wickets
+48593,New Zealand in India T20I Series 2026,2026,2,62,60,2,120,155,0,155,,target_reached,India Won by 8 wickets
+48594,New Zealand in India T20I Series 2026,2026,1,123,120,7,120,215,0,215,,scheduled_balls_completed,New Zealand Won by 50 runs
+48594,New Zealand in India T20I Series 2026,2026,2,115,112,10,120,165,0,165,,all_out,New Zealand Won by 50 runs
+48595,New Zealand in India T20I Series 2026,2026,1,128,122,5,120,271,0,271,,scheduled_balls_completed,India Won by 46 runs
+48595,New Zealand in India T20I Series 2026,2026,2,120,118,10,120,225,0,225,,all_out,India Won by 46 runs
+48596,Afghanistan v West Indies T20I Series 2026,2026,1,127,120,3,120,181,0,181,,scheduled_balls_completed,Afghanistan Won by 38 runs
+48596,Afghanistan v West Indies T20I Series 2026,2026,2,126,120,9,120,143,0,143,,scheduled_balls_completed,Afghanistan Won by 38 runs
+48597,Afghanistan v West Indies T20I Series 2026,2026,1,125,120,4,120,189,0,189,,scheduled_balls_completed,Afghanistan Won by 39 runs
+48597,Afghanistan v West Indies T20I Series 2026,2026,2,116,113,10,120,150,0,150,,all_out,Afghanistan Won by 39 runs
+48598,Afghanistan v West Indies T20I Series 2026,2026,1,122,120,7,120,151,0,151,,scheduled_balls_completed,West Indies Won by 13 runs
+48598,Afghanistan v West Indies T20I Series 2026,2026,2,126,120,8,120,138,0,138,,scheduled_balls_completed,West Indies Won by 13 runs
+48610,England in Sri Lanka T20I Series 2026,2026,1,101,98,10,102,133,0,133,115.0,all_out,England Won by 11 runs (DLS method)
+48610,England in Sri Lanka T20I Series 2026,2026,2,93,90,4,90,125,0,125,115.0,target_reached,England Won by 11 runs (DLS method)
+48611,England in Sri Lanka T20I Series 2026,2026,1,127,120,5,120,189,0,189,168.0,scheduled_balls_completed,England Won by 6 wickets(DLS Method)
+48611,England in Sri Lanka T20I Series 2026,2026,2,106,101,4,102,173,0,173,168.0,target_reached,England Won by 6 wickets(DLS Method)
+48612,England in Sri Lanka T20I Series 2026,2026,1,123,120,9,120,128,0,128,,scheduled_balls_completed,England Won by 12 runs
+48612,England in Sri Lanka T20I Series 2026,2026,2,118,117,10,120,116,0,116,,all_out,England Won by 12 runs
+48915,Australia in Pakistan T20I Series 2026,2026,1,128,120,8,120,168,0,168,,scheduled_balls_completed,Pakistan Won by 22 runs
+48915,Australia in Pakistan T20I Series 2026,2026,2,122,120,8,120,146,0,146,,scheduled_balls_completed,Pakistan Won by 22 runs
+48916,Australia in Pakistan T20I Series 2026,2026,1,122,120,5,120,198,0,198,,scheduled_balls_completed,Pakistan Won by 90 runs
+48916,Australia in Pakistan T20I Series 2026,2026,2,95,94,10,120,108,0,108,,all_out,Pakistan Won by 90 runs
+48917,Australia in Pakistan T20I Series 2026,2026,1,124,122,6,120,207,0,207,,scheduled_balls_completed,Pakistan Won by 111 runs
+48917,Australia in Pakistan T20I Series 2026,2026,2,103,101,9,120,96,0,96,,incomplete_or_interrupted,Pakistan Won by 111 runs
+49736,South Africa in New Zealand T20I Series 2026,2026,1,92,87,10,120,91,0,91,,all_out,South Africa Won by 7 wickets
+49736,South Africa in New Zealand T20I Series 2026,2026,2,104,101,3,120,93,0,93,,target_reached,South Africa Won by 7 wickets
+49737,South Africa in New Zealand T20I Series 2026,2026,1,127,120,6,120,175,0,175,,scheduled_balls_completed,New Zealand Won by 68 runs
+49737,South Africa in New Zealand T20I Series 2026,2026,2,96,93,10,120,107,0,107,,all_out,New Zealand Won by 68 runs
+49738,South Africa in New Zealand T20I Series 2026,2026,1,122,120,9,120,136,0,136,,scheduled_balls_completed,New Zealand Won by 8 wickets
+49738,South Africa in New Zealand T20I Series 2026,2026,2,104,99,2,120,137,0,137,,target_reached,New Zealand Won by 8 wickets
+49739,South Africa in New Zealand T20I Series 2026,2026,1,121,120,5,120,164,0,164,,scheduled_balls_completed,South Africa Won by 19 runs
+49739,South Africa in New Zealand T20I Series 2026,2026,2,117,113,10,120,145,0,145,,all_out,South Africa Won by 19 runs
+49740,South Africa in New Zealand T20I Series 2026,2026,1,126,121,4,120,187,0,187,,scheduled_balls_completed,South Africa Won by 33 runs
+49740,South Africa in New Zealand T20I Series 2026,2026,2,125,120,8,120,154,0,154,,scheduled_balls_completed,South Africa Won by 33 runs
+50125,IPL 2026,2026,1,124,120,9,120,201,0,201,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 6 wickets
+50125,IPL 2026,2026,2,101,94,4,120,203,0,203,,target_reached,Royal Challengers Bengaluru Won by 6 wickets
+50126,IPL 2026,2026,1,128,120,4,120,220,0,220,,scheduled_balls_completed,Mumbai Indians Won by 6 wickets
+50126,IPL 2026,2026,2,119,116,4,120,224,0,224,,target_reached,Mumbai Indians Won by 6 wickets
+50127,IPL 2026,2026,1,125,118,10,120,127,0,127,,all_out,Rajasthan Royals Won by 8 wickets
+50127,IPL 2026,2026,2,74,73,2,120,128,0,128,,target_reached,Rajasthan Royals Won by 8 wickets
+50128,IPL 2026,2026,1,131,121,6,120,162,0,162,,scheduled_balls_completed,Punjab Kings Won by 3 wickets
+50128,IPL 2026,2026,2,119,115,7,120,165,0,165,,target_reached,Punjab Kings Won by 3 wickets
+50129,IPL 2026,2026,1,114,112,10,120,141,0,141,,all_out,Delhi Capitals Won by 6 wickets
+50129,IPL 2026,2026,2,115,103,4,120,145,0,145,,target_reached,Delhi Capitals Won by 6 wickets
+50130,IPL 2026,2026,1,129,120,8,120,226,0,226,,scheduled_balls_completed,Sunrisers Hyderabad Won by 65 runs
+50130,IPL 2026,2026,2,102,96,10,120,161,0,161,,all_out,Sunrisers Hyderabad Won by 65 runs
+50131,IPL 2026,2026,1,131,120,5,120,209,0,209,,scheduled_balls_completed,Punjab Kings Won by 5 wickets
+50131,IPL 2026,2026,2,120,112,5,120,210,0,210,,target_reached,Punjab Kings Won by 5 wickets
+50132,IPL 2026,2026,1,124,120,6,120,162,0,162,,scheduled_balls_completed,Delhi Capitals Won by 6 wickets
+50132,IPL 2026,2026,2,113,109,4,120,164,0,164,,target_reached,Delhi Capitals Won by 6 wickets
+50133,IPL 2026,2026,1,129,120,6,120,210,0,210,,scheduled_balls_completed,Rajasthan Royals Won by 6 runs
+50133,IPL 2026,2026,2,124,120,8,120,204,0,204,,scheduled_balls_completed,Rajasthan Royals Won by 6 runs
+50134,IPL 2026,2026,1,123,120,9,120,156,0,156,,scheduled_balls_completed,Lucknow Super Giants Won by 5 wickets
+50134,IPL 2026,2026,2,119,119,5,120,160,0,160,,target_reached,Lucknow Super Giants Won by 5 wickets
+50135,IPL 2026,2026,1,124,120,3,120,250,0,250,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 43 runs
+50135,IPL 2026,2026,2,123,118,10,120,207,0,207,,all_out,Royal Challengers Bengaluru Won by 43 runs
+50136,IPL 2026,2026,1,22,22,2,120,25,0,25,,incomplete_or_interrupted,No Result
+50137,IPL 2026,2026,1,72,66,3,66,150,0,150,151.0,scheduled_balls_completed,Rajasthan Royals Won by 27 runs
+50137,IPL 2026,2026,2,72,66,9,66,123,0,123,151.0,scheduled_balls_completed,Rajasthan Royals Won by 27 runs
+50138,IPL 2026,2026,1,126,120,4,120,210,0,210,,scheduled_balls_completed,Gujarat Titans Won by 1 run
+50138,IPL 2026,2026,2,128,120,8,120,209,0,209,,scheduled_balls_completed,Gujarat Titans Won by 1 run
+50139,IPL 2026,2026,1,126,120,4,120,181,0,181,,scheduled_balls_completed,Lucknow Super Giants Won by 3 wickets
+50139,IPL 2026,2026,2,127,121,7,120,182,0,182,,scheduled_balls_completed,Lucknow Super Giants Won by 3 wickets
+50140,IPL 2026,2026,1,123,120,8,120,201,0,201,,scheduled_balls_completed,Rajasthan Royals Won by 6 wickets
+50140,IPL 2026,2026,2,110,108,4,120,202,0,202,,target_reached,Rajasthan Royals Won by 6 wickets
+50141,IPL 2026,2026,1,132,121,6,120,219,0,219,,scheduled_balls_completed,Punjab Kings Won by 6 wickets
+50141,IPL 2026,2026,2,118,113,4,120,223,0,223,,target_reached,Punjab Kings Won by 6 wickets
+50142,IPL 2026,2026,1,123,120,1,120,212,0,212,,scheduled_balls_completed,Chennai Super Kings Won by 23 runs
+50142,IPL 2026,2026,2,129,120,10,120,189,0,189,,all_out,Chennai Super Kings Won by 23 runs
+50143,IPL 2026,2026,1,122,120,8,120,164,0,164,,scheduled_balls_completed,Gujarat Titans Won by 7 wickets
+50143,IPL 2026,2026,2,115,112,3,120,165,0,165,,target_reached,Gujarat Titans Won by 7 wickets
+50144,IPL 2026,2026,1,132,121,4,120,240,0,240,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 18 runs
+50144,IPL 2026,2026,2,130,120,5,120,222,0,222,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 18 runs
+50188,New Zealand in Bangladesh T20I Series 2026,2026,1,124,120,6,120,182,0,182,,scheduled_balls_completed,Bangladesh Won by 6 wickets
+50188,New Zealand in Bangladesh T20I Series 2026,2026,2,117,109,4,120,183,0,183,,target_reached,Bangladesh Won by 6 wickets
+50190,New Zealand in Bangladesh T20I Series 2026,2026,1,90,86,10,90,102,0,102,103.0,all_out,New Zealand Won by 6 wickets (DLS Method)
+50190,New Zealand in Bangladesh T20I Series 2026,2026,2,71,70,4,90,104,0,104,103.0,target_reached,New Zealand Won by 6 wickets (DLS Method)
+50340,India in Ireland T20I Series 2026,2026,1,126,121,9,120,182,0,182,,scheduled_balls_completed,Ireland Won by 34 runs
+50340,India in Ireland T20I Series 2026,2026,2,121,113,10,120,148,0,148,,all_out,Ireland Won by 34 runs
+50341,India in Ireland T20I Series 2026,2026,1,124,120,8,120,154,0,154,,scheduled_balls_completed,Ireland Won by 1 run
+50341,India in Ireland T20I Series 2026,2026,2,125,121,9,120,153,0,153,,scheduled_balls_completed,Ireland Won by 1 run
+50342,IPL 2026,2026,1,128,120,6,120,216,0,216,,scheduled_balls_completed,Sunrisers Hyderabad Won by 57 runs
+50342,IPL 2026,2026,2,123,114,10,120,159,0,159,,all_out,Sunrisers Hyderabad Won by 57 runs
+50343,IPL 2026,2026,1,130,120,5,120,192,0,192,,scheduled_balls_completed,Chennai Super Kings Won by 32 runs
+50343,IPL 2026,2026,2,125,120,7,120,160,0,160,,scheduled_balls_completed,Chennai Super Kings Won by 32 runs
+50344,IPL 2026,2026,1,124,120,10,120,146,0,146,,all_out,Royal Challengers Bengaluru Won by 5 wickets
+50344,IPL 2026,2026,2,92,91,5,120,149,0,149,,target_reached,Royal Challengers Bengaluru Won by 5 wickets
+50345,IPL 2026,2026,1,124,120,6,120,195,0,195,,scheduled_balls_completed,Punjab Kings Won by 7 wickets
+50345,IPL 2026,2026,2,109,99,3,120,198,0,198,,target_reached,Punjab Kings Won by 7 wickets
+50346,IPL 2026,2026,1,127,121,10,120,180,0,180,,scheduled_balls_completed,Gujarat Titans Won by 5 wickets
+50346,IPL 2026,2026,2,122,118,5,120,181,0,181,,target_reached,Gujarat Titans Won by 5 wickets
+50347,IPL 2026,2026,1,129,121,8,120,175,0,175,,scheduled_balls_completed,Delhi Capitals Won by 6 wickets
+50347,IPL 2026,2026,2,122,119,4,120,179,0,179,,target_reached,Delhi Capitals Won by 6 wickets
+50348,IPL 2026,2026,1,124,120,9,120,194,0,194,,scheduled_balls_completed,Sunrisers Hyderabad Won by 10 runs
+50348,IPL 2026,2026,2,133,122,8,120,184,0,184,,scheduled_balls_completed,Sunrisers Hyderabad Won by 10 runs
+50349,IPL 2026,2026,1,130,120,9,120,155,0,155,,scheduled_balls_completed,Kolkata Knight Riders Won by 4 wickets
+50349,IPL 2026,2026,2,126,118,6,120,161,0,161,,target_reached,Kolkata Knight Riders Won by 4 wickets
+50350,IPL 2026,2026,1,126,120,7,120,254,0,254,,scheduled_balls_completed,Punjab Kings Won by 54 runs
+50350,IPL 2026,2026,2,127,121,5,120,200,0,200,,scheduled_balls_completed,Punjab Kings Won by 54 runs
+50351,IPL 2026,2026,1,122,120,5,120,199,0,199,,scheduled_balls_completed,Mumbai Indians Won by 99 runs
+50351,IPL 2026,2026,2,102,95,10,120,100,0,100,,all_out,Mumbai Indians Won by 99 runs
+50352,IPL 2026,2026,1,128,120,2,120,242,0,242,,scheduled_balls_completed,Sunrisers Hyderabad Won by 47 runs
+50352,IPL 2026,2026,2,127,120,9,120,195,0,195,,scheduled_balls_completed,Sunrisers Hyderabad Won by 47 runs
+50353,IPL 2026,2026,1,124,120,6,120,159,0,159,,scheduled_balls_completed,Rajasthan Royals Won by 40 runs
+50353,IPL 2026,2026,2,113,108,10,120,119,0,119,,all_out,Rajasthan Royals Won by 40 runs
+50354,IPL 2026,2026,1,128,120,6,120,207,0,207,,scheduled_balls_completed,Chennai Super Kings Won by 103 runs
+50354,IPL 2026,2026,2,119,114,10,120,104,0,104,,all_out,Chennai Super Kings Won by 103 runs
+50355,IPL 2026,2026,1,123,120,3,120,205,0,205,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 5 wickets
+50355,IPL 2026,2026,2,116,113,5,120,206,0,206,,target_reached,Royal Challengers Bengaluru Won by 5 wickets
+50356,IPL 2026,2026,1,127,120,2,120,264,0,264,,scheduled_balls_completed,Punjab Kings Won by 6 wickets
+50356,IPL 2026,2026,2,126,113,4,120,265,0,265,,target_reached,Punjab Kings Won by 6 wickets
+50357,IPL 2026,2026,1,126,120,6,120,228,0,228,,scheduled_balls_completed,Sunrisers Hyderabad Won by 5 wickets
+50357,IPL 2026,2026,2,120,111,5,120,229,0,229,,target_reached,Sunrisers Hyderabad Won by 5 wickets
+50358,IPL 2026,2026,1,126,120,7,120,158,0,158,,scheduled_balls_completed,Gujarat Titans Won by 8 wickets
+50358,IPL 2026,2026,2,102,100,2,120,162,0,162,,target_reached,Gujarat Titans Won by 8 wickets
+50359,IPL 2026,2026,1,127,120,7,120,155,0,155,,scheduled_balls_completed,Kolkata Knight Riders Won by Super over (Match Tied)
+50359,IPL 2026,2026,2,125,122,8,120,155,0,155,,scheduled_balls_completed,Kolkata Knight Riders Won by Super over (Match Tied)
+50359,IPL 2026,2026,3,3,3,2,6,1,0,1,,incomplete_or_interrupted,Kolkata Knight Riders Won by Super over (Match Tied)
+50359,IPL 2026,2026,4,1,1,0,6,4,0,4,,target_reached,Kolkata Knight Riders Won by Super over (Match Tied)
+50360,IPL 2026,2026,1,103,99,10,120,75,0,75,,all_out,Royal Challengers Bengaluru Won by 9 wickets
+50360,IPL 2026,2026,2,39,39,1,120,77,0,77,,target_reached,Royal Challengers Bengaluru Won by 9 wickets
+50361,IPL 2026,2026,1,121,120,4,120,222,0,222,,scheduled_balls_completed,Rajasthan Royals Won by 6 wickets
+50361,IPL 2026,2026,2,121,116,4,120,228,0,228,,target_reached,Rajasthan Royals Won by 6 wickets
+50362,IPL 2026,2026,1,127,120,5,120,243,0,243,,scheduled_balls_completed,Sunrisers Hyderabad Won by 6 wickets
+50362,IPL 2026,2026,2,120,112,4,120,249,0,249,,target_reached,Sunrisers Hyderabad Won by 6 wickets
+50363,IPL 2026,2026,1,118,116,10,120,155,0,155,,all_out,Gujarat Titans Won by 4 wickets
+50363,IPL 2026,2026,2,99,95,6,120,158,0,158,,target_reached,Gujarat Titans Won by 4 wickets
+50364,IPL 2026,2026,1,126,120,6,120,225,0,225,,scheduled_balls_completed,Delhi Capitals Won by 7 wickets
+50364,IPL 2026,2026,2,123,116,3,120,226,0,226,,target_reached,Delhi Capitals Won by 7 wickets
+50365,IPL 2026,2026,1,121,120,7,120,159,0,159,,scheduled_balls_completed,Chennai Super Kings Won by 8 wickets
+50365,IPL 2026,2026,2,113,109,2,120,160,0,160,,target_reached,Chennai Super Kings Won by 8 wickets
+50366,IPL 2026,2026,1,118,114,10,120,165,0,165,,all_out,Kolkata Knight Riders Won by 7 wickets
+50366,IPL 2026,2026,2,117,110,3,120,169,0,169,,target_reached,Kolkata Knight Riders Won by 7 wickets
+50367,IPL 2026,2026,1,126,120,9,120,163,0,163,,scheduled_balls_completed,Gujarat Titans Won by 4 wickets
+50367,IPL 2026,2026,2,122,119,6,120,167,0,167,,target_reached,Gujarat Titans Won by 4 wickets
+50368,IPL 2026,2026,1,130,120,5,120,228,0,228,,scheduled_balls_completed,Mumbai Indians Won by 6 wickets
+50368,IPL 2026,2026,2,116,112,4,120,229,0,229,,target_reached,Mumbai Indians Won by 6 wickets
+50369,IPL 2026,2026,1,122,120,7,120,155,0,155,,scheduled_balls_completed,Chennai Super Kings Won by 8 wickets
+50369,IPL 2026,2026,2,108,105,2,120,159,0,159,,target_reached,Chennai Super Kings Won by 8 wickets
+50370,IPL 2026,2026,1,125,120,4,120,235,0,235,,scheduled_balls_completed,Sunrisers Hyderabad Won by 33 runs
+50370,IPL 2026,2026,2,129,121,7,120,202,0,202,,scheduled_balls_completed,Sunrisers Hyderabad Won by 33 runs
+50371,IPL 2026,2026,1,119,114,3,114,209,0,209,213.0,scheduled_balls_completed,Lucknow Super Giants Won by 9 runs (DLS method)
+50371,IPL 2026,2026,2,122,114,6,114,203,0,203,213.0,scheduled_balls_completed,Lucknow Super Giants Won by 9 runs (DLS method)
+50372,IPL 2026,2026,1,122,120,8,120,142,0,142,,scheduled_balls_completed,Kolkata Knight Riders Won by 8 wickets
+50372,IPL 2026,2026,2,86,86,2,120,147,0,147,,target_reached,Kolkata Knight Riders Won by 8 wickets
+50373,IPL 2026,2026,1,133,120,4,120,229,0,229,,scheduled_balls_completed,Gujarat Titans Won by 77 runs
+50373,IPL 2026,2026,2,101,99,10,120,152,0,152,,all_out,Gujarat Titans Won by 77 runs
+50374,IPL 2026,2026,1,126,120,8,120,203,0,203,,scheduled_balls_completed,Chennai Super Kings Won by 5 wickets
+50374,IPL 2026,2026,2,124,116,5,120,208,0,208,,target_reached,Chennai Super Kings Won by 5 wickets
+50375,IPL 2026,2026,1,123,120,7,120,166,0,166,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 2 wickets
+50375,IPL 2026,2026,2,131,120,8,120,167,0,167,,target_reached,Royal Challengers Bengaluru Won by 2 wickets
+50376,IPL 2026,2026,1,129,120,5,120,210,0,210,,scheduled_balls_completed,Delhi Capitals Won by 3 wickets
+50376,IPL 2026,2026,2,123,115,7,120,216,0,216,,target_reached,Delhi Capitals Won by 3 wickets
+50377,IPL 2026,2026,1,126,120,5,120,168,0,168,,scheduled_balls_completed,Gujarat Titans Won by 82 runs
+50377,IPL 2026,2026,2,90,89,10,120,86,0,86,,all_out,Gujarat Titans Won by 82 runs
+50378,IPL 2026,2026,1,122,120,4,120,192,0,192,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 6 wickets
+50378,IPL 2026,2026,2,124,115,4,120,194,0,194,,target_reached,Royal Challengers Bengaluru Won by 6 wickets
+50379,IPL 2026,2026,1,127,120,8,120,200,0,200,,scheduled_balls_completed,Mumbai Indians Won by 6 wickets
+50379,IPL 2026,2026,2,122,119,4,120,205,0,205,,target_reached,Mumbai Indians Won by 6 wickets
+50380,IPL 2026,2026,1,127,120,5,120,187,0,187,,scheduled_balls_completed,Lucknow Super Giants Won by 7 wickets
+50380,IPL 2026,2026,2,103,100,3,120,188,0,188,,target_reached,Lucknow Super Giants Won by 7 wickets
+50381,IPL 2026,2026,1,125,121,2,120,247,0,247,,scheduled_balls_completed,Kolkata Knight Riders Won by 29 runs
+50381,IPL 2026,2026,2,127,120,4,120,218,0,218,,scheduled_balls_completed,Kolkata Knight Riders Won by 29 runs
+50382,IPL 2026,2026,1,126,120,4,120,222,0,222,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 23 runs
+50382,IPL 2026,2026,2,128,120,8,120,199,0,199,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 23 runs
+50383,IPL 2026,2026,1,126,120,8,120,193,0,193,,scheduled_balls_completed,Delhi Capitals Won by 5 wickets
+50383,IPL 2026,2026,2,123,116,5,120,197,0,197,,target_reached,Delhi Capitals Won by 5 wickets
+50384,IPL 2026,2026,1,129,120,7,120,180,0,180,,scheduled_balls_completed,Sunrisers Hyderabad Won by 5 wickets
+50384,IPL 2026,2026,2,120,114,5,120,181,0,181,,target_reached,Sunrisers Hyderabad Won by 5 wickets
+50385,IPL 2026,2026,1,130,121,5,120,220,0,220,,scheduled_balls_completed,Rajasthan Royals Won by 7 wickets
+50385,IPL 2026,2026,2,121,115,3,120,225,0,225,,target_reached,Rajasthan Royals Won by 7 wickets
+50386,IPL 2026,2026,1,123,120,8,120,147,0,147,,scheduled_balls_completed,Kolkata Knight Riders Won by 4 wickets
+50386,IPL 2026,2026,2,118,113,6,120,148,0,148,,target_reached,Kolkata Knight Riders Won by 4 wickets
+50387,IPL 2026,2026,1,129,120,4,120,229,0,229,,scheduled_balls_completed,Gujarat Titans Won by 89 runs
+50387,IPL 2026,2026,2,86,82,10,120,140,0,140,,all_out,Gujarat Titans Won by 89 runs
+50388,IPL 2026,2026,1,133,120,4,120,255,0,255,,scheduled_balls_completed,Sunrisers Hyderabad Won by 55 runs
+50388,IPL 2026,2026,2,125,121,4,120,200,0,200,,scheduled_balls_completed,Sunrisers Hyderabad Won by 55 runs
+50389,IPL 2026,2026,1,128,120,6,120,196,0,196,,scheduled_balls_completed,Punjab Kings Won by 7 wickets
+50389,IPL 2026,2026,2,111,108,3,120,200,0,200,,target_reached,Punjab Kings Won by 7 wickets
+50390,IPL 2026,2026,1,126,121,8,120,205,0,205,,scheduled_balls_completed,Rajasthan Royals Won by 30 runs
+50390,IPL 2026,2026,2,125,121,9,120,175,0,175,,scheduled_balls_completed,Rajasthan Royals Won by 30 runs
+50391,IPL 2026,2026,1,129,121,5,120,203,0,203,,scheduled_balls_completed,Delhi Capitals Won by 40 runs
+50391,IPL 2026,2026,2,116,112,10,120,163,0,163,,all_out,Delhi Capitals Won by 40 runs
+50404,West Indies in India T20I Series 2026,2026,1,116,115,10,120,171,0,171,,all_out,India Won by 8 wickets
+50404,West Indies in India T20I Series 2026,2026,2,89,88,2,120,172,0,172,,target_reached,India Won by 8 wickets
+50405,West Indies in India T20I Series 2026,2026,1,128,121,5,120,249,0,249,,scheduled_balls_completed,West Indies Won by 6 wickets
+50405,West Indies in India T20I Series 2026,2026,2,115,111,4,120,252,0,252,,target_reached,West Indies Won by 6 wickets
+50406,West Indies in India T20I Series 2026,2026,1,124,120,10,120,223,0,223,,all_out,India Won by 14 runs
+50406,West Indies in India T20I Series 2026,2026,2,127,120,7,120,209,0,209,,scheduled_balls_completed,India Won by 14 runs
+50407,West Indies in India T20I Series 2026,2026,1,130,121,3,120,247,0,247,,scheduled_balls_completed,West Indies Won by 24 runs
+50407,West Indies in India T20I Series 2026,2026,2,130,117,9,120,223,0,223,,incomplete_or_interrupted,West Indies Won by 24 runs
+50408,West Indies in India T20I Series 2026,2026,1,55,46,5,54,118,0,118,,incomplete_or_interrupted,No Result
+50503,Sri Lanka in West Indies T20I Series 2026,2026,1,124,120,9,120,147,0,147,,scheduled_balls_completed,West Indies Won by 7 wickets
+50503,Sri Lanka in West Indies T20I Series 2026,2026,2,120,116,3,120,149,0,149,,target_reached,West Indies Won by 7 wickets
+50504,Sri Lanka in West Indies T20I Series 2026,2026,1,126,121,6,120,194,0,194,,scheduled_balls_completed,Sri Lanka Won by 37 runs
+50504,Sri Lanka in West Indies T20I Series 2026,2026,2,113,109,10,120,157,0,157,,all_out,Sri Lanka Won by 37 runs
+50505,Sri Lanka in West Indies T20I Series 2026,2026,1,124,120,10,120,169,0,169,,all_out,West Indies Won by 5 wickets
+50505,Sri Lanka in West Indies T20I Series 2026,2026,2,127,118,5,120,170,0,170,,target_reached,West Indies Won by 5 wickets
+50507,India in Zimbabwe T20I Series 2026,2026,1,129,120,7,120,125,0,125,,scheduled_balls_completed,India Won by 7 wickets
+50507,India in Zimbabwe T20I Series 2026,2026,2,86,80,3,120,126,0,126,,target_reached,India Won by 7 wickets
+50508,India in Zimbabwe T20I Series 2026,2026,1,125,120,5,120,219,0,219,,scheduled_balls_completed,India Won by 90 runs
+50508,India in Zimbabwe T20I Series 2026,2026,2,110,107,10,120,129,0,129,,all_out,India Won by 90 runs
+50509,India in Zimbabwe T20I Series 2026,2026,1,130,120,5,120,192,0,192,,scheduled_balls_completed,India Won by 35 runs
+50509,India in Zimbabwe T20I Series 2026,2026,2,130,120,7,120,157,0,157,,scheduled_balls_completed,India Won by 35 runs
+50597,Australia in Bangladesh T20I Series 2026,2026,1,118,114,10,120,131,0,131,,all_out,Australia Won by 4 wickets
+50597,Australia in Bangladesh T20I Series 2026,2026,2,110,110,6,120,133,0,133,,target_reached,Australia Won by 4 wickets
+50598,Australia in Bangladesh T20I Series 2026,2026,1,125,120,5,120,196,0,196,,scheduled_balls_completed,Australia Won by 7 runs
+50598,Australia in Bangladesh T20I Series 2026,2026,2,124,120,6,120,189,0,189,,scheduled_balls_completed,Australia Won by 7 runs
+50599,Australia in Bangladesh T20I Series 2026,2026,1,125,120,8,120,109,0,109,,scheduled_balls_completed,Australia Won by 7 wickets
+50599,Australia in Bangladesh T20I Series 2026,2026,2,67,66,3,120,112,0,112,,target_reached,Australia Won by 7 wickets
+50942,IPL 2026,2026,1,125,121,5,120,254,0,254,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 92 runs
+50942,IPL 2026,2026,2,124,117,10,120,162,0,162,,all_out,Royal Challengers Bengaluru Won by 92 runs
+50943,IPL 2026,2026,1,124,121,8,120,243,0,243,,scheduled_balls_completed,Rajasthan Royals Won by 47 runs
+50943,IPL 2026,2026,2,128,117,10,120,196,0,196,,all_out,Rajasthan Royals Won by 47 runs
+50944,IPL 2026,2026,1,122,120,6,120,214,0,214,,scheduled_balls_completed,Gujarat Titans Won by 7 wickets
+50944,IPL 2026,2026,2,119,112,3,120,219,0,219,,target_reached,Gujarat Titans Won by 7 wickets
+50945,IPL 2026,2026,1,124,120,8,120,155,0,155,,scheduled_balls_completed,Royal Challengers Bengaluru Won by 5 wickets
+50945,IPL 2026,2026,2,109,108,5,120,161,0,161,,target_reached,Royal Challengers Bengaluru Won by 5 wickets
+51383,Bangladesh in Zimbabwe T20I Series 2026,2026,1,128,120,6,120,170,0,170,,scheduled_balls_completed,Zimbabwe Won by 32 runs
+51383,Bangladesh in Zimbabwe T20I Series 2026,2026,2,119,114,10,120,138,0,138,,all_out,Zimbabwe Won by 32 runs
+51384,Bangladesh in Zimbabwe T20I Series 2026,2026,1,126,120,5,120,186,0,186,,scheduled_balls_completed,Bangladesh Won by 34 runs
+51384,Bangladesh in Zimbabwe T20I Series 2026,2026,2,122,118,10,120,152,0,152,,all_out,Bangladesh Won by 34 runs
+51385,Bangladesh in Zimbabwe T20I Series 2026,2026,1,122,120,7,120,143,0,143,,scheduled_balls_completed,Bangladesh Won by 4 wickets
+51385,Bangladesh in Zimbabwe T20I Series 2026,2026,2,121,118,6,120,144,0,144,,target_reached,Bangladesh Won by 4 wickets
+54210,India in New Zealand T20I Series 2026,2026,1,128,121,4,120,225,0,225,,scheduled_balls_completed,India Won by 4 wickets
+54210,India in New Zealand T20I Series 2026,2026,2,126,119,6,120,230,0,230,,target_reached,India Won by 4 wickets
+54211,India in New Zealand T20I Series 2026,2026,1,128,120,5,120,180,0,180,,scheduled_balls_completed,India Won by 4 wickets
+54211,India in New Zealand T20I Series 2026,2026,2,126,119,6,120,181,0,181,,target_reached,India Won by 4 wickets
+54212,India in New Zealand T20I Series 2026,2026,1,124,120,3,120,198,0,198,,scheduled_balls_completed,India Won by 6 wickets
+54212,India in New Zealand T20I Series 2026,2026,2,88,80,4,120,199,0,199,,target_reached,India Won by 6 wickets
+54213,India in New Zealand T20I Series 2026,2026,1,129,121,7,120,259,0,259,,scheduled_balls_completed,New Zealand Won by 87 runs
+54213,India in New Zealand T20I Series 2026,2026,2,124,120,9,120,172,0,172,,scheduled_balls_completed,New Zealand Won by 87 runs
+54214,India in New Zealand T20I Series 2026,2026,1,125,120,8,120,191,0,191,,scheduled_balls_completed,New Zealand Won by 7 wickets
+54214,India in New Zealand T20I Series 2026,2026,2,111,108,3,120,195,0,195,,target_reached,New Zealand Won by 7 wickets
+54408,Afghanistan vs India in India T20I Series 2026,2026,1,128,120,8,120,156,0,156,,scheduled_balls_completed,India Won by 7 wickets
+54408,Afghanistan vs India in India T20I Series 2026,2026,2,88,82,3,120,157,0,157,,target_reached,India Won by 7 wickets
+54409,Afghanistan vs India in India T20I Series 2026,2026,1,122,120,8,120,159,0,159,,scheduled_balls_completed,India Won by 7 wickets
+54409,Afghanistan vs India in India T20I Series 2026,2026,2,91,89,3,120,163,0,163,,target_reached,India Won by 7 wickets
+54410,Afghanistan vs India in India T20I Series 2026,2026,1,122,120,7,120,221,0,221,,scheduled_balls_completed,India Won by 127 runs
+54410,Afghanistan vs India in India T20I Series 2026,2026,2,89,85,10,120,94,0,94,,all_out,India Won by 127 runs
+54711,India in Japan T20I Match 2026,2026,1,32,30,4,30,32,0,32,33.0,scheduled_balls_completed,India Won by 2 runs
+54711,India in Japan T20I Match 2026,2026,2,32,30,3,30,30,0,30,33.0,scheduled_balls_completed,India Won by 2 runs
+55078,Sri Lanka in Pakistan T20I Series 2026,2026,1,127,121,8,120,181,1,182,,scheduled_balls_completed,Pakistan Won by 4 wickets
+55078,Sri Lanka in Pakistan T20I Series 2026,2026,2,115,113,6,120,187,0,187,,target_reached,Pakistan Won by 4 wickets
+55079,Sri Lanka in Pakistan T20I Series 2026,2026,1,125,120,3,120,215,0,215,,scheduled_balls_completed,Pakistan Won by 82 runs
+55079,Sri Lanka in Pakistan T20I Series 2026,2026,2,122,120,7,120,133,0,133,,scheduled_balls_completed,Pakistan Won by 82 runs
+55080,Sri Lanka in Pakistan T20I Series 2026,2026,1,123,120,8,120,168,0,168,,scheduled_balls_completed,Sri Lanka Won by 8 wickets
+55080,Sri Lanka in Pakistan T20I Series 2026,2026,2,106,103,2,120,172,0,172,,target_reached,Sri Lanka Won by 8 wickets
+55559,Afghanistan v Zimbabwe T20I Series 2026,2026,1,124,119,10,120,177,0,177,,all_out,Afghanistan Won by 37 runs
+55559,Afghanistan v Zimbabwe T20I Series 2026,2026,2,124,115,10,120,140,0,140,,all_out,Afghanistan Won by 37 runs
+55560,Afghanistan v Zimbabwe T20I Series 2026,2026,1,126,120,7,120,221,0,221,,scheduled_balls_completed,Afghanistan Won by 19 runs
+55560,Afghanistan v Zimbabwe T20I Series 2026,2026,2,128,120,5,120,202,0,202,,scheduled_balls_completed,Afghanistan Won by 19 runs
+55561,Afghanistan v Zimbabwe T20I Series 2026,2026,1,95,88,10,120,79,0,79,,all_out,Afghanistan Won by 7 wickets
+55561,Afghanistan v Zimbabwe T20I Series 2026,2026,2,52,49,3,120,81,0,81,,target_reached,Afghanistan Won by 7 wickets

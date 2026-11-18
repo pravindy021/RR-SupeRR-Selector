@@ -1,0 +1,7 @@
+dataset,rows,columns,missing_cells,duplicate_rows
+ball_by_ball,200999,33,766466,0
+competitions,141,4,0,0
+competition_team_player_mapping,6413,6,0,0
+matches,883,22,2736,0
+playing_eleven,28381,9,26012,0
+teams,353,3,0,0

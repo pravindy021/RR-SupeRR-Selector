@@ -1,0 +1,4 @@
+competition_group,match_format,pressure_matches,pressure_deliveries,pressure_batter_balls_faced,pressure_batter_runs,pressure_batter_strike_rate,pressure_bowler_legal_balls,pressure_bowler_runs_known,unallocated_bowler_extras,pressure_bowler_economy_known,pressure_bowler_wickets
+IPL,T20,364,30737,29193,46309,158.6304936114822,29092,48172,85,9.935102433658738,1858
+Other T20,T20,30,1822,1743,2312,132.64486517498565,1741,2406,4,8.291786329695578,124
+T20I,T20I,455,32881,31443,44787,142.43869859746206,31306,46581,99,8.927553823548202,2370

@@ -1,0 +1,51 @@
+match_id,competition,innings,source_limit_value,interpreted_legal_balls,ball_by_ball_present,match_result,status
+13612,Sri Lanka in Australia T20I Series 2022,2,114,114,True,Australia Won by 20 runs (D/L method),observed
+15410,South Africa in India T20I Series 2022,1,114,114,True,Match Abandoned,observed
+15546,Bangladesh in West Indies T20I Series 2022,1,84,84,True,No Result,observed
+16753,Afghanistan in Ireland T20I Series 2022,1,66,66,True,Afghanistan Won by 27 Runs,observed
+16754,Afghanistan in Ireland T20I Series 2022,2,42,42,True,Ireland Won by 7 Wickets(D/L Method),observed
+17395,Australia in India T20I Series 2022,1,48,48,True,India Won by 6 Wickets,observed
+17395,Australia in India T20I Series 2022,2,48,48,True,India Won by 6 Wickets,observed
+17765,England in Australia T20I Series 2022,1,72,72,True,No Result,observed
+17765,England in Australia T20I Series 2022,2,72,72,True,No Result,observed
+21586,IPL 2023,2,90,90,True,Chennai Super Kings Won by 5 wickets  (DLS method),observed
+19959,West Indies in South Africa T20I Series 2023,1,66,66,True,West Indies won by 3 wickets,observed
+21070,Ireland in Bangladesh T20I Series 2023,2,48,48,True,Bangladesh Won by 22 Runs (DLS method),observed
+21071,Ireland in Bangladesh T20I Series 2023,1,102,102,True,Bangladesh Won by 77 Runs,observed
+21071,Ireland in Bangladesh T20I Series 2023,2,102,102,True,Bangladesh Won by 77 Runs,observed
+28046,India in South Africa T20I Series 2023,2,90,90,True,South Africa won by 5 wickets (DLS),observed
+29984,Australia in New Zealand T20I Series 2024,2,60,60,True,Australia Won by 27 Runs (DLS method),observed
+31707,New Zealand in Pakistan T20I Series 2024,1,30,30,True,No Result,observed
+37354,Pakistan in Australia T20I Series 2024,1,42,42,True,Australia Won by 29 runs,observed
+37354,Pakistan in Australia T20I Series 2024,2,42,42,True,Australia Won by 29 runs,observed
+36098,South Africa in West Indies T20I Series 2024,1,78,78,True,West Indies Won by 8 wickets (DLS),observed
+36098,South Africa in West Indies T20I Series 2024,2,78,78,True,West Indies Won by 8 wickets (DLS),observed
+34428,India in Sri Lanka T20I Series 2024,2,48,48,True,India Won by 7 wickets(D/L Method),observed
+36208,South Africa in England T20I Series 2025,1,54,54,True,South Africa Won by 14 runs(DLS method),observed
+36208,South Africa in England T20I Series 2025,2,30,30,True,South Africa Won by 14 runs(DLS method),observed
+40727,IPL 2025,1,84,84,True,Punjab Kings Won by 5 wickets,observed
+40727,IPL 2025,2,84,84,True,Punjab Kings Won by 5 wickets,observed
+40749,IPL 2025,2,114,114,True,Gujarat Titans Won by 3 wickets (DLS Method),observed
+39809,Pakistan in New Zealand T20I Series 2025,1,90,90,True,New Zealand Won by 5 wickets,observed
+39809,Pakistan in New Zealand T20I Series 2025,2,90,90,True,New Zealand Won by 5 wickets,observed
+39983,Ireland in Zimbabwe T20I Series 2025,1,54,54,True,No Result,observed
+39985,Ireland in Zimbabwe T20I Series 2025,1,108,108,True,No Result,observed
+41851,West Indies in South Africa T20I Series 2026,1,60,60,True,West Indies Won by 6 runs(DLS Method),observed
+41851,West Indies in South Africa T20I Series 2026,2,60,60,True,West Indies Won by 6 runs(DLS Method),observed
+41975,India in Australia T20I Series 2025,1,108,108,True,No Result,observed
+46311,Australia in New Zealand T20I Series 2025,1,54,54,True,No Result,observed
+46311,Australia in New Zealand T20I Series 2025,2,54,54,False,No Result,no_delivery_records
+46749,England in New Zealand T20I Series 2025,1,84,84,True,No Result,observed
+50137,IPL 2026,1,66,66,True,Rajasthan Royals Won by 27 runs,observed
+50137,IPL 2026,2,66,66,True,Rajasthan Royals Won by 27 runs,observed
+50371,IPL 2026,1,114,114,True,Lucknow Super Giants Won by 9 runs (DLS method),observed
+50371,IPL 2026,2,114,114,True,Lucknow Super Giants Won by 9 runs (DLS method),observed
+48610,England in Sri Lanka T20I Series 2026,1,102,102,True,England Won by 11 runs (DLS method),observed
+48610,England in Sri Lanka T20I Series 2026,2,90,90,True,England Won by 11 runs (DLS method),observed
+48611,England in Sri Lanka T20I Series 2026,2,102,102,True,England Won by 6 wickets(DLS Method),observed
+50190,New Zealand in Bangladesh T20I Series 2026,1,90,90,True,New Zealand Won by 6 wickets (DLS Method),observed
+50190,New Zealand in Bangladesh T20I Series 2026,2,90,90,True,New Zealand Won by 6 wickets (DLS Method),observed
+50408,West Indies in India T20I Series 2026,1,54,54,True,No Result,observed
+50408,West Indies in India T20I Series 2026,2,54,54,False,No Result,no_delivery_records
+54711,India in Japan T20I Match 2026,1,30,30,True,India Won by 2 runs,observed
+54711,India in Japan T20I Match 2026,2,30,30,True,India Won by 2 runs,observed

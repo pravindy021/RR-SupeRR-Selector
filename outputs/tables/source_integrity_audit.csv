@@ -1,0 +1,20 @@
+finding,count,interpretation
+delivery_records,200999,Source ball-by-ball rows
+delivery_matches,867,Distinct match IDs in deliveries
+source_matches,883,Distinct match IDs in matches.csv
+source_competitions,141,Distinct competition IDs
+duplicate_delivery_rows,0,Exact duplicate delivery rows
+duplicate_match_ids,0,Repeated match keys
+duplicate_competition_ids,0,Repeated competition keys
+duplicate_team_keys,0,Repeated competition/team keys
+duplicate_identity_rows,0,Exact duplicate player-map rows
+unmatched_delivery_match_ids,0,Delivery rows without a source match
+unmapped_player_team_combinations,0,Role/team/competition combinations absent from identity map
+source_player_name_alias_pairs,1,Source names differing from mapping names
+dismissed_id_on_non_wicket_rows,12,Ignored for player dismissal attribution
+wickets_without_dismissed_id,1,Match wicket retained; player attribution unavailable
+boundary_flag_run_mismatches,0,Boundary flags inconsistent with source run value
+missing_batting_team_names,0,Delivery rows missing joined batting team
+missing_bowling_team_names,0,Delivery rows missing joined bowling team
+revised_first_innings_limits,25,Non-null source revised limits
+revised_second_innings_limits,25,Non-null source revised limits
