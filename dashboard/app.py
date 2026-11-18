@@ -1,4 +1,9 @@
+
+import sys
 from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT))
 
 import pandas as pd
 import streamlit as st
@@ -6,7 +11,6 @@ import streamlit as st
 from src.dashboard_helpers import compare_players, filter_rankings, rankings_csv_bytes
 
 
-ROOT = Path(__file__).resolve().parents[1]
 RANK_DIR = ROOT / "outputs" / "rankings"
 TABLE_DIR = ROOT / "outputs" / "tables"
 def _load_rankings(role):
